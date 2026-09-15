@@ -1,6 +1,6 @@
 # How Modular Arithmetic Works
 
-It is ten o'clock, and someone asks what time it will be in five hours. Nobody pauses to compute ten plus five and answer "fifteen o'clock." The answer arrives instantly as three o'clock, because clock time quietly wraps around after it reaches twelve. Nearly everyone performs this calculation dozens of times a week without ever thinking of it as mathematics, yet it is a complete, working example of an entire branch of number theory called modular arithmetic, in which numbers loop back on themselves after reaching a fixed limit instead of marching off toward infinity in a straight line.
+It is ten o'clock, and someone asks what time it will be in five hours. Nobody pauses to compute ten plus five and answer "fifteen o'clock." The answer arrives instantly as three o'clock, because clock time quietly wraps around after it reaches twelve. Nearly everyone performs this calculation dozens of times a week without ever thinking of it as mathematics, yet it is a complete, working example of an entire branch of number theory called modular arithmetic, in which numbers loop back on themselves after reaching a fixed limit instead of marching off toward infinity in a straight line. The same wraparound logic turns out to organize a surprising range of other everyday systems, and, once formalized, becomes one of the sturdiest tools in all of number theory.
 
 ## The Logic of the Clock Face
 
