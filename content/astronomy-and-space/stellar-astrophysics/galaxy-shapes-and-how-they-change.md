@@ -10,6 +10,8 @@ Edwin Hubble, better known for discovering that the universe is expanding, also 
 
 Hubble himself was cautious about implying that this sequence represented an evolutionary path from one type to another, and modern astronomy has confirmed that caution was warranted; the diagram is a useful way of organizing galaxies by appearance, but galaxies do not reliably evolve from one end of it to the other over their lifetimes in any simple, one-directional way.
 
+Sitting right at the junction of the fork, where ellipticals give way to spirals, is a transitional type called lenticular, or S0, galaxies: flattened, disk-shaped systems like spirals, but with no visible spiral arms and, like ellipticals, very little ongoing star formation. Lenticulars are often understood as spirals that have been stripped of their gas, whether through a close pass by a neighboring galaxy, gradual removal by the hot gas filling a cluster environment, or simply using up their own gas supply over a long, uneventful lifetime.
+
 ## What Makes a Spiral Spiral
 
 A spiral galaxy's arms are not fixed structures made of the same stars forever, the way rings might be, but more like traffic jams that move through the disk of stars and gas. The leading explanation involves density waves: regions of slightly higher gravitational pull that move through the galactic disk at a different speed than the stars and gas themselves, so that material temporarily piles up as it passes through a wave, then spreads back out on the other side. Gas compressed in this way is prone to collapsing and forming new stars, and since the hottest, most massive young stars are also the brightest and burn out the fastest, they light up the spiral arms in vivid blue before dying, marking out the wave pattern even as individual stars move through it and on.
@@ -21,6 +23,12 @@ This is why spiral arms tend to look bluer and more active than the rest of the 
 Elliptical galaxies present an almost opposite picture. They generally contain very little cold gas or dust, the raw material needed for new stars, and as a result their populations are dominated by older, redder stars formed long ago, with little ongoing star formation to replenish them. Rather than the organized, roughly circular orbits that define a spiral disk, stars within an elliptical galaxy move on orbits pointed in essentially random directions, giving the galaxy its smooth, three-dimensional shape rather than a flattened disk.
 
 The largest elliptical galaxies, often found at the centers of massive galaxy clusters, are among the biggest galaxies known, and their size and central location are not a coincidence: they are thought to have grown to their present scale largely by consuming smaller neighboring galaxies over cosmic history.
+
+## Where a Galaxy Lives Shapes What It Becomes
+
+Location in the universe turns out to correlate strongly with galaxy type. Dense galaxy clusters, packed with hundreds or thousands of member galaxies, are dominated by ellipticals and lenticulars, while spiral galaxies are comparatively rare in cluster cores and much more common out in the sparser field between clusters. This pattern, sometimes called the morphology-density relation, reflects the rougher environment inside a cluster: galaxies there move at high speed relative to one another, encounters and near-misses are frequent, and the cluster is filled with a haze of hot, thin gas that can strip a spiral galaxy of its own gas supply as it plows through, cutting off future star formation and leaving a passive, gas-poor galaxy behind even without a full merger ever occurring.
+
+Field galaxies, by contrast, evolve in comparative isolation, encountering neighbors infrequently enough that many spirals survive largely undisturbed for most of cosmic history, retaining the gas supply that keeps their arms lit with new stars. A galaxy's shape, in other words, is not simply a fixed trait it was born with, but partly a record of the neighborhood it has spent its life in.
 
 ## When Galaxies Collide
 
