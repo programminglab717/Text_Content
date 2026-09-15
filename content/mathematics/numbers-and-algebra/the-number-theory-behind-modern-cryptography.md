@@ -1,6 +1,6 @@
 # The Number Theory Behind Modern Cryptography
 
-Somewhere between typing a credit card number into a browser and that number arriving safely at a distant server, a small mathematical miracle happens, one that depends entirely on how hard it is to take a very large number and figure out which two smaller numbers were multiplied together to produce it. Nobody involved in the transaction needs to know this. The padlock icon in the address bar is doing its job precisely by hiding the machinery, but the machinery itself is number theory, developed originally with no commercial purpose whatsoever, now running quietly underneath nearly every private exchange of information on the internet.
+Somewhere between typing a credit card number into a browser and that number arriving safely at a distant server, a small mathematical miracle happens, one that depends entirely on how hard it is to take a very large number and figure out which two smaller numbers were multiplied together to produce it. Nobody involved in the transaction needs to know this. The padlock icon in the address bar is doing its job precisely by hiding the machinery, but the machinery itself is number theory, developed originally with no commercial purpose whatsoever, now running quietly underneath nearly every private exchange of information on the internet, from a login password to a hospital's patient records to the vote tallies of an online election.
 
 ## A Problem as Old as Secrets Themselves
 
