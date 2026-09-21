@@ -72,6 +72,22 @@ since. And a concentrated court's ruling typically annuls the statute for
 everyone, with effect from a stated date, which is legislative in a way an
 American judgment formally is not.
 
+A confusing feature of the phrase is that in Britain and much of the
+Commonwealth, judicial review usually means something else entirely: the
+review not of statutes but of decisions made by ministers, agencies, councils
+and tribunals under statutes. That jurisdiction is far older and far busier
+than constitutional review, and it asks different questions. Did the official
+act within the powers Parliament actually granted? Was the procedure fair —
+was the affected person told the case against them and given a chance to
+answer, and was the decision-maker free of personal interest? Was the
+conclusion one no reasonable authority could have reached? Were relevant
+considerations taken into account and irrelevant ones excluded? Every
+developed legal system has some version of this, whether through ordinary
+courts or, as in France, through a separate administrative jurisdiction with
+its own hierarchy. For most citizens it matters more than constitutional
+litigation, because it is the mechanism that reaches planning permissions,
+benefit denials, licensing decisions and deportation orders.
+
 ## Weak Versions, Deliberately
 
 Some systems wanted rights review without giving courts the final word. The
@@ -119,6 +135,19 @@ read them down, sever the offending clause, or order the government to report
 back on implementation. Each of these is an attempt to solve the problem that
 striking a law down entirely often produces a worse situation than the one
 complained of.
+
+How the judges are chosen follows the model. Where review is concentrated,
+constitutional judges are usually selected by an explicitly political process
+with an explicitly political balance — in Germany, elected by large
+supermajorities in the two chambers, which forces agreement across party
+lines, and serving a single long term with no possibility of reappointment, so
+that nobody is auditioning for renewal. Terms are staggered so that no single
+government appoints the whole bench. Life tenure, as in the United States,
+produces the opposite incentives: vacancies arrive at random, each one is
+enormous, and the timing of retirements becomes a strategic decision. Neither
+arrangement removes politics from the selection. They distribute it
+differently, and the difference shows up in how far a court is willing to get
+ahead of the political branches.
 
 ## The Objection That Never Goes Away
 

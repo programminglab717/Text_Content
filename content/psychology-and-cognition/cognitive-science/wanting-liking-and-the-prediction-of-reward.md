@@ -6,6 +6,8 @@ So they built the obvious apparatus. A lever, wired so that pressing it delivere
 
 The immediate interpretation was that they had found the pleasure center, and for about two decades that reading held. It was wrong in a way that took a long time to see, and the correction turns out to be the most interesting thing in the field.
 
+The finding crossed into humans quickly and badly. Through the 1950s and 1960s several groups implanted electrodes in psychiatric and neurological patients and let them self-stimulate, most notoriously Robert Heath at Tulane, in work whose consent arrangements and therapeutic aims would not survive any modern review board. What the patients reported is the part worth keeping. They pressed compulsively, and when asked what it felt like they generally did not describe rapture. They described wanting to press again, an urgency, a sense that something was about to happen — closer to the feeling of being on the verge of something than to the feeling of having got it.
+
 ## What Is Actually Down There
 
 The electrode was near the medial forebrain bundle, a thick fiber tract carrying, among much else, the axons of dopamine neurons headed from the midbrain to the forebrain. Those cell bodies sit in two small clusters: the ventral tegmental area and the substantia nigra. They are not numerous — a few hundred thousand in a human brain, against tens of billions of neurons overall — but each one branches extravagantly, so that a modest population blankets enormous stretches of forebrain.
@@ -37,6 +39,10 @@ Now deplete a rat's dopamine severely. The animal stops working for food. It wil
 Run the experiment the other way and the dissociation holds. Boost dopamine function, or sensitize the system with repeated stimulant exposure, and animals work far harder for rewards and are far more strongly gripped by cues that predict them — without any increase in the liking reactions. More wanting, the same amount of pleasure.
 
 Berridge's term for what dopamine does is incentive salience: it makes things and the cues that signal them magnetic, worth approaching, hard to ignore. Liking is generated elsewhere, by opioid and endocannabinoid signaling in small hedonic hotspots within the nucleus accumbens shell and the ventral pallidum, regions where a microinjection can amplify the pleasure of a sweet taste. Those hotspots are tiny. The wanting system is vast. We are built to pursue much more thoroughly than we are built to enjoy.
+
+A third strand of evidence comes from what dopamine does to effort. John Salamone's experiments gave rats a choice between climbing a barrier to reach a preferred food and eating a less preferred food freely available in the same chamber. Normal rats climb. Rats with accumbens dopamine depleted stop climbing and eat the cheap option instead — they have not lost their preference, and they will still eat the good food happily if it is placed within reach, but they will no longer pay for it. Dopamine sets the price the animal is willing to meet. That framing has since carried over into human work on effort-based decision making, where the willingness to exert for a payoff turns out to be a measurable trait that moves with dopaminergic drugs and that is reduced in several disorders.
+
+Underneath the fast bursts there is also a slow one. Dopamine neurons maintain a background firing rate, and the resulting ambient concentration seems to track something more like the average rate of reward available in the current situation — an estimate of how rich the environment is, which sets how vigorously it is worth doing anything at all. The brief phasic burst says this particular thing was better than expected. The tonic level says whether it is worth getting out of bed.
 
 ## The Clinical Edge
 

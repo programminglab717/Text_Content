@@ -44,6 +44,18 @@ have produced alone. No one has been exploited and no one has won at anyone
 else's expense. The gain comes from the difference in the ratios, and it would
 vanish only if the ratios were identical.
 
+The theorem establishes that there are gains. It does not say how they are
+split. That depends on the price at which the goods actually exchange — the
+terms of trade — and that price settles somewhere between the two countries'
+internal trade-offs, determined by the relative size of world demand for each
+good. A small country trading with a large one usually captures most of the
+gain, because the large country's prices barely move and the small one's move
+all the way; a country exporting something many others also export will find
+the terms turning against it as they all expand. Commodity producers have spent
+a century discovering this. The improvement is still an improvement, but the
+distribution of it between partners is a matter of market power rather than of
+theory.
+
 David Ricardo published this in 1817, using England and Portugal, cloth and
 wine. He was explicit about an assumption that later readers often skip: that
 capital stays home. If capital could move freely to wherever labour was
@@ -110,6 +122,20 @@ rather than resolving in a few. People did not move as readily as the models
 assumed, and those who did not move stayed poorer. The aggregate gains were
 real and the local damage was also real, and the aggregate gains were collected
 mostly by people who were not in those towns.
+
+There is also a serious argument about time horizons that the static theorem
+cannot address. If today's comparative advantage is partly the residue of
+yesterday's decisions — accumulated skills, supplier networks, engineering
+traditions — then specialising according to present costs can lock a country
+into whatever it happens to be doing now. Alexander Hamilton made this case for
+American manufactures in 1791 and Friedrich List made it for Germany half a
+century later, and the post-war industrial policies of Japan, Korea and Taiwan
+were built on the same premise: protect and subsidise an industry through the
+years when it cannot compete, on the bet that it eventually will. The record is
+mixed in an instructive way. The successes are real, and so is the much longer
+list of protected industries that never grew up and simply collected the
+subsidy, because the political machinery that grants protection is not good at
+withdrawing it.
 
 The textbook answer is that winners can compensate losers and still come out
 ahead. That is arithmetically sound and politically almost never done. A trade

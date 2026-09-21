@@ -1,7 +1,7 @@
 # Heuristics and Biases in Judgment
 
 Steve is shy and withdrawn, invariably helpful but with little interest in
-people or in the world of reality. He is meek and tidy, with a need for order
+people or in the world around him. He is meek and tidy, with a need for order
 and structure and a passion for detail. Is Steve more likely to be a librarian
 or a farmer?
 

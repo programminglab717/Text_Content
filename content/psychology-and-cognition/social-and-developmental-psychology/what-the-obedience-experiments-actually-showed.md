@@ -4,7 +4,7 @@ The machine is a grey box with a row of thirty toggle switches, each labeled
 with a voltage and each group of four labeled again with a phrase: Slight Shock,
 Moderate Shock, Intense Shock, Danger: Severe Shock. The last two switches carry
 no words, only XXX. It was built to be convincing and it was convincing; it
-still sits in an archive at Akron. Almost everything a person on the street can
+survives today in a museum collection. Almost everything a person on the street can
 tell you about social psychology traces back to this box and to two or three
 other pieces of apparatus from the same two decades — a slide projector, a set
 of printed cards, a basement corridor fitted out as a jail. Those studies are
@@ -55,7 +55,7 @@ beyond three or four added almost nothing.
 
 Asch himself argued that the result was about the stubbornness of independence
 as much as the pull of the group, a reading the textbooks quietly dropped.
-Later work has qualified it further. A British replication in the 1970s found
+Later work has qualified it further. A British replication carried out decades later found
 very little conformity, prompting the suggestion that the original result owed
 something to a particularly conformist American decade. Cross-national
 comparisons suggest conformity in these tasks runs higher in societies with more

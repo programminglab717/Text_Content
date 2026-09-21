@@ -39,6 +39,19 @@ choice, the lens compresses or exaggerates distance, the exposure decides what
 is visible in shadow, and the caption — which no camera produces — supplies
 the who, where, when and why on which almost all the meaning depends.
 
+Courts worked this out early and codified it in a way journalism never quite
+did. For most of the medium's legal history a photograph was not admitted as a
+thing that spoke for itself; it was admitted as an illustration of what some
+human witness was already prepared to swear to, and it came in only if that
+witness testified the image fairly represented what they had seen. The camera
+was a visual aid attached to a person who could be cross-examined. Only later,
+with automated surveillance footage that no witness had observed, did courts
+develop a separate route to admission — one that turns almost entirely on
+proving the equipment worked properly and the recording was not tampered with
+between capture and courtroom. The shift is telling: when the human witness
+disappeared, the burden moved to chain of custody. The picture still could not
+authenticate itself.
+
 Roger Fenton, photographing the Crimea in 1855 with a wagon full of wet plates
 that had to be coated, exposed and developed within minutes, made two frames
 of a shell-scarred ravine. In one the cannonballs lie in the gullies beside
@@ -91,6 +104,17 @@ until the surviving prints showed a shrinking cast of leaders standing beside
 progressively emptier space. The collector David King assembled a book of
 before-and-after pairs that reads as a political history told entirely in
 erasures.
+
+A subtler category sits between honest reportage and outright fabrication: the
+image that may or may not have been staged, where the evidence has been argued
+for decades without resolution. Robert Capa's picture of a Spanish militiaman
+collapsing backwards at the instant of being shot, published in 1936, is the
+standing example. Researchers have disputed the location, the identity of the
+man, whether any fighting occurred there that day, and whether the frame
+belongs to a sequence of posed manoeuvres photographed behind the lines. The
+image remains extraordinary and its status remains unsettled, which is itself
+the lesson — a photograph whose provenance was never carefully recorded cannot
+be rescued afterwards by how much it looks like the truth.
 
 In commercial publishing the line moved slowly and then all at once. A
 magazine that digitally narrowed the gap between two pyramids in the early
