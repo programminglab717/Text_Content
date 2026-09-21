@@ -127,6 +127,23 @@ appears repeatedly in the divination records leading troops, conducting rituals
 and, in that one sequence, giving birth. Her name on the bronzes matched her
 name on the bones. Text and burial confirmed each other.
 
+The excavations also explained why divination sat at the centre of Shang
+government rather than off to one side of it. Shang religion was ancestral. The
+dead kings, addressed on the days named after them, retained influence over
+rain, harvest, sickness and war, and above them stood a remote high power whom
+nobody approached directly. Access ran through the royal line, and the reigning
+king stood at its living end — the one person who could put a question to the
+ancestors or send them food with any confidence of being heard. The heavy
+bronze vessels cast at Anyang in assembled ceramic moulds, cauldrons and wine
+warmers and steamers covered in dense abstract animal masks, were the serving
+equipment for those ancestral meals, and the quantity buried in elite tombs
+shows how much of the economy's metal, fuel and skilled labour the ritual
+absorbed. A Shang king presided over a loose network of allied lineages and
+subordinate towns with very little administrative machinery to show for it.
+What he had instead was indispensability. Cracking bones in public, and
+recording the outcome in writing that almost nobody else could read, was that
+monopoly made visible.
+
 ## A Script That Never Broke
 
 Around four thousand distinct graphs appear in the corpus, of which perhaps a
