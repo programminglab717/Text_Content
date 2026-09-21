@@ -120,6 +120,25 @@ shift. Clinicians used to call this maturing out. It is invisible to treatment
 services, which see the people for whom it did not happen, and that sampling
 bias has shaped professional intuitions about how intractable the condition is.
 
+Timing is part of the explanation on both ends. Addiction is overwhelmingly a
+disorder that starts young. The great majority of people who develop one began
+using heavily in adolescence or early adulthood, during the long window in
+which reward circuitry is already running hot and the prefrontal systems that
+restrain it are still being built. A brain in that state learns fast, which is
+the point of adolescence, and learns drug associations fast as well. Someone
+who reaches thirty without a serious problem is statistically unlikely to
+acquire one, which is why prevention efforts concentrate on delay rather than
+on lifelong vigilance.
+
+The other consistent risk signal is early adversity. Childhood abuse, neglect,
+and household chaos show a graded relationship with later substance problems —
+more exposure, higher risk — and the relationship holds after the obvious
+confounders are accounted for. The mechanism is not mysterious. A drug that
+reliably shuts off an intolerable internal state is doing something valuable
+for the person taking it, and the more intolerable the baseline, the more
+valuable it is. Clinicians who have absorbed this tend to stop asking why
+someone is still using and start asking what the using is for.
+
 ## What Helps
 
 The most striking evidence in the field concerns opioid agonist treatment —

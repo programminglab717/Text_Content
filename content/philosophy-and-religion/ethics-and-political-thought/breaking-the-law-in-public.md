@@ -114,6 +114,21 @@ marches were regarded at the time as dangerous provocations by a large majority
 of the country, and in which their effectiveness depended precisely on producing
 the crisis that the letter's critics wanted avoided.
 
+Legal systems have their own quiet answer to all of this, which is rarely
+stated as doctrine and works anyway. Courts almost never accept that a political
+motive makes an act lawful; the necessity defence, which asks a jury to find that
+breaking the law averted a greater harm, is admitted grudgingly and succeeds
+rarely. But motive routinely surfaces at sentencing, where judges distinguish
+between a person who blocked a road out of conviction and one who did it for
+profit, and juries have always retained the raw power to acquit against the
+evidence when a prosecution offends them. The system, in other words, maintains
+the formal position that conscience is no excuse while leaving several channels
+through which conscience leaks back in. That arrangement is unprincipled and
+probably necessary. A legal order that formally recognized a right to disobey
+would have to specify its conditions in advance, and any such specification
+either invites abuse or, more likely, rules out the very campaigns that later
+turn out to have been right.
+
 ## The Cases That Don't Fit
 
 The frame was built for a particular kind of campaign: an identifiable excluded
