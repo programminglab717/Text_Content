@@ -138,26 +138,34 @@ character or the narrator, a reader can lose track of who is asserting what. Mos
 writers handle this by anchoring the paragraph — one clearly attributed thought
 near the start — and then letting the rest run free.
 
-## Unreliability, and What Makes It Work
+## Unreliability Is a Distance Effect
 
-Every first-person narrator is unreliable in the trivial sense that people are
-limited. The interesting cases are the ones where the gap between what the
-narrator says and what the reader can see becomes the subject of the book.
-Unreliability only functions if the reader has some independent access to the
-facts. That access has to be smuggled in through details the narrator reports
-without understanding: a servant's expression, a date that does not fit, a
-kindness offered and refused.
+Everything above treats point of view as a question of access: who sees, who
+speaks, how near the prose sits. Unreliability is what happens when that access
+is granted and then quietly shown to be faulty, and it is best understood as a
+consequence of the distance setting rather than as a separate genre trick.
 
-Kazuo Ishiguro's *The Remains of the Day* is built almost entirely out of this
-mechanism. The butler narrating it is scrupulously honest about events and
-systematically wrong about their meaning, and everything the reader learns about
-his wasted life arrives through his own careful, oblivious reporting. Nothing is
-revealed by a second voice. The novel simply trusts the reader to notice.
+The mechanism needs two channels. One is the narrator's account. The other is
+whatever the reader can assemble independently — and since the narrator controls
+every word, that second channel has to be built out of material the narrator
+reports without grasping. A remark from somebody else that lands harder than the
+narrator registers. An action that contradicts a stated motive. A small fact
+mentioned once and not pursued.
 
-The failure mode is a narrator who lies for no reason except to enable a late
-twist. Withholding is not the same as unreliability. A narrator who conceals a
-central fact she thinks about constantly, purely so the author can spring it, has
-broken the compact that made her worth listening to.
+This is available in third person as well, which is why unreliability is more
+accurately described as a property of focalization than of first-person voice. A
+close third limited to a self-deceived character, written in free indirect style,
+produces the same double exposure. Emma Woodhouse never addresses the reader and
+is not narrating anything, and yet a reader spends most of the novel a full step
+ahead of her, reaching conclusions the prose declines to state. What makes that
+possible is purely a distance setting: near enough to inhabit her confidence, far
+enough that the narration's silences read as judgment.
+
+The failure mode is a narrator who withholds rather than misunderstands.
+Concealment is not unreliability. A narrator who avoids mentioning a fact she
+thinks about constantly, purely so that a late chapter can produce it, has not
+been unreliable; she has been managed, and readers who notice feel handled rather
+than surprised.
 
 ## Holding the Line
 
