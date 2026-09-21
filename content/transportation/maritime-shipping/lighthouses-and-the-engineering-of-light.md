@@ -12,7 +12,7 @@ A silk merchant named Rudyerd built the second, and built it better by building 
 
 The third tower was John Smeaton's, finished in 1759, and it is the one that changed engineering. Smeaton reasoned from the shape of an oak trunk — broad and flared at the base, tapering with a concave curve, the profile of something that has evolved to resist being pushed over. He cut the rock into level steps and dovetailed his granite blocks into those steps and into each other, so that the tower was not a stack of stones held down by weight but a single interlocked mass. To bind it he developed a lime mortar that would set under water, working out that the hydraulic property came from clay content in the limestone. That discovery ran directly into the development of modern cement.
 
-Smeaton's tower stood for over a century and was eventually replaced not because the tower failed but because the rock beneath it was being undercut by the sea. The upper portion was dismantled and re-erected on Plymouth Hoe, where it still stands as a monument, while James Douglass built the present tower on sounder rock nearby. Smeaton's stump is still out there beside it, too solid to be worth removing.
+Smeaton's tower stood for over a century and was eventually replaced not because the tower failed but because the rock beneath it was being undercut by the sea. The upper portion was dismantled and re-erected on Plymouth Hoe, where it remains a monument and a public curiosity, while James Douglass built the present tower on sounder rock nearby. Smeaton's stump is still out there beside it, too solid to be worth removing.
 
 ## The Stevensons and the Impossible Sites
 
