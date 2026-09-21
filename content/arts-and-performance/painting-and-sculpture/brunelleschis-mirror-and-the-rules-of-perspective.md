@@ -84,7 +84,7 @@ but murderous, so the period also produced instruments. Alberti described a
 veil: a thin cloth stretched on a frame and ruled into squares with thread,
 set between painter and subject, with a fixed sight to keep the eye in one
 position. Whatever falls in a given square of the veil goes into the matching
-square of a gridded sheet, and the foreshortening takes care of itself. Durer,
+square of a gridded sheet, and the foreshortening takes care of itself. Dürer,
 who went to Italy specifically to find out how the Italians were doing this, cut
 woodcuts of several such devices: the gridded frame, a sighting rig with a taut
 string standing in for a ray of light, a glass pane drawn on directly. They are
