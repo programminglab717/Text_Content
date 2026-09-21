@@ -107,6 +107,18 @@ part of that spread is vascular. What is bad for arteries is bad for cognition,
 and hypertension, diabetes, and smoking in midlife predict cognitive outcomes
 decades later with depressing reliability.
 
+How the measurements are taken also shapes the picture, and the two standard
+designs disagree. Comparing seventy-year-olds with thirty-year-olds today
+confounds age with everything else that differs between the cohorts: years of
+schooling, childhood nutrition, familiarity with the testing format, lifetime
+exposure to lead and tobacco. Such comparisons make decline look earlier and
+steeper than it is. Following the same people for decades removes that
+confound but introduces others — the least healthy participants drop out, and
+the survivors get repeated practice at the tests. Long-running longitudinal
+studies have generally found the onset of meaningful decline later than the
+snapshot comparisons suggest, with most abilities holding reasonably steady
+through the fifties and into the sixties before the curves begin to bend.
+
 ## What Actually Helps
 
 The honest summary of the intervention literature is short. Aerobic exercise

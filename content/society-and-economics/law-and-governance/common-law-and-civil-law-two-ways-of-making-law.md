@@ -72,6 +72,19 @@ deliberate choice rather than conquest, in places like Japan, which studied
 German law intensively while modernizing, and Turkey, which took over the
 Swiss civil code wholesale.
 
+Codification did not end judicial lawmaking; it relocated and disguised it.
+The French code devoted only a handful of short articles to liability for harm
+— the famous one says in a single line that a person who causes damage to
+another by fault must repair it — and out of that sentence French courts built
+an entire modern law of accidents, including strict liability for things in
+one's custody, which the drafters plainly did not have in mind when railways
+and motor cars did not exist. The code's brevity, initially a virtue of
+accessibility, became an invitation. German courts did something comparable
+with the general clauses of their code, using the requirement that obligations
+be performed in good faith as a hook for whole doctrines the legislature never
+wrote, from duties of pre-contractual disclosure to the renegotiation of
+contracts wrecked by hyperinflation.
+
 ## What a Judge Is For
 
 The deepest practical difference is the judge's job description. A common law
@@ -83,6 +96,18 @@ about whether the present case is meaningfully like or unlike the earlier one
 precedent to change direction without admitting it. Judgments are long,
 signed, personal in style, and often accompanied by dissents that later
 generations quarry for material.
+
+Who becomes a judge follows from this. In England, and in most systems
+descended from it, judges are recruited late, from senior practitioners who
+have argued before the courts for decades; judging is a capstone, often a
+single rank held for the rest of a career, and the bench is small. On the
+continent, judging is a career entered young. A law graduate sits a
+competitive examination, trains in a judicial school, takes a junior post, and
+is promoted through a hierarchy by a body that evaluates performance. That
+produces a judiciary that is numerous, professional, salaried, and
+institutionally cautious — well suited to applying a code and managing a file,
+poorly suited to the frank policy-making that a common law appellate judge is
+expected to do in public and under their own name.
 
 A civil law judge, in the classical account, applies the code to the facts and
 is not supposed to be making law at all. The French Cour de cassation

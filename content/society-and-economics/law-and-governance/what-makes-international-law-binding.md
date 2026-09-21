@@ -23,8 +23,8 @@ occasionally violating in ways they take pains to justify in legal terms.
 
 International law has no legislature, so its sources are unusual. The standard
 enumeration, drawn from the statute of the International Court of Justice,
-lists treaties, custom, and general principles of law recognized by civilized
-nations, with judicial decisions and scholarly writing as subsidiary means of
+lists treaties, custom, and general principles of law common to national legal
+systems, with judicial decisions and scholarly writing as subsidiary means of
 determining what the rules are.
 
 Treaties are the easy case. A treaty is a written agreement between states,

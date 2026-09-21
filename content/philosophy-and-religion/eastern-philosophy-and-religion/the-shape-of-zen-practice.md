@@ -101,6 +101,17 @@ The Chinese master credited with writing the first monastic rules for the
 school is remembered for a line about work that his community used against him
 when they hid his tools to make him rest, whereupon he refused to eat.
 
+Mornings and evenings include a service. Everyone files in, bows, and chants —
+most reliably the short text on emptiness that runs through the list of what is
+absent and ends in a mantra nobody translates, delivered fast, low, and in
+unison, on one breath per phrase, with a drum keeping the pace and a bowl-gong
+marking the turns. Newcomers often find this the hardest thing to accept,
+having come for silent meditation and been handed liturgy in a language they do
+not speak. The usual defense is that a chant done well is a whole-body
+concentration exercise that happens to have words in it, and that unison
+singing does something to a group of strangers that sitting silently beside
+them does not.
+
 A multi-day intensive retreat compresses all of this. Rising around four,
 sitting a dozen or more periods, silence throughout, sleeping little, for five
 or seven days. Somewhere around the third day most people hit a wall and then
@@ -128,6 +139,16 @@ the Song these encounters had been collected, arranged, and fitted with
 commentary and verse into the two anthologies that anchor koan practice to this
 day. The freewheeling era and the systematizing era are not the same era, and
 the spontaneity we admire reaches us entirely through the editors.
+
+The Chinese school also travelled without passing through Japan, and the
+results are worth knowing about, since English-language Zen can give the
+impression that Japan is the whole story. In Korea the tradition took up a
+practice built around sustaining the questioning energy of a koan's key phrase
+rather than the phrase itself, and a great medieval teacher there worked out a
+reconciliation of sudden awakening with gradual cultivation that the Japanese
+schools never quite adopted. Vietnamese practice kept a closer relationship
+with devotional and Pure Land elements, which orthodox Japanese Zen tends to
+hold at arm's length.
 
 Dogen belongs to the systematizing side. He returned from China convinced that
 the practice was being sold short, and wrote both a plain set of instructions
