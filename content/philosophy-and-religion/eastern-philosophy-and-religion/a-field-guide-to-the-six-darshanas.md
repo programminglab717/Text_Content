@@ -99,6 +99,15 @@ and obscuring — and every object and mental state is a particular ratio of the
 three. Effects pre-exist in their causes, the way oil is already in the seed;
 nothing is created, only unfolded.
 
+The unfolding is specified in detail, and the order is the reverse of what a
+modern reader expects. Out of undifferentiated prakriti emerges intellect
+first, then the sense of I-ness, and only from that do mind, the five capacities
+of perception, the five of action, and five subtle essences appear — with the
+gross elements of earth, water, fire, air, and ether arriving last. Matter does
+not build up toward mind. Mind precipitates out toward matter, and the count of
+twenty-five principles that results is the skeleton on which much later Indian
+psychology was hung, including by schools that rejected the rest of Samkhya.
+
 Bondage is a category error. Consciousness, which merely witnesses, is
 misidentified with the intellect it illuminates, so that the witness seems to
 act and suffer. Liberation is discrimination: seeing clearly that these are
@@ -151,3 +160,16 @@ animates it: genuinely distinct, never independent. Madhva went further and
 made difference itself ultimate, enumerating five eternal distinctions that no
 realization dissolves. All three claimed the same aphorisms, quoted the same
 verses, and accused each other of reading badly.
+
+For all that, the disagreements ride on a common chassis. Nearly every school
+assumes that action leaves residues, that residues propel rebirth, that the
+cycle is not desirable, and that release is available — Mimamsa being the
+holdout, since its original aim was a heaven won by correct ritual rather than
+escape from the round altogether, a position its later commentators quietly
+revised. Nearly every school also agrees that what binds you is a mistake, some
+species of ignorance, and that removing it is therefore a cognitive
+achievement rather than a moral or a political one. Practically the entire
+argument, across all six systems and the heterodox ones besides, is about what
+exactly the mistake is: confusing the witness with the intellect, the self with
+the aggregates, the rope with the snake, or the body with the soul that wears
+it. They agreed you were asleep. They fought about the dream.
