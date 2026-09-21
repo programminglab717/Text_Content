@@ -43,6 +43,21 @@ maintained a trunk road running from the northwest across the Ganges plain, and
 by the third century BCE administered territory from Afghanistan to Karnataka,
 which is not something a light-touch government does.
 
+Holding it together depended on a handful of provincial capitals — Taxila in
+the northwest, Ujjain in the west, Tosali in the east, Suvarnagiri in the south
+— each run by a prince of the royal house with officials under him. Ashoka's
+inscriptions address these men directly, and in doing so expose the weak point
+of the whole arrangement. One edict aimed at the magistrates of a provincial
+city tells them that all people are the king's children, that some prisoners
+are being detained or harshly treated without good cause, and that a touring
+officer will be sent from the capital every few years to check that the
+instruction is being obeyed. A ruler who has to carve that order into rock, and
+schedule the audit years in advance, plainly cannot see what his own
+administrators are doing. Mauryan authority is probably best imagined not as a
+blanket laid over the subcontinent but as a network: dense along the trunk
+roads and around the provincial centres, thin in the forests and hill country
+in between.
+
 Chandragupta's grandson came to the throne around 268 BCE after what later
 tradition insists was a violent succession struggle. His name was Ashoka.
 

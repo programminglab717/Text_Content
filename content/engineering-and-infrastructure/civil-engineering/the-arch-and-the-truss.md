@@ -126,6 +126,8 @@ vertically, move to the next. Suddenly a bridge could be sized rather than
 proportioned by precedent, and the size of members could be checked against the
 tested strength of the iron.
 
+## Where Trusses Actually Break
+
 What calculation did not immediately fix was everything in a truss that is not a
 bar. Trusses fail at their connections and in their compression members far more
 often than they fail by a tension member reaching its strength. The Quebec

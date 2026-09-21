@@ -37,6 +37,18 @@ organised a single occupation: the bakers, the goldsmiths, the fullers, the
 saddlers, each with its own ordinances, its own officers, and its own chapel or
 altar in a parish church.
 
+Guilds also left their shape on the street plan, which is why so many old town
+centres still have a Shambles, a Coppergate, a Rue des Tanneurs. Trades
+clustered, partly because guild rules required members to work where the wardens
+could find them and customers could compare goods, partly because tanning and
+dyeing and smithing each needed particular things — running water, space for
+stinking pits, tolerance of fire — and neighbours who would put up with them. A
+workshop was usually the ground floor of a narrow house on a narrow plot, with a
+hinged shutter on the street that dropped down to make a counter by day and was
+barred at night. Master, wife, children, apprentices and a journeyman or two ate
+at the same table and slept above the shop. Work was not somewhere you went. It
+was the front room.
+
 The craft guild's structure was an apprenticeship ladder. A boy was bound to a
 master for a term of years, commonly around seven, during which the master owed
 him food, lodging, instruction and discipline, and owned his labour. Coming out
@@ -81,6 +93,18 @@ with a reputation to protect, and that unrestrained rivalry among its members
 would end by debasing the product and impoverishing everyone in it. The
 consequence, intended or not, was an economy in which output per shop was capped
 by agreement.
+
+The crafts also turned out to be a political formation. In the thirteenth
+century most towns were run by a narrow patriciate of merchant and landowning
+families who filled the council by co-option and treated the office as property.
+Through the fourteenth century, in one German and Flemish town after another,
+the craft guilds forced their way in — sometimes by petition, sometimes by
+armed risings — and won a fixed share of the council seats, with the result that
+a man's place in civic government came to depend on which guild he belonged to.
+It was a real widening of participation and a strictly limited one. The vote
+went with mastership, mastership went with capital and connections, and the
+half of the urban population that worked for wages gained nothing from it at
+all.
 
 ## The People Outside the Arrangement
 
