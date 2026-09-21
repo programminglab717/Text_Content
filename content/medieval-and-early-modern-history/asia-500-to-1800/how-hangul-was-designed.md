@@ -154,9 +154,8 @@ Japanese in its teaching manuals. Those transcriptions are now valuable evidence
 for historical linguists reconstructing how all of those languages sounded
 several centuries ago.
 
-But the yangban kept writing Chinese, decade after decade,
-because the examinations were in Chinese and careers ran through the
-examinations. The vernacular script acquired the dismissive name eonmun, the
+But the yangban kept writing Chinese, decade after decade, because the
+examinations were in Chinese and careers ran through the examinations. The vernacular script acquired the dismissive name eonmun, the
 vulgar writing, and later the sneer of being women's script. Early in the
 sixteenth century a king who found anonymous criticism of himself posted in it
 banned its study outright, though the prohibition did not hold for long.

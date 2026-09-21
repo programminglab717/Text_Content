@@ -43,6 +43,22 @@ along the street below the theatre. The system got the city its festival
 without taxation and got the wealthy a socially acceptable way to spend money
 competitively.
 
+Who exactly sat on the benches has never been settled. Admission cost a small
+sum, and the state eventually maintained a fund to cover the price for citizens
+who could not pay, which tells us both that money changed hands and that the
+city had come to treat attendance as something close to a civic entitlement.
+Seating seems to have been allocated in blocks — by tribe, with sections for
+the council, for young men doing their military training, and for visiting
+foreigners. Whether Athenian women were present at all is genuinely disputed:
+no surviving text says plainly that they were, several passages read more
+naturally if they were, and the silence may only reflect that respectable women
+were not mentioned in public. What is not in doubt is the scale. Thousands sat
+on the wooden benches, and well over ten thousand could fit once the theatre
+was rebuilt in stone, which meant the audience contained a large share of the
+same men who would be voting on the Pnyx a few days later. A playwright could
+assume they all knew the same politicians, the same rumours, and the same
+recent bad news.
+
 ## The Space
 
 The performance area was the orchestra, a flat circle of packed earth with a

@@ -74,6 +74,32 @@ fifteenth century, envoys went back to China, and a giraffe sent from Malindi
 reached the imperial court, where it was received with some excitement as a
 sign of heavenly approval.
 
+## Sewn Ships and Unexpected Cargoes
+
+The vessels were as distinctive as the buildings. Western Indian Ocean
+shipwrights built hulls without nails, stitching the planks edge to edge with
+coir cord passed through drilled holes and caulked with fibre and fish or
+vegetable oil. Arab and later European observers found this alarming and said
+so; the shipwrights pointed out, reasonably, that a sewn hull flexes instead of
+splitting when it grounds on a reef, and that a torn seam can be restitched on a
+beach with materials growing behind it. The coastal type known as the mtepe,
+with a square matting sail and a prow carved to suggest a camel's head, survived
+on this coast into the twentieth century alongside the nailed, lateen-rigged
+craft that Europeans lumped together as dhows.
+
+What those hulls carried out was not only gold and ivory. One of the steadiest
+exports was mangrove poles, cut in the creeks and shipped north to the Persian
+Gulf and southern Arabia, where there was money, stone and almost no timber; a
+great many roofs in Gulf towns rested for centuries on East African wood. Ivory
+went east rather than north in bulk, because African tusks are larger and
+softer-grained than Asian ones and Indian carvers preferred them. Add ambergris
+picked off the beaches, tortoiseshell, rhinoceros horn, leopard skins, copal
+resin dug from the ground, and iron — Arabic geographers describe iron from the
+Sofala hinterland being shipped to India, where smiths valued it for making
+blades. Against that came cloth above all, Indian cotton in quantities that
+dominated every cargo list, plus beads, porcelain, metalware, dates and, in the
+later centuries, firearms.
+
 ## A Language That Keeps the Receipts
 
 Kiswahili is a Bantu language. That was disputed for a long time by people who
