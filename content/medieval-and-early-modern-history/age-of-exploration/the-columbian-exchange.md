@@ -126,15 +126,18 @@ ducks — and nothing like the same crowded, continent-spanning traffic in
 livestock.
 
 So Old World populations arrived carrying a pathogen load they had partial
-immunity to, and met populations with no prior exposure at all. The conquests that follow in the textbooks look different once this is in
-view. Smallpox reached central Mexico during the campaign against Tenochtitlan,
-killing through the besieged city while the fighting went on. Epidemics
-frequently ran ahead of the colonizers themselves, travelling along indigenous
-trade networks, so that European arrivals in many regions encountered societies
-already reeling from an invisible event they could not explain. Estimates of
-pre-contact American population vary widely enough that the arguments are still
-live, but the direction and scale of the collapse are not in dispute: most of
-the population of two continents, within a century or so of first contact.
+immunity to, and met populations with no prior exposure at all. The conquests
+that follow in the textbooks look different once this is in view. Smallpox
+reached central Mexico during the campaign against Tenochtitlan, killing
+through the besieged city while the fighting went on.
+
+Epidemics frequently ran ahead of the colonizers themselves, travelling along
+indigenous trade networks, so that European arrivals in many regions
+encountered societies already reeling from an invisible event they could not
+explain. Estimates of pre-contact American population vary widely enough that
+the arguments are still live, but the direction and scale of the collapse are
+not in dispute: most of the population of two continents, within a century or
+so of first contact.
 
 ## Weeds, Worms, and Second-Order Effects
 

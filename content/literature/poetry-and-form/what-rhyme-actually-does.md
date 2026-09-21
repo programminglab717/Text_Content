@@ -46,6 +46,22 @@ it, wreck the sense to preserve it, or quietly loosen it into near-rhyme. French
 prosody goes further still and prizes *rime riche*, where the consonant before
 the vowel matches too — precisely the thing English forbids as cheating.
 
+This scarcity has shaped English forms directly. The Italian sonnet asks for an
+octave built on two rhyme sounds, four words apiece — trivial in Italian,
+punishing in English, where a poet hunting a fourth word to rhyme with *breath*
+will end up writing whatever that word allows rather than what the poem needed.
+English solved the problem by rebuilding the form: three quatrains and a couplet,
+seven rhyme sounds instead of five, no sound required more than twice. The shape
+of the English sonnet is a workaround for a phonological shortage.
+
+Welsh went the other way and made difficulty the point. The systems of
+*cynghanedd* demand elaborate patterns of consonant repetition and internal rhyme
+inside a single line, a density of sonic obligation that has no English
+equivalent. Hopkins, who learned Welsh in his twenties, imported some of it, and
+the hammered texture of his lines — the sprung rhythm, the alliterative chains,
+the rhymes crowding in from the interior rather than waiting at the end — is what
+English sounds like when a poet makes it work under Welsh rules.
+
 ## An Imported Technology
 
 Rhyme is not native to the European poetic tradition. Greek and Latin verse was
@@ -93,6 +109,14 @@ in *Don Juan* is a deflation device — he sets up a line of high sentiment abou
 the lords of ladies intellectual and then brings it down by asking whether the
 ladies have not hen-pecked you all. The rhyme is the joke. Nothing in the
 sentiment required puncturing; the sound did it.
+
+None of this survives translation intact. A rhymed poem moved into another
+language has to give something up, and the translator's choice of what to
+sacrifice is the real argument of the translation. Keep the rhymes and the sense
+bends to fit them. Keep the sense and the poem arrives in English sounding like a
+paraphrase of itself, accurate and inert. A reader who knows a rhyming poem only
+in unrhymed translation has the argument without the mechanism that made the
+argument persuasive.
 
 Rhyme also governs a poem's timing. Where the rhymes fall determines when a
 reader feels arrival. A ballad that rhymes only its second and fourth lines

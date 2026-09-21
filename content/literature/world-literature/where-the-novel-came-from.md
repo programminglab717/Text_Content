@@ -52,6 +52,17 @@ a short, cold, exact novel of court intrigue in the 1670s whose subject is a
 woman's private deliberation. Aphra Behn wrote fiction for money in Restoration
 London and framed it as eyewitness testimony.
 
+The vocabulary itself records the confusion. For a long time English had two
+words and no settled boundary between them. A romance dealt in the marvelous,
+the remote, the aristocratic — knights, enchantments, improbable coincidence. A
+novel, borrowed from the Italian novella, implied something new and short and
+plausible, a piece of news about people who might exist. Writers exploited the
+distinction when it suited them and ignored it when it did not; Fielding called
+his books comic epic poems in prose partly to escape the association with cheap
+romance, and Walter Scott would later revive the older word deliberately.
+Critics who argue about when the novel began are frequently arguing about which
+of those two words they are willing to let govern the question.
+
 So the honest formulation is not that the novel was invented in Britain but that
 something changed in the eighteenth century in the status and quantity of prose
 fiction — and that the change was as much commercial as formal. Novels became a
@@ -82,6 +93,15 @@ libraries lost their grip late in the century, the three-volume novel collapsed
 within a few years and the single-volume book we now take for granted replaced
 it. The shape of fiction followed the shape of its distribution with very little
 delay.
+
+How many people actually read these books is harder to establish than how many
+copies were printed, and the gap runs in one direction only. A novel in a
+household was read aloud in the evening to everyone present, including servants
+and children and the illiterate. A library copy passed through a dozen hands
+before it fell apart. Serial parts were shared, resold, and read in coffeehouses
+and barbershops by people who never bought one. Whatever the sales figures were,
+the effective audience was substantially larger, and it included a great many
+readers whom publishers were not thinking about and moralists very much were.
 
 ## Learning to Get Inside a Head
 
@@ -126,10 +146,11 @@ rather than dissolved. The arguments made against novels in the 1750s were
 recycled almost word for word against sensation fiction in the 1860s, against
 cinema, against comics, against television, against video games. The form that
 was once the corrupter of youth became, within a century and a half, the thing
-that schools assigned to protect youth from the newer corrupters. Pamela was
-burned in effigy in at least one English town when the first false sequel
-appeared; two hundred years later the same book was being taught as a document
-of national literary origin.
+that schools assigned to protect youth from the newer corrupters. Unauthorized
+continuations of Pamela appeared within months, and scenes from it were printed
+on fans and sold as engravings, which is roughly what a franchise looked like
+before the word existed. Two hundred years later the same book was being taught
+as a document of national literary origin.
 
 None of which settles the question of where the novel came from. It probably came
 from several places at once, and the tidy account that puts its birth in a London

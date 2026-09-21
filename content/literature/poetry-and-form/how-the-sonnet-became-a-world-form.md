@@ -79,7 +79,17 @@ language partly because he refused to choose between the two shapes.
 The 1590s in England were a sonnet mania. Sidney's *Astrophil and Stella*,
 Spenser's *Amoretti* with its interlocking rhymes that chain each quatrain to
 the next, Daniel's *Delia*, Drayton's *Idea* — sequences arrived in a rush and
-then the fashion collapsed almost as quickly. What kept the form alive
+then the fashion collapsed almost as quickly. Out of that decade came a second form nested inside the first: the sequence.
+A sonnet sequence is not a long poem chopped into fourteen-line pieces. It is a
+series of closed units with gaps between them, and the gaps do most of the
+narrative work. Time passes between sonnets, moods reverse without explanation,
+the beloved does something offstage that we infer from the speaker's change of
+tone. Readers assemble a story from evidence rather than being told one, which
+is why sequences sustain rereading long after their situations have gone stale.
+The device has proved portable: nearly every later revival of the sonnet has
+come with a revival of the sequence attached.
+
+What kept the form alive
 afterwards was its migration off the subject of love entirely. Donne pointed it
 at God and used its compression for violence, opening with an imperative and
 stacking stresses until the line buckles. Milton pointed it at politics,
@@ -106,6 +116,17 @@ Camões, Dante and Milton. Keats used both the Italian and English patterns and
 was frustrated by both. Shelley wrote *Ozymandias* in a rhyme scheme that
 belongs to neither, which nobody minds, because the poem turns exactly where it
 should.
+
+The Victorians made the sequence carry weight it had not carried before.
+Elizabeth Barrett Browning published her love sonnets under a title pretending
+they were translations from Portuguese, a thin disguise that let a living woman
+write about her own courtship without standing fully in the open. Christina
+Rossetti went further and wrote from inside the Petrarchan situation's blind
+spot, giving the sequence to the woman who in the Italian tradition is looked at
+and never speaks. Dante Gabriel Rossetti assembled *The House of Life* over
+years, a hundred-odd sonnets built to be dense, pictorial, and slow. In each
+case the fourteen-line unit is doing something it was not designed for, and
+holding.
 
 ## Breaking It On Purpose
 

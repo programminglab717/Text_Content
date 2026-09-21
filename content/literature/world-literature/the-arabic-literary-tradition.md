@@ -67,6 +67,35 @@ The form exists to show off — puns, palindromes, letters that read the same
 undotted, entire passages that can be scanned two ways — and it was imitated for
 the better part of a millennium, in Hebrew and Persian as well as Arabic.
 
+## The Baghdad Poets
+
+Under the Abbasids the centre of gravity moved from the desert to the city, and
+poetry moved with it. Abu Nuwas made his reputation partly by attacking the
+campsite convention head-on: why stand weeping over tent pegs, he asks in effect,
+when there is wine to describe and a tavern to describe it in? His wine poems and
+his frank erotic verse are formally impeccable and socially outrageous, and the
+combination is the point — he is demonstrating that the old machinery can be
+turned to entirely new material without breaking.
+
+A generation later Abu Tammam pushed the ornamental figures of the *badi'* style
+so far that critics split into camps, one side treating the difficulty as genius
+and the other as mannerism. The quarrel produced the first sustained body of
+Arabic literary criticism, arguments over whether a metaphor could be so remote
+that it stopped communicating, which remain readable now.
+
+The poet Arabic readers most often quote is al-Mutanabbi, a tenth-century
+panegyrist of vast self-regard who attached himself to the court of Sayf
+al-Dawla in Aleppo, quarrelled with patrons across several states, and was
+killed on the road by raiders. His lines have the compression of proverbs, which
+is why so many of them became proverbs. Against him stands Abu al-'Ala'
+al-Ma'arri: blind from early childhood, vegetarian, ascetic, sceptical of
+revealed religion in ways that got him condemned long after his death. He wrote a
+collection under a self-imposed double rhyme constraint simply to prove he could,
+and a prose fantasia in which a pious man tours the afterlife and interviews the
+pre-Islamic poets about their metrics and their damnation — a work whose
+resemblance to Dante has been noticed often enough to have generated its own
+small scholarly industry.
+
 ## Andalus and the Strophic Turn
 
 In Muslim Spain the monorhymed ode acquired a rival. The *muwashshah* is a
