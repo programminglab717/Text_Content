@@ -134,16 +134,40 @@ extends trust, and so is never required to give any up. Unreliability without a
 prior investment of belief costs the reader nothing, and a technique that costs
 nothing returns nothing.
 
-## It Is Not Only a First-Person Device
+## When the Text Is a Pile of Documents
 
-Third-person narration goes unreliable too, quietly, through free indirect style —
-the technique in which a nominally external narrator takes on a character's
-vocabulary and judgments without announcing the borrowing. Austen's *Emma* runs
-on it. The narration reports Emma's assessments of everyone around her in a voice
-that reads as authoritative, and the reader accepts them, and they are wrong in
-almost every particular. The correction arrives by the same route it would in
-first person: other people's behavior, accumulating, refusing to match the
-account.
+Unreliability changes character entirely when a novel is assembled rather than
+narrated — when it presents itself as a collection of letters, journals,
+transcripts, depositions and clippings. Then the doubt is a property of the
+archive instead of a person, and it comes from the joins.
+
+Wilkie Collins built *The Woman in White* on an explicit legal conceit: the
+story is offered as testimony, each witness setting down only what they can
+personally swear to, handing off to the next when their knowledge runs out. The
+form promises rigor and delivers something stranger, because testimony given in
+good faith by people with incompatible interests does not add up to a clean
+account. Bram Stoker's *Dracula* goes further. It is a dossier of journals,
+letters, telegrams, newspaper cuttings and a diary kept on phonograph
+cylinders, compiled after the fact by the survivors — and Stoker has one of them
+observe at the close that the collection contains scarcely an authentic
+original, being mostly typescript, and could not prove anything to anyone.
+
+What this buys a writer is a set of leaks the single narrator does not have. A
+letter is written *to* somebody, for a purpose, by a person who expects it to be
+read, which means every document in the pile is already a performance. A diary
+entry can be composed for a reader the diarist denies imagining. Two accounts of
+the same afternoon can be placed a hundred pages apart and left to disagree,
+with no narrator anywhere in the book to adjudicate. Gillian Flynn's *Gone Girl*
+is a modern working of exactly this device: the diary is the most persuasive
+thing in the novel and also the most thoroughly manufactured, and it persuades
+because readers have a deep prior conviction that a private journal is where
+someone tells the truth.
+
+The same doubling is available in third person, incidentally, through free
+indirect style — a narration that takes on a character's vocabulary and
+judgments without announcing the loan. But the assembled-document novel makes
+the epistemology visible on the surface. The reader can see the seams, and is
+being asked, quite openly, to do the work of a historian with a bad archive.
 
 What all of this is finally for is worth stating plainly, because unreliable
 narration is often discussed as though it were a magic trick with a reveal. The
