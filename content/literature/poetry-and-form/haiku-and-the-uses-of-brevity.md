@@ -57,6 +57,16 @@ When English-language poets adopted the form they inherited the slot without the
 almanac. Some have tried to build regional equivalents; most have settled for
 concrete seasonal detail doing similar work more weakly.
 
+Haiku also has close relatives worth knowing, because the distinctions clarify
+what the form is for. *Senryu* has the identical shape and drops the season
+word; its subject is human behaviour, usually observed with dryness or
+malice, and it is comic where haiku is not. *Tanka*, much older, adds two more
+seven-unit lines to the end, and those two lines change everything: they give
+room for a turn toward feeling, for the speaker to appear, for the poem to
+comment on its own image. Court poets wrote tanka for a thousand years before
+linked verse existed. Reading the two side by side makes the haiku's refusal
+legible — it is a tanka with the response withheld.
+
 ## From Linked Verse to Standalone Poem
 
 The form did not begin as a form. It began as an opening move. *Renga*, and
@@ -110,6 +120,16 @@ enormous quantity of pleasant nature description, which is the form's
 characteristic failure mode: a haiku that contains only one perception is a
 photograph, not a poem.
 
+Practically, the test of an English haiku is whether it has two things in it and
+a working gap between them. Read one and ask: what are the two perceptions, and
+where does the poem stop describing the first and start the second? If there is
+only one perception, the poem is a caption. If the second is a paraphrase of the
+first — the mood restated, the image explained — the gap has been filled in and
+there is nothing for the reader to do. If the poem contains an abstract noun
+doing the emotional work, the poet has said the thing the form asks you to let
+the reader say. These are blunt instruments, but applied to a hundred short
+poems they sort them quickly.
+
 ## What Shortness Buys
 
 Brevity is not a Japanese invention and its advantages are general. The Greek
@@ -127,6 +147,15 @@ it. Williams's sixteen words about a wheelbarrow survive because there is
 nothing in them to remove, and because the poem's opening claim — that so much
 depends on this — is never cashed out, so the reader spends decades deciding
 what depends and why.
+
+There is a related effect that has to do with time. A short poem is read in a
+few seconds and then sat with for much longer, which inverts the usual ratio
+between consumption and reflection. Japanese aesthetics has a word, *ma*, for
+the interval or negative space between things — the pause in music, the empty
+region of a painting — and treats it as material rather than absence. The white
+space around three short lines on a page works the same way. Print the same
+words as a sentence in a paragraph and the effect disappears entirely, which
+is a useful demonstration that some of the poem is not in the words.
 
 The discipline transfers even to writers who never attempt the form itself.
 Learning to place a cut, to trust juxtaposition, and to leave the connective
