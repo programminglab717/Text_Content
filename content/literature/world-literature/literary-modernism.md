@@ -66,9 +66,9 @@ sentences take on her delusions without endorsing them. Henry James pursued the
 same reduction deliberately, restricting his late novels to what a single limited
 intelligence could register.
 
-The modernists finished the job. Free indirect discourse — third person that
-borrows a character's diction and blind spots — became the default rather than
-an effect. Beyond it lay interior monologue: the sentence reproducing the
+The modernists finished the job. Free indirect narration, which earlier
+novelists had used as a local effect where they wanted ambiguity, became the
+governing method of entire books. Beyond it lay interior monologue: the sentence reproducing the
 movement of a mind rather than reporting it. Joyce credited an obscure French
 novel by Édouard Dujardin, published in the eighteen-eighties, with showing him
 the technique. The psychologist William James had described consciousness as a

@@ -147,11 +147,12 @@ both languages. Richard Pevear and Larissa Volokhonsky divide the Russian
 novelists between them — she produces a close draft with notes on what the
 Russian is doing, he works it into English, and they argue over the result. The
 method has been criticized for producing prose that reads oddly in English, which
-is roughly the criticism its defenders would call the point. It stands in
-deliberate opposition to Constance Garnett, who translated most of the Russian
-canon at enormous speed a century earlier and made Tolstoy, Dostoevsky and
-Chekhov all sound like refined Edwardian novelists — and who, whatever her
-limitations, is the reason English readers knew those books at all.
+is roughly the criticism its defenders would call the point. It stands in deliberate
+opposition to Constance Garnett, who worked at a speed no modern translator
+could contemplate, reportedly leaving a gap on the page and pressing on when a
+word defeated her. Her English belongs unmistakably to her own period and her
+own drawing room. It is also the reason English readers had those books at all,
+which is a defence the method's critics tend to skip past.
 
 ## Whose Name Is on the Cover
 
