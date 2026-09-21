@@ -40,6 +40,19 @@ identifying feeling as the weak joint is that it is the last place where
 intervention is still cheap. Attention trained finely enough can catch the tone
 before the reaching starts.
 
+The early discourses argue for the absence of a self in the heaps on grounds
+that are almost unnervingly plain. Take the body: if it were genuinely yours in
+the sense that matters, it would not run toward affliction, and you could
+simply say let my body be this way and not that. You cannot. The same is
+pressed through feeling, perception, formations, and consciousness in turn —
+each one changes without consulting you, each one produces distress, and what
+is impermanent and unsatisfactory is a poor candidate for what you most
+fundamentally are. Notably, the argument is not the metaphysical claim that no
+self exists anywhere. It is the narrower and more testable claim that nothing
+you can find is it. Asked point-blank by a wanderer whether there is a self,
+the Buddha is recorded as saying nothing at all, and explaining afterward that
+either answer would have sent the man in the wrong direction.
+
 ## Momentariness and the Bookkeeping Problem
 
 The Abhidharma literature pushed the decomposition much further, cataloguing
@@ -140,6 +153,14 @@ extra self-directed function, and that a knife does not cut itself, a fingertip
 does not touch itself, and awareness has no more business being its own object.
 The exchange continued for centuries and was never resolved, which may be the
 correct outcome, since versions of it are still running.
+
+Later thinkers tried to broker a peace. Santaraksita built a system that runs
+Yogacara analysis at the conventional level, where minds and their reflexive
+awareness do real explanatory work, and Madhyamaka analysis at the ultimate
+level, where that whole apparatus is found empty like everything else. It is a
+layered strategy rather than a compromise, and it became the dominant
+scholastic framework in Tibet, where the monastic curricula still stage these
+debates as formal exercises with their own clapping, stamping choreography.
 
 None of these people were doing cognitive science, and the resemblance to bundle
 theories of the self is real but shallow enough to mislead. The aim throughout
