@@ -141,7 +141,7 @@ seriously abroad only much later.
 
 Translation deserves more credit than it usually receives in this story. The
 English-language Boom was substantially the work of a handful of translators —
-Gregory Rabassa, who brought over Cortazar and Garcia Marquez, and later Edith
+Gregory Rabassa, who brought over Cortázar and García Márquez, and later Edith
 Grossman, among others — working at a moment when American and British
 publishers were suddenly willing to take Spanish-language fiction seriously.
 Books that had circulated for years in Spanish arrived in English within months

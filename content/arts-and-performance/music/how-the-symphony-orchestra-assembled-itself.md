@@ -122,6 +122,30 @@ sells it. The relationship with the players has always been strange: a hundred
 highly trained specialists, most of whom have opinions, following someone who
 makes no sound.
 
+The players got there by a route that has hardened into ritual. A conservatoire
+training, then years of auditions in which a candidate plays a concerto movement
+and a list of orchestral excerpts — the exposed passages every professional is
+expected to have polished, the opening of Strauss's *Don Juan* for violins, the
+Mendelssohn scherzo for flute, the *Bolero* solo for trombone. From the later
+twentieth century most major orchestras began holding at least the early rounds
+behind a screen, with the floor sometimes carpeted so that footsteps give
+nothing away, and the composition of orchestras shifted substantially in the
+decades that followed. A seat won this way is usually held for a career, which
+gives these institutions an unusual continuity: a section may contain players
+whose combined tenure spans a century of the same hall.
+
+It also makes them expensive in a way that does not improve with time. A
+symphony takes the same number of player-hours to perform now as it did in 1900,
+and no technology has ever been invented that lets forty people play a Brahms
+symphony with thirty. Costs rise with the general economy; productivity cannot.
+The standard response has been the subscription series built around a repertory
+that consolidated roughly between the 1870s and the 1920s and has barely shifted
+since, supplemented by donors, endowments and, outside the United States, public
+money. The consequence is that the modern orchestra spends most of its working
+life performing a body of music assembled a century ago for an institution that
+was then still changing shape, and the arguments inside the profession about
+what to do with that fact are perennial and unresolved.
+
 ## The Hall as the Last Instrument
 
 An orchestra is designed around a room it cannot control. Wallace Sabine worked

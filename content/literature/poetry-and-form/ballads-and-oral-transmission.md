@@ -60,6 +60,18 @@ someone hearing a sound and knowing at once what it means, and they show up
 wherever they fit. A ballad is assembled partly out of prefabricated parts, and
 the parts are the property of the tradition rather than of any song.
 
+The subject matter is narrow and dark. A surprising share of the traditional
+canon concerns killing within a family or a courtship: a brother murdering a
+sister, a mother her infants, a wife her husband, a man the woman who has
+refused him. Another large group deals with the supernatural taken entirely for
+granted — talking birds, the dead returning to complain that their graves are
+kept wet with weeping, a knight taken by the queen of Elfland. A third records
+the border raiding between Scotland and England with a flat unsentimental
+attention to who took whose cattle and who was hanged for it. Comic ballads
+exist and travel well, but the songs that survived longest and spread furthest
+are mostly about people doing irreversible things to each other and then living
+in the aftermath.
+
 ## What Happens on the Way
 
 Track a single ballad across a few hundred collected versions and the
@@ -113,6 +125,18 @@ unaccompanied solo singing that no notation represents well. The recordings of
 singers like Texas Gladden, Almeda Riddle, and the Scottish traveller singers
 Jeannie Robertson and Belle Stewart are documents of a performance practice, not
 just of texts.
+
+Commercial recording arrived at almost the same moment. Record companies sending
+engineers into the American South in the 1920s captured ballad singers alongside
+everything else they could sell, and a song that had traveled orally for three
+hundred years could now be bought on a disc and learned note for note. That
+fixed some versions and killed others. The folk revival a generation later
+worked largely from those recordings and from the printed collections, so the
+ballads most people know today reached them through two layers of selection —
+what a collector chose to write down, and what an A&R man thought would sell.
+The tradition did not end so much as change its medium, and it kept doing what
+it had always done: a song learned off a record gets sung wrong, and the wrong
+version gets learned by someone else.
 
 ## Memory or Recomposition
 
