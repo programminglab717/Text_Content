@@ -58,6 +58,16 @@ viridian, chrome and cadmium yellows, emerald green. The old palette had been
 weakest exactly where the Impressionists wanted strength — in intense, light,
 saturated blues and greens — and suddenly it was not.
 
+Not all of it aged well. Some of the new industrial colors were less stable than
+their makers claimed, and certain chrome yellows have darkened toward olive in
+the intervening century, which means a few famous sunlit fields are now a shade
+duller than they left the studio. The painters also tended to leave their
+canvases unvarnished, wanting the chalky, light-scattering surface that
+underbound paint gives, and museums in the following generations often varnished
+them anyway, sinking the whites and pulling the whole picture toward a gloss
+those paintings were designed to avoid. A good deal of modern conservation on
+these works consists of undoing that kindness.
+
 And the railways had rebuilt the geography of leisure around Paris. Argenteuil,
 Chatou, Bougival, Pontoise, the beaches of Normandy: an hour or two from the
 Gare Saint-Lazare, with a return train in the evening. These places are the
@@ -114,6 +124,16 @@ rented room opposite, with several canvases going at once and each brought out
 only when its particular hour returned. The series turned the method into an
 argument. What changes between the canvases is not the thing. It is everything
 else.
+
+Holding the group together was mostly administrative labor, and much of it fell
+to Gustave Caillebotte, who was independently wealthy, a considerable painter in
+his own right with a taste for steep perspectives and wet Paris streets, and the
+person who quietly paid for rooms, bought his colleagues' work when no one else
+would, and covered Monet's rent more than once. There were eight of these
+exhibitions between 1874 and 1886, with the membership shifting every time and
+constant arguing about whether showing at the Salon disqualified you. Caillebotte
+left his collection to the French state; the state, still unconvinced,
+accepted part of it and declined the rest.
 
 The money question was never solved by the exhibitions, which mostly lost money.
 It was solved by dealers, principally Paul Durand-Ruel, who bought in bulk,

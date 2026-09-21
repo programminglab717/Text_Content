@@ -71,6 +71,20 @@ arrangement. The peat fire burned in the middle of the floor with no chimney,
 because the smoke seeping through the thatch kept the insects down and the
 soot-laden thatch was stripped every spring and spread on the fields.
 
+Roof pitch is a dialect of its own, and the covering sets the grammar. Thatch
+and wooden shingle need a steep slope so water runs off before it can soak in;
+overlapping clay tiles will sit lower; a flat roof is only honest in places
+where heavy rain is rare and snow rarer still. You can read a rough band of
+annual rainfall off the skyline of an old village without asking anyone.
+
+The same reasoning operates above the scale of the single house. Settlements in
+hot dry regions pack tight so that buildings shade one another and the lanes
+between them stay narrow and dim through the afternoon; cold-climate villages
+spread out to keep sun on every wall that faces it. Hillside villages terrace,
+so one household's roof is the next household's yard. Where flooding is
+seasonal, the whole settlement sits on the levee or on posts, and the fields
+are allowed to drown.
+
 ## What You Can Carry
 
 Before railways, the material a building was made of was decided almost
