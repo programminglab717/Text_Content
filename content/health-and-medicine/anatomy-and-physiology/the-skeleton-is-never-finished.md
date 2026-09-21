@@ -113,6 +113,37 @@ it stays elevated — mobilizes calcium from bone. The skeleton is a structural
 member and a reserve account at the same time, and when the two roles conflict,
 the account wins.
 
+## Building It in the First Place
+
+Adult remodelling replaces bone without changing its shape. Growth requires
+something different, and anatomists distinguish it as modelling: resorption on
+one surface and formation on another, unpaired, so that the outline of the bone
+migrates.
+
+Consider what has to happen for the shaft of a femur to get wider while staying
+hollow. Osteoblasts add bone to the outer surface, and osteoclasts simultaneously
+remove it from the inner surface of the marrow cavity, so the tube expands
+outward and its wall stays a sensible thickness. Consider also the flared end of
+a long bone, where the shaft widens into the joint surface. As the bone
+lengthens at its growth plate, that flare is constantly being left behind, and
+the bone has to be carved back down to shaft diameter behind the advancing end.
+A growing skeleton is not simply accreting material. It is being sculpted from
+several directions at once, and the sculpting continues for as long as the
+growth plates stay open.
+
+Those plates are cartilage, and they work by a small assembly line: cartilage
+cells proliferate in columns on the epiphyseal side, swell enormously, die, and
+leave a mineralized scaffold that osteoblasts arriving from the shaft side use
+as a template. Sex hormones at puberty drive a growth spurt and then close the
+plates for good by exhausting them, which is why the timing of puberty
+influences final height.
+
+Bone mass keeps accumulating for some years after height stops changing,
+reaching a peak in early adulthood. Everything after that is a question of how
+slowly it is spent, and the size of the peak matters as much to late-life
+fracture risk as the rate of subsequent loss — which puts a surprising amount of
+weight on how much a person ran, jumped and climbed as a child.
+
 ## When the Balance Tips
 
 Because resorption is quick and refilling is slow, anything that increases the
