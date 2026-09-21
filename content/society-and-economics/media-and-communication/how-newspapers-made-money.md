@@ -57,6 +57,20 @@ week, and the newspaper was the only instrument that could do it. The
 full-page store advertisement and the modern daily grew up together, each
 dependent on the other.
 
+The advertising dependence quietly rewrote the editorial product too. A partisan
+sheet aimed at one faction has a ceiling on its circulation equal to the size of
+that faction. A paper that wants every household in the county cannot afford to
+insult half of them, and neither can the wire service selling the same dispatch
+to a Democratic paper in Ohio and a Republican one in Maine. The professional
+norms that hardened in the early twentieth century — attribution, balance, the
+separation of news columns from the editorial page, the reporter's studied
+absence from their own copy — were genuine intellectual commitments held by
+people who believed in them. They were also, conveniently, the editorial posture
+that maximizes the addressable market. Objectivity was an ethic with a business
+case underneath it, which is part of why it took hold so completely in a
+commercial press and so much less completely in the subsidized European party
+papers of the same period.
+
 ## Fixed Costs and the One-Paper Town
 
 The structural fact that shaped everything after that is the cost curve. The
@@ -76,6 +90,26 @@ nearly every American city that had supported four or five competing dailies
 narrowed to one, or to a morning and an evening under joint ownership. This was
 not primarily a story of chain owners buying up independents, though that
 happened. It was arithmetic.
+
+Within that consolidation there was a second, slower casualty. Afternoon papers
+had once outnumbered morning ones, printed for a workforce that finished shifts
+at four and read on the streetcar home. Suburbanization put those readers in
+cars on congested highways where nobody reads anything, and the evening network
+newscast got to the day's news first and free. Delivery trucks that once moved
+through a compact city at midday now crawled through afternoon traffic to reach
+subdivisions twenty miles out. Evening dailies died across the country through
+the 1970s and 1980s, often by folding into their morning sibling, and the
+morning-only metro became the standard shape of the business.
+
+The cost side had its own pressures. Newsprint is a globally traded commodity
+whose price swings violently, and it was typically the second-largest line in a
+publisher's budget after payroll, which meant a bad year in pulp markets could
+erase a good year in advertising. Production was also heavily unionized and
+heavily skilled: hot-metal composition by linotype operators, stereotypers,
+pressmen, mailers. The shift to photocomposition and offset printing in the
+1960s and 1970s eliminated whole crafts, produced some of the bitterest strikes
+in American and British labour history, and left publishers with cost
+structures that looked, for about twenty years, extraordinarily comfortable.
 
 The surviving monopoly daily in a mid-sized city was, by the late twentieth
 century, one of the most profitable businesses in the country. Operating

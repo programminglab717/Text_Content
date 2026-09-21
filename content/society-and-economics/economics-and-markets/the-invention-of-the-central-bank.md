@@ -53,6 +53,38 @@ alarmed them afterwards. The realisation that the financial stability of a
 continental economy depended on the health and temper of one private banker
 produced, after six years of argument, the Federal Reserve Act of 1913.
 
+The role kept widening. Bagehot had been writing about banks, and for a
+century the rule was applied to banks. By 2008 a large share of short-term
+credit ran through institutions that took no deposits and held no central bank
+account — investment banks, money market funds, the commercial paper market,
+the securities dealers who financed themselves overnight against collateral.
+When that funding froze, the authorities improvised facilities to lend directly
+into each of those markets, and the Federal Reserve extended swap lines to
+foreign central banks so that they could supply dollars to their own banks,
+which had borrowed heavily in a currency no one but the Fed could create. The
+rule survived. Its perimeter turned out to be wherever the runs actually were,
+which is not a boundary anyone can draw in advance.
+
+## The Constraint That Used to Be Gold
+
+For most of this history the central bank operated under an external discipline
+it did not choose. Under the classical gold standard of the decades before the
+First World War, a note was a claim on a fixed weight of metal, and a country
+losing gold had to raise interest rates until the outflow stopped, regardless of
+what that did to employment at home. The system delivered remarkable price
+stability across generations and remarkably brutal adjustment within them, and
+the interwar attempts to rebuild it collapsed under exactly that tension.
+
+Bretton Woods, negotiated in 1944, kept a diluted version: other currencies
+were pegged to the dollar, and the dollar alone was convertible into gold at a
+fixed price. It held until the volume of outstanding dollars grew far beyond the
+American gold stock and the arithmetic became obvious to everyone holding them.
+The convertibility was suspended in 1971 and never restored. From that point
+the value of money rested on nothing but the conduct of the institution issuing
+it, which is why the decades since have been spent constructing substitutes for
+the discipline gold used to impose — targets, mandates, published forecasts,
+and the careful cultivation of a reputation that can be lost.
+
 ## The Balance Sheet Is the Instrument
 
 Strip away the vocabulary and a central bank is a bank with one unusual

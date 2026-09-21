@@ -115,6 +115,19 @@ around replacement within roughly fifteen years, aided by a state family
 planning programme that reversed an earlier pronatalist policy and by a rapid
 rise in girls' schooling.
 
+It is worth being careful about what the headline number measures. The total
+fertility rate is not a count of children any real woman had; it is a synthetic
+figure, built by taking the birth rates observed at each age in a single year
+and asking what a hypothetical woman would end up with if she lived through all
+of them. That construction makes it responsive and comparable, but it also makes
+it sensitive to timing. If a generation collectively postpones childbearing by
+three years, the measured rate sags during the postponement and then partially
+recovers, even though completed family size may barely move. A good deal of
+alarmed commentary about collapsing birth rates in particular years is reading
+this tempo distortion as though it were a change in how many children people
+will eventually have. The distortion is real, but it is not the whole story —
+where postponement has run for decades, completed family size has fallen too.
+
 Two consequences follow from speed, and they are opposite in sign. The first is
 the demographic dividend. For a few decades after fertility falls, a country has
 an unusually favourable age structure: the large cohorts born before the decline
@@ -132,6 +145,18 @@ generation. A country can be at two children per woman and still add tens of
 millions of people, simply because there are more potential mothers than there
 used to be. Roughly speaking, most of the population growth the world will see
 this century is already determined by the age structure now alive.
+
+Sub-Saharan Africa is where the model's predictive weakness shows most clearly
+at the other end. Mortality there has fallen substantially, as the theory
+expects, but fertility has come down more slowly and less uniformly than
+comparable income and schooling levels elsewhere would have implied, and in some
+countries it stalled for a decade at a level well above what the sequence
+predicted before resuming. Explanations offered include the structure of
+landholding and of marriage, the relative weakness of the shift out of
+agriculture, the value placed on large kin networks, and the patchiness of girls'
+secondary schooling. The practical upshot is that the continent's share of world
+population is rising steeply, and that the projections people quote for 2100 are
+mostly projections about how fast African fertility declines from here.
 
 The model's weakest point is the end. The original formulation assumed the birth
 line would settle at the death line and stay there, producing a stable
