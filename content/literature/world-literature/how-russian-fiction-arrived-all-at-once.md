@@ -43,6 +43,20 @@ remark about the whole school emerging from beneath Gogol's overcoat has been
 attributed to Dostoevsky for a century, probably wrongly, but it survives because
 the claim underneath it is defensible.
 
+The four names everyone knows have obscured a second rank that was doing much of
+the work. Ivan Goncharov wrote a novel about a landowner who spends its opening
+stretch failing to get out of bed, and gave Russian its own noun for the
+condition — a word for inherited, well-meaning, comfortable paralysis that
+critics immediately applied to the entire gentry class. Nikolai Leskov built
+stories out of a narrator's spoken idiom, complete with malapropisms and
+digressions, a technique later theorists named skaz and which makes him the
+hardest of the major Russians to translate. Mikhail Saltykov-Shchedrin, who
+worked for years as a provincial official, wrote a chronicle of a landowning
+family rotting across three generations that is bleaker than anything Dostoevsky
+attempted. None of them was writing in the margins; all of them appeared in the
+same journals, argued with the same critics, and were read by the same
+subscribers.
+
 ## The Thick Journals
 
 Nothing in Russian literature makes sense without the tolstye zhurnaly, the thick
@@ -115,6 +129,20 @@ people converge in one room and everything is said. Mikhail Bakhtin named this
 polyphony, and the point of the term is that the author declines the privilege of
 settling the dispute. A Dostoevsky novel is closer to a stenographic record of an
 unresolvable argument than to a report on a world.
+
+The material circumstances of the two men were as different as their methods.
+Tolstoy was a count with an inherited estate and no need to write for money,
+which let him spend six years on a book and later renounce the copyright on
+everything he produced after his religious crisis — a decision that poisoned his
+family life for decades. Dostoevsky spent most of his career in debt, much of it
+incurred at roulette tables and through obligations to his dead brother's
+creditors. He once signed a contract so punitive that failure to deliver a novel
+by a fixed date would have handed a publisher the rights to everything he wrote
+for years, and he produced the book in about a month by dictating it to a young
+stenographer named Anna Snitkina, whom he afterward married and who took over the
+management of his affairs. The haste is visible in the prose, and so is the
+pressure; it is difficult to imagine his particular kind of intensity being
+produced by a man with a secure income.
 
 Neither was writing tidy books, and their contemporaries abroad noticed. Henry
 James's complaint about large loose baggy monsters was aimed partly at War and

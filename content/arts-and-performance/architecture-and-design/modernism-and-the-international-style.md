@@ -63,6 +63,20 @@ considered flat roofs un-German. The closure scattered its staff and students
 across the world, which is the single most effective distribution mechanism the
 movement ever had.
 
+Germany was not working alone. In the Netherlands the De Stijl painters and
+architects had reduced composition to rectangles, primary colours, and lines
+meeting at right angles, and Gerrit Rietveld built the argument at full size in
+a small house in Utrecht whose planes slide past one another and never quite
+close a corner. In Russia the constructivists were designing workers' clubs and
+communal housing as diagrams of collective life, with a formal energy that
+badly outran what Soviet industry could actually build. In 1928 architects from
+across the continent met at a chateau in Switzerland and founded CIAM, the
+congress that spent the next two decades issuing statements about how cities
+ought to be organized: by function, in zones, with housing separated from work
+and both separated from traffic. That doctrine was eventually published under
+Le Corbusier's name as the Athens Charter, and it went on to shape more postwar
+planning departments than any single building did.
+
 ## An Exhibition Gives It a Name
 
 In 1932 the young Museum of Modern Art in New York mounted a show of recent
