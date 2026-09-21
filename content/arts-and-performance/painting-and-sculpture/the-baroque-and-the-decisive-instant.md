@@ -140,6 +140,20 @@ other way entirely and drained the instant of event: a woman pouring milk, a
 woman holding a balance, light coming through a window onto a plaster wall, all
 motion suspended.
 
+A day's ride south, in Catholic Antwerp, Rubens ran the opposite kind of
+operation: a large house with a purpose-built studio, a staff of assistants and
+specialists — one for animals, one for flowers, one for architecture — and a
+production system in which the master painted a small, blazingly fluent oil
+sketch and the workshop enlarged it, with the master returning at the end to
+pull the whole thing together. It let him accept commissions at a scale nobody
+else could handle, including an enormous allegorical cycle glorifying the life
+of a French queen who had rather little to be glorified about. He was also a
+classical scholar and a working diplomat, carrying negotiations between courts
+under cover of artistic business, and he was knighted by two kings. Nothing in
+his career resembles the Romantic idea of a painter, and his figures, heaped
+and twisting and spilling sideways out of their compositions, are the most
+purely Baroque bodies anyone painted.
+
 In Madrid, Velázquez built the period's most self-aware picture. Las Meninas
 shows the painter at work on a canvas whose face we cannot see, the small
 princess and her attendants turning toward us, a mirror at the back reflecting
