@@ -1,0 +1,142 @@
+# Literary Modernism
+
+Some time around the turn of 1922, T. S. Eliot handed Ezra Pound a long,
+sprawling manuscript with the working title *He Do the Police in Different
+Voices*, lifted from a line in Dickens. Pound went at it with a pencil. He cut an
+extended Boston scene from the opening, removed most of a shipwreck sequence
+written in slack pastiche, deleted connective passages that explained how one
+section related to the next, and reduced the whole thing to roughly half its
+length. What survived was published as *The Waste Land*, with a dedication
+naming Pound the better craftsman. The cut manuscript disappeared into a
+private collection and did not surface again for half a century.
+
+That editorial episode is a reasonable summary of what modernism did to
+literature generally. The cuts were not aimed at tightening the argument. They
+removed the argument. What remained was a sequence of fragments whose relations
+the reader has to supply, which was the intended effect and not a side-effect of
+compression.
+
+## The Year Everything Arrived at Once
+
+1922 is a suspiciously convenient date, and it is genuinely remarkable. Sylvia
+Beach published *Ulysses* from her Paris bookshop on Joyce's fortieth birthday in
+February, having taken on a book that commercial publishers would not touch
+after its serialization in an American magazine ended in an obscenity
+conviction. Eliot's poem appeared in the autumn. Virginia Woolf published *Jacob's
+Room*, her first novel to abandon conventional narration outright, constructing a
+young man entirely out of other people's glimpses of him and then killing him
+offstage. Rilke, in a tower in Switzerland, finished the *Duino Elegies* after a
+decade of silence and wrote the *Sonnets to Orpheus* in a matter of days. In
+Peru, César Vallejo published *Trilce*, a book that breaks Spanish syntax and
+orthography so violently that it baffled even sympathetic readers. In São Paulo,
+a three-day Modern Art Week of concerts, readings and exhibitions announced
+Brazilian modernismo to an audience that heckled. Proust died in November, with
+the later volumes of his novel still unpublished.
+
+None of these people were doing the same thing. Grouping them under one label is
+a retrospective convenience, and the label has been stretched so far that some
+critics want to abandon it. But something was shared, and it is more specific
+than a general appetite for novelty.
+
+## The Retreat of the Narrator
+
+The nineteenth-century novel ran on an arrangement so familiar it was invisible:
+a narrator who knows more than any character, who can move between minds,
+summarize a decade in a sentence, and tell you what to think about a man's
+conduct. Flaubert had already started dismantling this, refusing the editorial
+aside and pushing narration so close to Emma Bovary's consciousness that the
+sentences take on her delusions without endorsing them. Henry James pursued the
+same reduction deliberately, restricting his late novels to what a single limited
+intelligence could register.
+
+The modernists finished the job. Free indirect discourse — third person that
+borrows a character's diction and blind spots — became the default rather than
+an effect. Beyond it lay interior monologue: the sentence reproducing the
+movement of a mind rather than reporting it. Joyce credited an obscure French
+novel by Édouard Dujardin, published in the eighteen-eighties, with showing him
+the technique. The psychologist William James had described consciousness as a
+stream rather than a chain of discrete states, and the phrase migrated into
+literary criticism, where it was applied to Dorothy Richardson before anyone
+applied it to Joyce.
+
+The consequence was a change in what a novel could be about. If the narrator
+cannot summarize and cannot judge, then plot — which is a summary of events by
+someone standing outside them — loses its privilege. *Mrs Dalloway* covers one
+day and almost no incident. *Ulysses* covers one day in Dublin and an enormous
+quantity of incident, none of it consequential in the way a Victorian plot would
+require. Woolf wrote that on or about December 1910 human character changed,
+which was a joke about how a change in the novel's assumptions can be described
+as a change in the world.
+
+## Difficulty as a Deliberate Instrument
+
+Modernist writing is hard on purpose, and the purposes vary.
+
+Some of the difficulty is allusion. Eliot's poem quotes and half-quotes in six or
+seven languages, and he supplied notes that are themselves partly a performance.
+Pound's *Cantos* assume you can follow a jump from a Renaissance condottiere to a
+Confucian ideogram without signposting. This is exclusionary and its practitioners
+knew it. It also reflects a conviction that the whole inheritance of world
+literature was simultaneously available to a twentieth-century writer in a way it
+had not been to a medieval one — a conviction that looks rather different once
+you notice how selectively that inheritance was actually sampled.
+
+Some of the difficulty is structural. Eliot, reviewing *Ulysses*, praised Joyce
+for using the Homeric parallel as a scaffold — a way of imposing order on
+contemporary material that he thought had lost any order of its own. The myth
+does not tell you what happens; it tells you how to arrange what happens. Once
+that device is available, a writer can dispense with transitions altogether and
+let juxtaposition do the work, which is what *The Waste Land* does and what
+montage was simultaneously doing in film.
+
+And some of the difficulty is simply that a mind rendered from inside is
+disorderly. The last chapter of *Ulysses* is unpunctuated not to be clever but
+because punctuation is a service provided by an editor who has stepped out of the
+room. Faulkner's opening section in *The Sound and the Fury*, narrated by a man
+who cannot distinguish between a memory and a present event, is hard for exactly
+the reason it is accurate.
+
+## The Machinery Behind It
+
+It is easy to discuss all this as though it happened in the realm of ideas. It
+happened in small magazines financed by a handful of people.
+
+Harriet Monroe founded *Poetry* in Chicago and let Pound act as her foreign
+correspondent, which is how a great deal of early modernist verse reached print.
+*The Egoist* in London published Joyce serially, and its patron Harriet Shaw
+Weaver funded him personally for years, at considerable cost and with no
+expectation of return. *The Little Review* in New York serialized *Ulysses* until
+its editors were prosecuted. The New York lawyer John Quinn bought manuscripts,
+paid legal bills and underwrote writers he believed in. Leonard and Virginia
+Woolf bought a hand press, taught themselves to set type, and printed Eliot's
+early poems themselves; they considered *Ulysses* and concluded it was simply too
+long to set by hand.
+
+Modernism was, in other words, a cottage industry supported by private money and
+sustained by perhaps a few hundred committed readers. Its later canonization in
+universities has obscured how marginal it was at the time, and how much of it was
+addressed to friends.
+
+## Outside the Anglo-French Frame
+
+The version of this story taught in English departments tends to run from London
+to Paris and stop. The same pressures produced different answers elsewhere.
+
+Brazilian modernismo, after its noisy debut, turned toward a theory of cultural
+cannibalism: Oswald de Andrade proposed that Brazil should devour European
+culture rather than imitate it, absorbing what was nourishing and discarding the
+rest. Mário de Andrade's *Macunaíma* built a national anti-hero out of indigenous
+myth, urban slang and folk tale, in a prose that refuses to settle into one
+register. In Japan, a group of young writers around the journal *Bungei Jidai*
+argued for a fiction of pure sensation over social reportage — Yokomitsu Riichi
+opening a novel with a train described as though the reader were the rails — and
+Kawabata Yasunari emerged from that circle into something quieter and more
+lasting. In Harlem, Jean Toomer assembled *Cane* out of sketches, lyrics and a
+closing play, a book whose formal restlessness belongs to the same moment even
+though its concerns do not.
+
+The habit these share with Joyce and Woolf is not a technique but an assumption:
+that the form of a work is not a container for its content but an argument about
+it. That assumption is now so widely held that it is hard to see as an assumption
+at all, which is the clearest measure of how thoroughly a difficult, unpopular,
+privately financed literature of the nineteen-twenties won.

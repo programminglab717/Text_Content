@@ -59,7 +59,7 @@ person has kept, thrown away, borrowed and not returned, repaired rather than
 replaced — a room's contents will characterize its occupant faster than any
 amount of interior monologue, and with less risk of the writer's hand showing.
 
-## Flat and Round, and the Uses of Both
+## Flat, Round, and the Uses of Contradiction
 
 E. M. Forster drew a distinction between flat characters, who can be summarized
 in a sentence and who behave consistently every time they appear, and round ones,
@@ -85,9 +85,7 @@ does something unexpected, the reader should feel a small readjustment — *of
 course* — rather than an objection. That feeling comes from material planted
 earlier and not explained at the time. Round characters are built backward.
 
-## Contradiction
-
-Real people hold incompatible things without noticing. The devoted father who is
+The raw material of that roundness is contradiction. Real people hold incompatible things without noticing. The devoted father who is
 casually cruel to waiters. The pacifist with a violent temper in traffic. The
 generous host who cannot bring herself to lend a book.
 
