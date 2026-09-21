@@ -112,7 +112,7 @@ marines; the early Ming deliberately did the opposite, banning private overseas
 trade outright.
 
 Above all, the threat was continental. The Mongols had not gone away. In 1449 an
-emperor led an army north, was surrounded at Tumu, and was captured — an
+emperor led an army north, was surrounded at Tumu, and was captured — a
 humiliation that fixed strategic priorities for the rest of the dynasty around
 the northern frontier, walls, garrisons, and horses. A navy that sailed to
 Africa did nothing about that.

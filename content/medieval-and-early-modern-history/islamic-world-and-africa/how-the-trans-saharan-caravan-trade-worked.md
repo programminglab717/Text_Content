@@ -25,9 +25,9 @@ a set of unglamorous adaptations that compound: it tolerates a swing in body
 temperature that would kill a horse, excretes very concentrated urine, loses
 water from its tissues rather than only from the blood so that circulation keeps
 working as it dehydrates, and can rehydrate enormously in a few minutes at a
-well. It eats thorn scrub and dry stalks that would starve an ox. Loaded with
-roughly its share of a hundred and fifty kilograms or so, it walks perhaps forty
-kilometres a day, day after day, and in cool weather it can go several days
+well. It eats thorn scrub and dry stalks that would starve an ox. Carrying a load of
+something like a hundred and fifty kilograms, it walks perhaps forty kilometres
+a day, day after day, and in cool weather it can go several days
 between waterings.
 
 Horses and oxen could not do this. Wheeled vehicles could not do it either, over

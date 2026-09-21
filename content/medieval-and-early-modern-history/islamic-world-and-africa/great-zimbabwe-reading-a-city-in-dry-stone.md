@@ -79,9 +79,9 @@ many people.
 
 The second was long-distance trade. The plateau held gold in quartz reefs and in
 river gravels, and it produced ivory and copper; these moved east to the coast,
-to Sofala and on to Kilwa, and entered the Indian Ocean system described in the
-previous paragraph of any book about the Swahili towns. What came back is in the
-ground at Great Zimbabwe: Chinese celadon and stoneware, glazed pottery from the
+to the port of Sofala and on through Kilwa into the wider Indian Ocean traffic,
+carried the last stretch by intermediaries who never saw the mines. What came
+back is in the ground at Great Zimbabwe: Chinese celadon and stoneware, glazed pottery from the
 Persian Gulf, glass beads in quantity, fragments of coral, an iron spoon,
 Arabic-inscribed coins struck at Kilwa. Nothing about these imports suggests
 foreign residents or foreign control. They are the ordinary residue of a ruling
