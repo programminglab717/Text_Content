@@ -93,6 +93,17 @@ not understand the events he is relating, and he is telling the truth. The
 novel's unreliability is not moral. It is epistemological, a demonstration that a
 man can live beside a catastrophe for nine years and see none of it.
 
+Frame narration produces a fifth case that sits slightly outside the scheme. When
+a story is relayed at second or third hand — Lockwood in *Wuthering Heights*
+setting down what Nelly Dean tells him, over weeks, about events she witnessed as
+a servant with strong opinions about everyone involved — the distortion is
+cumulative and no single teller has to be dishonest. Nelly is partisan. Lockwood
+is obtuse. Neither is lying, and the reader receives the Earnshaws and Lintons
+through two successive filters, each of which subtracts something different. The
+technique is older than the terminology and much of the nineteenth century runs
+on it; what it buys is deniability, a way to present extreme material while
+keeping the question of its accuracy permanently open.
+
 ## The Fair-Play Argument
 
 When *The Murder of Roger Ackroyd* appeared in 1926 a good many readers felt
@@ -112,7 +123,12 @@ entirely is not unreliable narration; it is an author changing the facts.
 This is the standard most failures miss. A narrator revealed on the last page to
 have been lying about everything, with no accumulated strangeness pointing that
 way, produces annoyance rather than vertigo — the pleasure of rereading is exactly
-the pleasure of finding that the evidence was there. The opposite failure is
+the pleasure of finding that the evidence was there. It also requires that the
+book maintain a stable reality for the narrator to be unreliable *about*. If
+nothing in the fiction can be established independently of the telling, doubt has
+nothing to attach to, and the effect dissolves into a general haze in which every
+statement is equally provisional. A reader can only feel misled if there is
+somewhere to be misled from. The opposite failure is
 oversignaling: a narrator so flagrantly mad from page one that the reader never
 extends trust, and so is never required to give any up. Unreliability without a
 prior investment of belief costs the reader nothing, and a technique that costs

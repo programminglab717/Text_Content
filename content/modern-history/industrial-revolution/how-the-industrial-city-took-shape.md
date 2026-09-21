@@ -132,7 +132,7 @@ trams from the 1870s, electric trams from the 1890s, and suburban railways
 running cheap early-morning fares under statutory obligation gradually let
 people live further from work than they could afford to walk. The effect was to
 sort the city by income along the tram routes: clerks and foremen moved out to
-the new bylaw terraces and semi-detached villas on the edge, while the oldest
+the new byelaw terraces and semi-detached villas on the edge, while the oldest
 and densest districts at the centre were left to the poorest, to recent
 migrants, and eventually to warehouses and offices that could pay more for the
 land than any tenant could.

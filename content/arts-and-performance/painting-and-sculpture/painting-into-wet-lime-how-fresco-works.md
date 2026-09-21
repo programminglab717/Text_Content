@@ -88,6 +88,17 @@ and largely transparent, modeling is built by hatching layer over layer, letting
 the white of the lime supply the light, rather than by blending opaque tones the
 way one can in oil.
 
+The tools are correspondingly plain. Pigments are ground in water and kept in
+small pots, thinned with more water or with limewater as needed; there is
+nothing to mix, nothing to thicken, and no drying time to plan around beyond the
+plaster's own. Stiff bristle brushes lay in broad areas, soft ones of squirrel
+or marten do the hatching. A painter who wants a lighter tone adds lime white
+rather than reaching for a pale pigment, which is part of why frescoed flesh has
+its particular cool, floury quality. Because the paint film is a fraction of a
+millimeter thick and largely made of the wall, a fresco also reflects light in a
+way panel paintings do not: matte, faintly luminous, holding its color at an
+angle instead of throwing back a sheet of gloss.
+
 ## What Lime Will Not Tolerate
 
 The other constraint is chemical. Wet lime is strongly alkaline and it destroys
@@ -107,6 +118,15 @@ exactly the passages that have flaked, leaving a ghostly gray underpaint behind.
 Giotto's Arena Chapel gives the effect in its purest form, brilliant lapis
 skies overhead with losses scattered through them like static. Gold leaf,
 tooled haloes, and final touches of expensive color went on the same way.
+
+None of this stopped patrons from commissioning fresco by the acre, because on
+the numbers it was the cheapest serious way to cover a large interior. Sand,
+lime, and earth pigments cost almost nothing beside panel, gesso, and imported
+color. A competent team could finish a chapel in a season, and the result needed
+no frame, no support, and no maintenance beyond keeping the roof sound. In a hot
+dry climate it is close to permanent. The technique spread around the
+Mediterranean for much the same reason terracotta roof tiles did: it suits the
+materials lying around and the weather overhead.
 
 Painting a secco is not cheating, and whole traditions north of the Alps used
 almost nothing else, working in lime wash or glue tempera on dry plaster
