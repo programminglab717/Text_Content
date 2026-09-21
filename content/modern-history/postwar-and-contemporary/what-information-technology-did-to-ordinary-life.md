@@ -34,6 +34,18 @@ institutions began to accumulate into something that could be retrieved in
 seconds by a stranger, and this happened well before anyone outside those
 institutions had a computer at all.
 
+The first machines most ordinary people ever dealt with directly were of this
+institutional kind. An airline reservation system that held every seat on
+every flight in one place, updated as agents around the country sold them,
+was operating by the mid-1960s, and it changed the business of flying more
+than any aircraft did. Barclays put a cash machine outside a branch in
+Enfield in 1967, and within twenty years the expectation that money could be
+obtained at two in the morning from a hole in a wall had become so ordinary
+that the older arrangement — banking hours, a teller, a passbook, a
+signature someone recognized — seemed faintly absurd. Neither of these felt
+like computing to the people using them. They felt like the world getting
+slightly more obliging.
+
 The personal computer's real disruption was not that it put computing in
 homes — that took another decade to matter — but that it moved this power
 out from under the data-processing department. The spreadsheet is the
@@ -87,6 +99,16 @@ Something real was gained here — coordination among more than two people
 used to be genuinely laborious, which is why so much social life was
 organized around fixed recurring occasions — and something real was lost,
 which is the ordinary practice of waiting, and of being briefly unreachable.
+
+Navigation went the same way. Finding an unfamiliar address used to mean a
+map, a written note of the turns, and a reasonable chance of stopping to ask
+someone. London taxi drivers spent years acquiring the Knowledge, a feat of
+memorized geography that a satellite receiver and a street database rendered,
+if not worthless, then no longer a barrier to entry. Getting lost stopped
+being a normal feature of travel and became a minor failure. It also
+redistributed traffic: routing software, indifferent to whether a street is
+residential, sends queues of strangers down lanes that were quiet for a
+century, which is a genuinely new kind of neighbourhood grievance.
 
 The same reachability ran straight through the wall between work and home.
 Email at first was a convenience that saved paper. Then it was on a laptop
@@ -142,6 +164,16 @@ at all. Verification: when anything can be produced and circulated cheaply,
 establishing that a document or an image is what it claims to be takes real
 effort. And uninterrupted time, which has quietly become a luxury good,
 sought out at retreats and in rules about phones at dinner tables.
+
+Underneath all of it sits an asymmetry. Individuals became far more legible
+to institutions than institutions became to individuals. A bank, an employer,
+an insurer or a government can assemble a detailed account of a person in
+moments; the reverse enquiry remains slow, partial and often obstructed. The
+same infrastructure cuts both ways in other respects — it has let a state
+monitor a dissident's contacts and let the dissident publish to the world
+without permission from anyone — but the default direction of visibility is
+downward, and the effort required to look back up has not fallen nearly as
+fast as the effort required to look down.
 
 A child born now will never have to memorize a phone number, and will also
 never have an afternoon during which nobody can reach her. Those are not two
