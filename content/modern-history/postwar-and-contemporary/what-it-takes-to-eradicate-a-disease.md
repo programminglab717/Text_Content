@@ -107,16 +107,16 @@ with larvae. The worm matures inside the body for about a year and then
 emerges, slowly and agonizingly, through a blister in the leg, usually while
 the sufferer stands in water to ease the burning, at which point it releases
 the next generation of larvae. There is no drug and no immunity. The
-campaign, led for decades by the Carter Center with Guinea worm-endemic
-countries, attacked the cycle at every point with almost embarrassingly
-simple tools: cloth filters and drinking-straw filters for individuals, a
-larvicide for ponds, new boreholes where possible, and above all case
-containment — finding each person with an emerging worm and keeping them
-out of the water source until it is fully extracted. From an estimated three
-and a half million cases a year in the mid-1980s, the annual human count has
-fallen into the low double digits. The final complication is a reservoir
-nobody anticipated: infections in dogs, which do not respond to health
-education.
+campaign, run for decades by the Carter Center alongside the health
+ministries of the endemic countries, attacked the cycle at every point with
+almost embarrassingly simple tools: cloth filters and drinking-straw filters
+for individuals, a larvicide for ponds, new boreholes where possible, and
+above all case containment — finding each person with an emerging worm and
+keeping them out of the water source until it is fully extracted. From an
+estimated three and a half million cases a year in the mid-1980s, the annual
+human count has fallen into the low double digits. The final complication is
+a reservoir nobody anticipated: infections in dogs, which do not respond to
+health education.
 
 River blindness took a different route. Ivermectin, a drug developed for
 veterinary use, turned out to clear the microfilariae that cause the disease

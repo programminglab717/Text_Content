@@ -38,6 +38,23 @@ a retrospective convenience, and the label has been stretched so far that some
 critics want to abandon it. But something was shared, and it is more specific
 than a general appetite for novelty.
 
+The groundwork had been laid before the war. Marinetti had launched Futurism
+from a Paris newspaper in 1909, with a manifesto praising speed, machinery and
+the demolition of museums. Pound and a handful of collaborators had formulated
+Imagism around 1912 — direct treatment of the thing, not a syllable that does not
+contribute, and composition by the cadence of the musical phrase rather than the
+tick of a metronome — which amounted to a demolition order on Victorian poetic
+diction. *Blast*, the Vorticist magazine, appeared in London weeks before the
+war began, printed in enormous type and mostly consisting of lists of things its
+editors blessed or cursed.
+
+Then four years of industrialized killing removed a generation and made the
+prewar confidence look obscene. It is tempting to draw a straight causal line
+from the trenches to the fragmented poem, and the line is real but cruder than
+the material. Joyce spent the war in Zurich writing a comic novel about a day in
+1904. Proust had begun his before it started. The war did not invent the
+techniques; it removed the last plausible audience for the tone they replaced.
+
 ## The Retreat of the Narrator
 
 The nineteenth-century novel ran on an arrangement so familiar it was invisible:
@@ -134,6 +151,16 @@ Kawabata Yasunari emerged from that circle into something quieter and more
 lasting. In Harlem, Jean Toomer assembled *Cane* out of sketches, lyrics and a
 closing play, a book whose formal restlessness belongs to the same moment even
 though its concerns do not.
+
+Franz Kafka, writing in German in Prague and publishing almost nothing, offers
+the sharpest correction to any account that equates modernism with surface
+difficulty. His sentences are lucid, his vocabulary unremarkable, his syntax the
+measured legalistic German of a man who spent his working life assessing
+industrial injury claims. The dislocation is entirely in the premise and in the
+absolute refusal to comment on it. A man wakes as an insect and the narrative
+concern is the logistics of getting out of bed and the effect on his employment.
+Most of the work reached print only because Max Brod ignored his friend's
+instruction to burn it.
 
 The habit these share with Joyce and Woolf is not a technique but an assumption:
 that the form of a work is not a container for its content but an argument about

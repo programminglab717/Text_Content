@@ -48,6 +48,16 @@ monotonous in a specific way; a poem where every break falls mid-phrase is
 exhausting in a different one, because unrelieved suspension stops registering
 as suspension.
 
+There is a second layer underneath, easy to miss because it is not visual.
+Abandoning meter does not abandon sound. Free verse poets bind their lines with
+the same materials everyone else uses — alliteration, assonance, consonant
+clusters, repeated grammatical frames, occasional internal rhyme surfacing and
+then dropping away. Read a strong free verse poem aloud and you will usually
+find whole passages that are more heavily patterned in sound than a comparable
+stretch of metrical verse, precisely because nothing else is holding them
+together. The patterning is local and irregular rather than schematic, which
+makes it harder to notice and harder to fake.
+
 ## Ancestors
 
 The form did not arrive from nowhere in 1912. English had a long, mostly
@@ -122,6 +132,16 @@ These are not interchangeable theories and some of them are closer to
 metaphysics than prosody. But they converge on one practical claim: the line
 break is a mark of duration and attention, and placing it is an act with
 consequences, not a typographic convenience.
+
+The page itself became part of the instrument during the same period. Once the
+left margin stops being mandatory, indentation can mark subordination, a
+stepped line can stretch a pause, isolated words can be given a whole line's
+worth of silence on either side, and stanza breaks can function as rests of
+measurable length. Some poets used this sparingly and some, following Mallarmé's
+scattered typography and then the concrete poets, treated the page as a field
+rather than a column. The risk is obvious — arrangement can substitute for
+saying anything — but the resource is real, and it is unavailable to verse that
+has committed to a fixed line.
 
 ## How It Goes Wrong
 
