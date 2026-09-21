@@ -157,6 +157,6 @@ The commanderies and counties, the appointed officials, the registers, the
 standard weights, the unified script, the codified law, the conscription, the
 roads — retained, softened at the edges, and justified in a different
 vocabulary. Han writers made an entire genre of denouncing Qin harshness while
-governing through Qin institutions. The dynasty that gave its name to the
-country in every European language lasted a decade and a half. The machinery it
+governing through Qin institutions. The dynasty whose name is the likeliest source of
+the word most of the world uses for the country lasted a decade and a half. The machinery it
 assembled ran, with modifications, for the next two thousand years.
