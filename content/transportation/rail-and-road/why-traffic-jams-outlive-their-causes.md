@@ -1,0 +1,47 @@
+# Why Traffic Jams Outlive Their Causes
+
+You have been crawling for eight minutes. Brake lights, first gear, the occasional hopeful surge to twenty kilometres an hour before everything stops again. Then, with no warning and no explanation, traffic loosens and you are back at cruising speed. There is no crash on the shoulder, no lane closure, no police car, no debris. Nothing happened. Whatever caused the jam is not there, and quite possibly was not there when you joined it.
+
+This is the ordinary case, not the exception, and it is the clearest evidence that congestion is not simply a matter of too many cars for the road. It is a dynamic phenomenon with its own behaviour, and the jam you sat in was a structure moving slowly backwards down the motorway, made of continuously changing vehicles, long outliving whatever momentarily disturbed the flow.
+
+## The Curve Everything Hangs On
+
+Three quantities describe a stream of traffic: how many vehicles pass a point per hour (flow), how many occupy a kilometre of lane (density), and how fast they are going. They are not independent — flow is simply density multiplied by speed — and plotting flow against density produces the shape that underpins the whole field.
+
+At low density, everyone travels at the speed they choose, and adding vehicles adds flow proportionally. That cannot continue. As density climbs, drivers begin adjusting to one another, speeds fall, and eventually the product of the two reaches a maximum: on a typical motorway lane, somewhere in the region of two thousand vehicles an hour. Past that point, adding density reduces speed faster than it adds vehicles, and flow falls. At the far end, density is at its maximum and flow is zero — a stationary queue, bumper to bumper, moving no one at all.
+
+The important and slightly unpleasant implication is that maximum throughput happens at a condition no driver enjoys: moderately dense traffic moving at rather less than free-flow speed, with the gaps uncomfortably small. A road running at its theoretical best is a road operating close to the edge of breakdown. It does not have much margin, and the margin it does have is consumed by the one variable nobody can design out: human reaction time.
+
+Consider what a gap actually contains. A car at a hundred kilometres an hour covers nearly thirty metres per second. If you need most of a second to notice a change and another fraction to move your foot, the space ahead of you is mostly reserved for the delay in your own nervous system. Five metres of vehicle and forty or fifty metres of reserved reaction distance is why a lane cannot swallow more cars than it does, and why every proposal to raise capacity by shortening gaps is really a proposal about reaction time.
+
+## How a Wave Is Born
+
+Now put a small disturbance into dense traffic. Someone brakes slightly to open the gap they have let close, or eases off to read a sign. The driver behind, reacting after a delay, brakes a little harder than necessary, because by the time they respond the gap has already shrunk further than they intended to allow. The third driver does the same, and by some distance back, someone has come to a complete stop.
+
+The disturbance has amplified. Each vehicle must then accelerate again, and acceleration is slower than braking — a car can shed speed far faster than it can recover it — so the queue takes longer to discharge at the front than it takes to grow at the back. The result is a compact region of stopped traffic that moves upstream, against the direction of travel, at something like fifteen to twenty kilometres an hour, absorbing new cars at its tail and releasing them from its head. No individual car is in the jam for long. The jam itself can persist for an hour and travel many kilometres.
+
+This has been demonstrated deliberately. Drivers were put on a circular test track in Japan with no obstacles, no junctions and nothing to do but hold a steady speed at a moderate spacing. Within a few minutes the smooth ring broke down into a stop-and-go wave that circulated backwards around the track. The cause was not an event. It was the instability of a chain of humans each trying to maintain a distance using delayed feedback.
+
+## Bottlenecks and the Capacity That Vanishes
+
+Real motorways add a further twist. At merges, lane drops, tight curves and steep grades, the achievable flow is lower than on open sections, and these are the places where breakdown begins. What makes them so costly is a well-documented and slightly perverse effect: once a queue forms at a bottleneck, the rate at which vehicles are discharged through it drops below the maximum flow the same bottleneck was sustaining moments earlier, by a few percent to something like a tenth.
+
+Capacity, in other words, is not a fixed property of a road. It is higher before breakdown than after. That is why a queue, once formed, does not clear as soon as demand falls back below the original capacity — it clears only once demand falls below the reduced discharge rate, which can take hours. The jam genuinely outlives its cause, and the cost of the few seconds of disruption that triggered it is multiplied enormously.
+
+Nearly every operational intervention on motorways is an attempt to exploit that asymmetry by preventing breakdown rather than managing it afterwards. Ramp metering holds vehicles at a signal on the entry slip road and releases them one or two at a time, sacrificing the ramp queue to keep the mainline just below the density at which it collapses. Variable speed limits posted upstream of a growing queue slow arriving traffic so that it reaches the back of the queue at a lower speed and higher density, smoothing the transition instead of hammering it. Both look, to the driver being slowed down, like bureaucratic obstruction. Both frequently increase the number of vehicles that get through per hour.
+
+The same logic explains the perennial argument about merging at a lane closure. Drivers who queue early in the open lane feel virtuous, and those who use the closing lane to its end feel efficient. The efficient ones are right about the geometry — using both lanes fully halves the length of the queue and keeps it clear of upstream junctions — but only if the merge at the head is orderly and alternating. It is a coordination problem masquerading as a morality play.
+
+## Why More Road Does Not Help for Long
+
+Suppose a congested corridor is widened. Journey times fall, briefly. Then drivers who had been travelling at awkward hours shift back to the times they preferred. Drivers who had taken slower parallel routes return to the fast one. Some who had used transit switch to driving. Over a longer period, households and employers make location decisions that assume the new travel time, and trips that were never made at all begin to be made.
+
+Demand for road space, in short, is elastic with respect to travel time, and the equilibrium is set not by capacity but by the point at which the journey becomes annoying enough to deter the marginal traveller. Empirical work on urban highways has repeatedly found that vehicle kilometres travelled rise roughly in proportion to lane kilometres added, which leaves congestion approximately where it was. A related equilibrium links road and transit: if driving improves, some riders leave transit, service frequency degrades, and the two modes settle back into rough parity of misery.
+
+There is even a theoretical result showing this is not just about induced travel. Braess's paradox demonstrates that adding a link to a network in which drivers each choose their own best route can make everyone's journey longer, because individually rational routing does not produce collectively optimal flows. Traffic finds a user equilibrium, not a system optimum, and the gap between the two is real money.
+
+If capacity cannot outrun demand, the alternative is to price the scarce thing directly. Singapore has charged for entry to its central area since the 1970s, first with paper licences and later with electronic gantries whose rates vary by time of day and are adjusted to hold traffic speeds in a target band. London introduced a daily charge for driving into the centre in 2003. Stockholm ran a trial in 2006 and, after a referendum, made it permanent. The recurring political pattern is that these schemes are unpopular before implementation and considerably less unpopular afterwards, once the traffic reduction is visible and the revenue is spent on something.
+
+What pricing does, in the language of the flow curve, is keep density below the breakdown point. Removing a modest fraction of vehicles from a road operating near capacity produces a speed improvement out of all proportion to the number removed, because the system is sitting on the steep part of the curve. The same leverage works in reverse, which is why a single school holiday week transforms an urban commute.
+
+Automation promises to attack the problem from the other end, by shortening the reaction delay that sets minimum headway. It has not yet delivered. Adaptive cruise control tuned for passenger comfort tends to respond gently and settle slowly, and a line of such vehicles can amplify a disturbance just as a line of humans does. Making a platoon stable requires vehicles that communicate with one another rather than merely watching the bumper ahead, which is a different and much harder deployment problem than selling driver assistance features one car at a time.

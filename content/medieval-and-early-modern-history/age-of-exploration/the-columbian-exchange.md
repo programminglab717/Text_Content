@@ -36,8 +36,20 @@ Chinese accounts credit a merchant with carrying vines home from Luzon — and
 became famine insurance in provinces where rice paddies were already fully
 subscribed.
 
+Chilies moved fastest of all, because they were light, dried well, grew
+almost anywhere warm, and answered a demand that already existed. Portuguese
+ships carried them to West Africa, to the Malabar coast, and on to Southeast
+Asia within a few decades, where cooks who had been paying for imported black
+pepper found they could grow a sharper heat in a kitchen garden. Within a
+century chilies had worked their way into the cooking of Sichuan and Hunan, into
+Korean fermented pastes, into Hungarian paprika fields and the stews of the
+Balkans and North Africa. The tomato, by contrast, dawdled. It was grown
+ornamentally in Italy for generations and regarded as dubious food before it
+became the base of a sauce, and northern Europeans stayed wary of it longer
+still.
+
 The potato took longer and mattered most. It arrived in Europe as a curiosity,
-grown in botanical gardens, eyed warily because it belonged to the nightshade
+grown in botanical gardens, distrusted because it belonged to the nightshade
 family and produced nothing recognizable above ground. Adoption came slowly
 through the eighteenth century, pushed along by agronomists and by rulers who
 had noticed that an acre of potatoes fed more people than an acre of rye and
@@ -85,6 +97,15 @@ falciparum malaria parasite established themselves in American tropics, and by
 killing newcomers at ferocious rates they helped lock in the plantation system's
 logic.
 
+Tobacco went east as a drug rather than a food, and it went fast. Within
+decades of contact it was being smoked, chewed, and taken as snuff from London
+to Istanbul to Japan, condemned by physicians and rulers who tried bans and
+taxes and mostly discovered that they had acquired a reliable revenue stream
+instead. It also became the first American export crop to make a colony viable:
+Virginia, which had nearly failed, survived on it, and in surviving it
+established the pattern of a plantation staple grown for a distant market by
+labour that was coerced first by indenture and then by slavery.
+
 ## Why the Diseases Ran One Way
 
 The epidemiological side of the exchange was catastrophically lopsided.
@@ -105,7 +126,9 @@ ducks — and nothing like the same crowded, continent-spanning traffic in
 livestock.
 
 So Old World populations arrived carrying a pathogen load they had partial
-immunity to, and met populations with no prior exposure at all. Epidemics
+immunity to, and met populations with no prior exposure at all. The conquests that follow in the textbooks look different once this is in
+view. Smallpox reached central Mexico during the campaign against Tenochtitlan,
+killing through the besieged city while the fighting went on. Epidemics
 frequently ran ahead of the colonizers themselves, travelling along indigenous
 trade networks, so that European arrivals in many regions encountered societies
 already reeling from an invisible event they could not explain. Estimates of
