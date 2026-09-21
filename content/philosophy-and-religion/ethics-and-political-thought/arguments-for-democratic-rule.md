@@ -51,6 +51,20 @@ to electoral politics is contested. The underlying observation — that expertis
 narrows the range of considered options as well as improving the analysis of
 them — is not seriously in doubt.
 
+A third epistemic claim concerns talking rather than counting. Voting
+aggregates preferences that people brought with them; deliberation changes them.
+Arguments that cannot be stated publicly without embarrassment tend to lose
+force when they have to be stated publicly, which filters out naked
+self-interest and leaves reasons that at least purport to be general.
+Experiments with citizens' assemblies — randomly selected panels given time,
+expert briefings and a facilitator — repeatedly find that participants shift
+their positions, become markedly better informed, and produce recommendations
+more coherent than anything a referendum on the same question yields. The
+qualification is that these conditions are the opposite of ordinary electoral
+politics, where deliberation happens in short bursts, under adversarial
+incentives, among people who will never meet. Whether the assembly result is
+evidence about democracy or evidence about small well-run groups remains open.
+
 ## The Argument From Self-Defence
 
 A blunter defence gives up on truth-tracking and concentrates on damage control.
@@ -76,6 +90,18 @@ To throw out a government you do not need a theory of monetary policy. You need
 to know that things have got worse and that the people in charge were in charge
 while they did. Retrospective voting of that crude kind is within almost
 everyone's reach, and it is enough to keep rulers nervous.
+
+There is a related claim about what voting does to voters rather than to
+rulers. John Stuart Mill thought the strongest reason for extending the franchise
+was educative: a person who has to form a view about a public question, defend it
+to neighbours, and live with the result acquires habits of judgment that a
+subject never develops. On this account the polling station and the jury box are
+schools, and the point of participating is partly what participation makes of the
+participant. The claim is empirical and only patchily supported — plenty of long
+established electorates show no obvious civic flowering — but it identifies
+something the other defences miss. A population that has never decided anything
+is not merely unrepresented; it is unpracticed, and hands power back the moment
+it is offered.
 
 ## The Argument From Equality
 
