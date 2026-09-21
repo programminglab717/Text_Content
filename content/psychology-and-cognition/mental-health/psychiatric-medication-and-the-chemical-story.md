@@ -9,16 +9,27 @@ for years and who recovered well enough to go home. Cade's reasoning about the
 guinea pigs was wrong in almost every particular. The drug works.
 
 Nearly every foundational psychiatric medication has an origin story of this
-shape. Chlorpromazine was developed as an antihistamine, taken up by a French
-naval surgeon interested in calming patients before anaesthesia, and passed
-along to psychiatrists at a Paris hospital who found in 1952 that it did
-something no previous compound had done: it quieted hallucinations and delusions
-rather than merely sedating the person having them. Imipramine was tested as a
-possible antipsychotic; it failed at that and unexpectedly lifted mood.
-Iproniazid was a tuberculosis drug whose patients were noticed to be
-conspicuously cheerful on the ward. The modern pharmacopoeia of psychiatry was
-not deduced from a theory of mental illness. It was stumbled into, mostly
-within a single decade, by clinicians paying attention to side effects.
+shape, and the most consequential of them concerns chlorpromazine. It was
+synthesised in a French laboratory as an antihistamine, taken up by a naval
+surgeon interested in calming patients before anaesthesia, and passed along to
+psychiatrists at a Paris hospital who reported in 1952 that it did something no
+previous compound had done. Sedatives had existed for a century; they made a
+distressed person unconscious. This made a person who was hearing voices stop
+being tormented by them while remaining awake and able to talk.
+
+Within a decade the drug was in use across Europe and North America, and the
+architecture of psychiatric care began to change around it. The vast custodial
+asylums that had absorbed the mentally ill since the nineteenth century started
+emptying. It would be too neat to credit the pills alone — the political appetite
+for closing those institutions, and the money involved, mattered at least as
+much, and the community services promised to replace them were frequently never
+built. But the possibility of treating psychosis outside a locked building
+began with a compound that nobody had designed for the purpose. Imipramine was
+tested as a possible antipsychotic, failed at that, and unexpectedly lifted
+mood. Iproniazid was a tuberculosis drug whose patients were noticed to be
+conspicuously cheerful on the ward. The pharmacopoeia was not deduced from a
+theory of mental illness. It was stumbled into, mostly within a single decade,
+by clinicians paying attention to side effects.
 
 ## The Hypothesis That Ran Backwards
 
@@ -32,33 +43,36 @@ schizophrenia, and in simplified form they escaped into public language as the
 chemical imbalance.
 
 The inference is not illegitimate, but it is weak, and its weakness was visible
-early. Aspirin relieves headache; headaches are not caused by an aspirin
-deficiency. More pointedly, the pharmacology and the clinical response run on
-different clocks. A selective serotonin reuptake inhibitor blocks the
+early. What a drug does tells you where a system can be pushed, not where it
+went wrong. A diuretic reduces the swollen ankles of heart failure without
+anyone concluding that the kidneys caused the illness; the problem is the pump,
+and the kidney is simply the most accessible lever. More pointedly, in
+psychiatry the pharmacology and the clinical response run on different clocks. A selective serotonin reuptake inhibitor blocks the
 transporter within hours of the first dose, yet the antidepressant effect, when
 it comes, typically takes weeks. Whatever is doing the therapeutic work is
 downstream — changes in receptor sensitivity, in gene expression, in the
 signalling that governs how readily synapses form and reorganise — rather than
 the transporter blockade itself.
 
-Attempts to find the predicted deficiency have not gone well. Studies that
-deplete the serotonin precursor tryptophan in healthy volunteers do not reliably
-make them depressed, though depletion can bring back symptoms in people who
-recently recovered on serotonergic medication, which suggests the system is
-involved in maintaining recovery rather than in causing the illness. A widely
-discussed umbrella review published in 2022 surveyed the various lines of
-serotonin evidence and concluded that the simple deficiency account is not
-supported. This was reported as though it undermined the drugs. It does not.
-It undermines an explanation of the drugs that specialists had largely
-abandoned decades earlier, while marketing departments and patient leaflets
-kept it alive because it was easy to say and carried the useful implication
-that the illness was not the patient's fault.
+Attempts to find the predicted deficiencies have mostly disappointed, and the
+serotonin case has been argued over publicly enough that the argument itself
+has become a source of confusion. The useful thing to notice is how little
+follows either way. Specialists had largely abandoned the simple deficiency
+model decades before the public did, and the drugs' evidence never rested on
+it. A deficiency model is a claim about a cause; a trial result is a claim
+about an effect; establishing the second has never required the first.
 
 The dopamine story in psychosis has aged somewhat better, partly because
-imaging work located the abnormality more precisely — in dopamine synthesis
-capacity in a particular striatal region — but even there the current framing
-is about how the system tags ordinary events with inappropriate significance,
-not about a simple surplus.
+imaging work has located an abnormality more precisely, in the capacity to
+synthesise dopamine in a particular striatal region. Even there the framing has
+moved. The current account is less about a surplus of a chemical than about a
+signalling system that tags ordinary events — a stranger's glance, a parked
+car, a phrase on the radio — with the kind of urgent significance normally
+reserved for things that matter enormously. Delusions, on this reading, are
+partly a reasonable attempt to explain why everything suddenly feels
+meaningful. What the medication does is turn down the tagging, which is also
+why it blunts the drive and vividness of ordinary experience along with the
+pathological kind.
 
 ## What the Classes Do
 

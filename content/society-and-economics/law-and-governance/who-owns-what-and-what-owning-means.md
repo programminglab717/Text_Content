@@ -95,6 +95,18 @@ promise to bind whoever buys the house next, it must satisfy stricter
 conditions and usually be registered, because it is being imposed on people
 who never agreed to it and who need a way to discover it.
 
+Movable things follow their own rules, and the sharpest of them concerns the
+innocent buyer. The starting principle is that nobody can give what they do
+not have, so a person who buys a stolen painting from a thief acquires
+nothing, however honest and however well paid. That rule protects owners and
+punishes buyers, and legal systems have chipped away at it wherever brisk
+trading matters more than perfect title: money passes free of prior claims,
+negotiable instruments do too, many civil law systems protect a good-faith
+purchaser of movables after a period, and modern security registries let a
+lender's interest in equipment or inventory be discovered by anyone who
+searches. Each exception is a judgment about whether it is cheaper for owners
+to guard their things or for buyers to investigate their sellers.
+
 ## Making Ownership Legible
 
 None of this works unless claims can be checked. Older systems recorded deeds:
@@ -123,6 +135,17 @@ Recognition running the other way is possible — Australian courts eventually
 accepted that indigenous title had survived colonization rather than being
 extinguished by it — but translating a customary relationship to land into a
 registrable interest is genuinely difficult, not merely bureaucratic.
+
+Intellectual property borrows the vocabulary and strains it. A field can be
+occupied by one farmer at a time; a melody, a formula or a design can be used
+by everyone at once without anyone being deprived. Exclusion there is not a
+description of a physical fact the law recognizes but an artificial right the
+law creates, justified by the argument that without it nobody would fund the
+expensive first copy. That different footing explains the features that look
+anomalous against ordinary property: fixed terms after which the right simply
+expires, compulsory licences, exceptions for research, teaching and criticism,
+and the long-running argument about whether the terms have been extended past
+the point where they encourage anything.
 
 ## The Limits Are Part of the Right
 
