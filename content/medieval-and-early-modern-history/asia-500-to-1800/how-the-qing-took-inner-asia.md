@@ -98,6 +98,8 @@ was marched across the continent to garrison the Ili and is still there. Two
 years later the Qing took the oasis cities of the Tarim Basin as well, and the
 combined territory was named Xinjiang, the new dominion.
 
+## The Limits of the Machine
+
 Qianlong advertised the result as the Ten Great Campaigns, a tally carved onto
 stelae and celebrated in commissioned battle prints engraved, at his request, in
 Paris. The list flatters. Alongside the Zunghar and Tarim conquests it counts an
