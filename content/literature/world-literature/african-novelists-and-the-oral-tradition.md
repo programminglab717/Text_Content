@@ -16,15 +16,20 @@ handled in radically different ways by writers who agree on almost nothing else.
 ## The Office of the Speaker
 
 It helps to be precise about what "oral tradition" means, because the phrase
-flattens an enormous range of specialized professions. In the Mande-speaking
-regions of West Africa, the jeli — often called a griot in French sources —
-belongs to an inherited caste with defined social obligations: keeper of
-genealogies, praise-singer, negotiator, the person who knows which families are
-owed what. The epic of Sunjata, which narrates the founding of the Mali empire,
-exists in dozens of performed versions, each shaped by the particular jeli, the
-particular patron, and the length of the occasion. When the Guinean writer
-Djibril Tamsir Niane published a prose version in the middle of the twentieth
-century, drawn from the recitation of a single jeli, he produced something
+flattens an enormous range of specialized professions. Among the Mande peoples of
+West Africa, the jeli — griot, in the French sources — is less a performer than
+an officeholder, and the office descends through particular families. A jeli
+speaks on behalf of patrons who are not supposed to speak for themselves,
+brokers marriages, carries messages between men who are not on speaking terms,
+and is licensed to say in public things nobody else may say. The verbal skill is
+inseparable from that social function; you cannot train for one without
+inheriting the other.
+
+The epic of Sunjata, which narrates the founding of the Mali empire, exists in
+dozens of performed versions, no two identical, each shaped by who is reciting,
+who is paying, and how many hours the occasion allows. When the Guinean writer
+Djibril Tamsir Niane published a French prose version in the middle of the
+twentieth century, working from one performer's recitation, he produced something
 useful and something misleading at once: a fixed text of a thing whose nature is
 to be unfixed.
 
@@ -44,7 +49,8 @@ Performance in these traditions is also rarely a solo act. A Mande recitation
 typically involves a designated respondent who punctuates the jeli's lines with
 assent — a naamu-sayer, whose job is to keep the rhythm and to stand in for the
 audience, so that the performance is audibly a transaction rather than a
-broadcast. Musical accompaniment sets the tempo. Listeners interject. A section
+broadcast. A patron who is pleased may make a gift in the middle of a passage, and the
+passage will lengthen accordingly. Listeners interject. A section
 that is going well gets extended; one that is not gets cut. None of this
 survives transcription, which is why a printed epic can feel strangely inert
 next to a recording of the same material.
