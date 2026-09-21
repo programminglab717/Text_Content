@@ -68,6 +68,19 @@ to find the next thing that will hold someone, which is a better objective
 and still not the same as serving them well. Any single measurable proxy,
 pushed hard enough, comes apart from the thing it was meant to proxy for.
 
+Precise measurement also dissolved a cross-subsidy that had quietly funded a
+great deal of expensive work. A newspaper's classified section, its automotive
+listings and its department store pages were profitable, and those profits
+paid for a statehouse bureau that no advertiser had ever asked for. Once
+advertisers could buy the specific people they wanted — someone who had just
+searched for a used car, wherever that person happened to be — they stopped
+paying for proximity to a car section and the bundle came apart. The revenue
+did not so much decline as relocate, away from institutions that produced
+journalism as a by-product of selling attention and toward intermediaries that
+produce nothing except the match. Attention that was once purchased in
+neighbourhoods is now purchased one person at a time, and the institutions
+that lived off the neighbourhood rate have no equivalent to sell.
+
 The interface techniques that followed are mostly borrowed from older
 behavioural research. Rewards delivered on an unpredictable schedule sustain a
 behaviour far longer than rewards delivered reliably, which is the principle
@@ -120,6 +133,20 @@ transaction is not exactly coerced, but it is not exactly chosen either, and
 the standard economic defence — revealed preference, people did the thing so
 they must have wanted it — cannot distinguish between wanting something and
 being unable to stop.
+
+The supply side has its own harsh arithmetic. Because attention is finite and
+the cost of publishing has fallen to nothing, the number of people competing
+for it has grown without limit while the pool has not, and the distribution of
+returns is ferociously unequal — a small number of entrants absorb most of the
+available attention and the long remainder share a residue that will not
+support anyone. Producers respond the way sellers in any glutted market
+respond: by increasing volume, by chasing whatever format the distribution
+system currently favours, and by accepting terms from intermediaries they
+cannot negotiate with. The characteristic complaint of working creators — that
+the platform changed the algorithm and their livelihood halved overnight — is
+not a grievance about a company's manners. It describes a market where the
+buyer sets the terms because the raw good is abundant and the channel to
+market is owned.
 
 There is also a compositional problem. Individually these systems are trading
 in small quantities of time. Collectively they are competing for the same

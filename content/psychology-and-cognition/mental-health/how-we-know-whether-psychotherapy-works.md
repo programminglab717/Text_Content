@@ -53,14 +53,18 @@ since, and it has an obvious explanation: if all bona fide therapies work
 through the same underlying processes, the branded differences between them
 are decoration.
 
-Those shared processes are usually called common factors. A relationship with
-someone who is paying close attention and is not embarrassed by what they hear.
-A credible explanation of what is wrong, which converts formless distress into
-something with a name and a shape. The expectation that this will help. A
-structure that requires turning up weekly and doing something about the
-problem. Repeated, tolerated exposure to material the person normally avoids
-thinking about, which happens in almost any therapy regardless of what the
-manual calls it.
+Those shared processes go under the heading of common factors, and the list is
+less banal than it sounds. Being listened to by someone who is neither shocked
+nor personally implicated is an unusual experience, and it is not available in
+most people's lives at any price. Having formless distress converted into
+something with a name, a shape, and an account of how it arose restores a sense
+that events are intelligible, which by itself changes how threatening they
+feel. Believing that the thing will help is not a nuisance variable to be
+subtracted out; expectation demonstrably alters symptoms. Committing to a
+weekly hour imposes a rhythm on a life that has usually lost one. And every
+therapy, whatever it calls the procedure, involves saying out loud and
+repeatedly the material a person has been organising their week around
+avoiding.
 
 The strongest single piece of evidence here concerns the therapeutic alliance —
 the quality of the bond and the agreement on goals and tasks. Its correlation
@@ -123,12 +127,15 @@ Small trials with positive results get published; small trials with null
 results often do not. When researchers such as Pim Cuijpers have applied
 statistical corrections for this bias to the depression literature, the
 estimated effects shrink considerably, though in most analyses they do not
-vanish. There is also a slow deflation over time: meta-analyses tracking
-cognitive behavioural therapy for depression across the decades have found its
-measured effect declining from the early trials to the recent ones. Explanations
-vary — early trials were small and enthusiastically run, comparison conditions
-have improved, patient populations have broadened, the control groups are no
-longer as naive about what therapy involves — but the trend is there.
+vanish. There is also a slow deflation over time. Meta-analyses that plot measured
+effects against publication year, rather than simply averaging them, have found
+the benefit of some well-studied treatments shrinking as the decades pass.
+Methodological quality improving is the charitable reading, and it is probably
+the largest part of it: better randomisation and concealment, fuller accounting
+for people who drop out, less reliance on outcome raters who know what they are
+hoping to see. Broader and sicker patient populations account for some more.
+Either way, an evidence base that gets weaker as it gets better run is telling
+you something about the earlier estimates.
 
 Follow-up is usually short, dropout is substantial and often analysed in ways
 that flatter the treatment, and harm is barely measured at all. A small but

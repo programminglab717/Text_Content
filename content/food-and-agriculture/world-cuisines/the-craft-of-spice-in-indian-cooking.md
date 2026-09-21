@@ -55,6 +55,15 @@ that the fat separates and pools at the edges of the mass, which tells the cook
 that the water has cooked off and the emulsion has broken — the point at which
 the ground spices can be added and fried for a minute without stewing.
 
+Some whole spices never get removed and are not meant to be eaten. A pot of
+pulao or a biryani will contain a shard of cassia bark, a couple of green
+cardamom pods, a black cardamom the size of a thumbnail, a bay leaf and a few
+cloves, all bloomed in ghee before the rice goes in. They are there to scent the
+steam, and a diner pushes them to the side of the plate without comment. This is
+a different mode of seasoning from ground masala: slower, more diffuse, and
+aimed at the aroma that rises when the lid comes off rather than at the taste on
+the tongue.
+
 At the other end sits garam masala, which is almost always a finishing blend
 rather than a base one. Its components — green cardamom, cinnamon or cassia,
 clove, black pepper, mace, sometimes black cardamom for smoke — carry volatile
@@ -99,6 +108,15 @@ sours northern dishes without adding liquid. Pomegranate seeds, lime, yogurt,
 and — since its arrival from the Americas — tomato all do related jobs.
 Jaggery, unrefined cane sugar with molasses still in it, is used in small
 quantities to round the sour rather than to sweeten.
+
+Fermentation supplies a sourness of its own. Rice and skinned black gram are
+soaked, ground to a batter and left overnight in a warm kitchen, where wild
+yeasts and lactic bacteria already present on the grain both leaven and acidify
+it; steamed, that batter becomes idli, and spread thin on a griddle it becomes
+dosa. Pickles work the other direction, using salt, oil and sun rather than
+water. Unripe mango or lime is cut, salted heavily, mixed with chile and
+fenugreek and mustard, covered in oil and left in a jar on a sunny roof for
+weeks. The result is intense enough that a teaspoon accompanies an entire meal.
 
 The classical framework behind this is the six-taste scheme of Ayurvedic
 thinking: sweet, sour, salty, pungent, bitter and astringent, with the idea that
