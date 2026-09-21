@@ -131,6 +131,8 @@ confirming the masters' rights to their own statutes and to suspend lectures whe
 wronged. Oxford's dispersals seeded other schools. Cities learned that the
 scholars were worth conceding to.
 
+## Colleges, and the Spread of the Model
+
 The colleges arrived later and almost incidentally — endowed halls of residence
 founded by bishops, kings and royal confessors to keep poor students housed, fed
 and supervised. At Paris the best known was set up in the thirteenth century by

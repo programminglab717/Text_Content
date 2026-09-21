@@ -137,6 +137,8 @@ copy it in a cold room. Libraries were small by later standards — a few hundre
 volumes was a great collection — and books were chained, lent against security,
 and catalogued.
 
+## The Long Afternoon
+
 By the thirteenth century monasticism was no longer the only serious option for
 a religious life, and probably no longer the most vital. The friars — Dominicans
 and Franciscans — went into the towns, preached, begged, taught in the
