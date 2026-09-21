@@ -149,6 +149,6 @@ accident rather than a reactivity accident. Three Mile Island lost coolant
 through a stuck relief valve while instrumentation told the crew the opposite.
 Fukushima Daiichi shut down cleanly on the earthquake, exactly as designed, and
 then lost first the grid and then the emergency diesels to the tsunami, leaving
-eleven intact but unattended cores' worth of decay heat with no pumps. The
+three intact but unattended cores' worth of decay heat and no working pumps. The
 chain reaction had already been stopped in each case. What remained was the
 residue, and the residue was enough.
