@@ -26,12 +26,12 @@ conviction. Eliot's poem appeared in the autumn. Virginia Woolf published *Jacob
 Room*, her first novel to abandon conventional narration outright, constructing a
 young man entirely out of other people's glimpses of him and then killing him
 offstage. Rilke, in a tower in Switzerland, finished the *Duino Elegies* after a
-decade of silence and wrote the *Sonnets to Orpheus* in a matter of days. In
-Peru, César Vallejo published *Trilce*, a book that breaks Spanish syntax and
-orthography so violently that it baffled even sympathetic readers. In São Paulo,
-a three-day Modern Art Week of concerts, readings and exhibitions announced
-Brazilian modernismo to an audience that heckled. Proust died in November, with
-the later volumes of his novel still unpublished.
+decade of silence and wrote the *Sonnets to Orpheus* in a matter of days. Katherine
+Mansfield brought out *The Garden Party*, having reduced the short story to
+something that can stop without resolving anything. Osip Mandelstam's *Tristia*
+appeared. Eliot launched a quarterly of his own, *The Criterion*, and put his
+poem in the first issue. Proust died in November, with the later volumes of his
+novel still unpublished.
 
 None of these people were doing the same thing. Grouping them under one label is
 a retrospective convenience, and the label has been stretched so far that some
@@ -139,18 +139,24 @@ addressed to friends.
 The version of this story taught in English departments tends to run from London
 to Paris and stop. The same pressures produced different answers elsewhere.
 
-Brazilian modernismo, after its noisy debut, turned toward a theory of cultural
-cannibalism: Oswald de Andrade proposed that Brazil should devour European
-culture rather than imitate it, absorbing what was nourishing and discarding the
-rest. Mário de Andrade's *Macunaíma* built a national anti-hero out of indigenous
-myth, urban slang and folk tale, in a prose that refuses to settle into one
-register. In Japan, a group of young writers around the journal *Bungei Jidai*
-argued for a fiction of pure sensation over social reportage — Yokomitsu Riichi
-opening a novel with a train described as though the reader were the rails — and
-Kawabata Yasunari emerged from that circle into something quieter and more
-lasting. In Harlem, Jean Toomer assembled *Cane* out of sketches, lyrics and a
-closing play, a book whose formal restlessness belongs to the same moment even
-though its concerns do not.
+In Japan, a group of young writers gathered around the journal *Bungei Jidai*
+and argued for a fiction of pure sensation rather than social reportage — the
+school's most cited opening has an express train racing past small stations that
+it disregards like stones, a sentence that puts perception ahead of information
+in a way no previous Japanese prose had. Yokomitsu Riichi was its theorist.
+Kawabata Yasunari came out of the same circle and moved toward something quieter
+and far more lasting.
+
+In Harlem the question was sharper, because formal experiment had to be argued
+for against people who wanted the work to do something else. Jean Toomer
+assembled *Cane* out of sketches, lyric poems and a closing play, a book that
+never settles into a genre and was read by almost nobody for decades. Langston
+Hughes built poems on the blues stanza and the rhythms of a band, and defended
+the right of a Black artist to write what he liked without submitting the result
+to anyone's programme for racial uplift. The generation was under pressure to be
+representative, which is precisely the demand modernist form is constructed to
+refuse, and the friction produced work that fits no tidy account of either
+movement.
 
 Franz Kafka, writing in German in Prague and publishing almost nothing, offers
 the sharpest correction to any account that equates modernism with surface
