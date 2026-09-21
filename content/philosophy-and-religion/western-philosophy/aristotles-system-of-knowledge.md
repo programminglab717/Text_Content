@@ -98,7 +98,7 @@ a lover: as an object of desire, without being touched or altered. Its activity,
 being the highest kind, is thinking; and since it must think the best object, it
 thinks itself.
 
-## The Man with the Cuttlefish
+## The Man Who Dissected
 
 Biology takes up more of the surviving corpus than anything else, and the
 difference in texture is startling. The metaphysical works argue; the biological
