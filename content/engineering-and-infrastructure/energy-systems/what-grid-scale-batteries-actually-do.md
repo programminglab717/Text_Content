@@ -132,7 +132,7 @@ Fire is the other liability, and the failure mode is specific: a single cell
 goes into thermal runaway, vents flammable electrolyte vapour, and heats its
 neighbours until they do the same. The engineering response has been less about
 extinguishing — water does little once a pack is self-heating — than about
-containment and geometry. Modern sites use outdoor walk-in-free enclosures with
+containment and geometry. Modern sites use outdoor enclosures no one walks into, with
 deflagration panels, fixed spacing between units, and detection that watches for
 off-gassing before there is any flame. The large California installation that
 burned repeatedly was a retrofit into an old turbine hall, thousands of racks

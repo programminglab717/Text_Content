@@ -149,7 +149,7 @@ familiar. The modern skull shape assembles piecemeal, across the continent,
 among populations that were exchanging genes with one another, and the search
 for a single ancestral place and moment may be a category error.
 
-That last group makes the point about surprise. The Flores skeletons, found in a
+The record also keeps producing outright surprises. The Flores skeletons, found in a
 cave floor in Indonesia, belong to an adult barely a meter tall with a brain
 smaller than an australopith's, living far later than anything with those
 proportions had any business living. Deep in a South African cave system,

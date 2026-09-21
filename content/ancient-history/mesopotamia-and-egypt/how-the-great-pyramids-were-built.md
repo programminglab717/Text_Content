@@ -12,13 +12,12 @@ centimeters end to end. The pyramid was built by people who were much better at
 some parts of the job than others, and who were extremely good indeed at the
 part that had to be done first.
 
-The Giza pyramids were not a mystery to the people who built them and they are
-not much of one now. What they were was an enormous logistical problem —
-quarrying, floating, hauling, lifting and dressing something on the order of two
-and a half million blocks, most of them around the weight of a small car, on a
-schedule set by the lifespan of a king. Nearly everything that looks inexplicable
-about them turns out to be a question about scheduling and labor rather than
-about engineering.
+The Giza pyramids were never a mystery to the people who built them. What they
+were was an enormous logistical problem — quarrying, floating, hauling, lifting
+and dressing something on the order of two and a half million blocks, most of
+them around the weight of a small car, on a schedule set by the lifespan of a
+king. Nearly everything that looks inexplicable about them turns out to be a
+question about scheduling and labor rather than about engineering.
 
 ## Three Generations of Getting It Wrong
 
@@ -37,8 +36,7 @@ The decisive experiments belong to Sneferu, Khufu's father, who built on a scale
 nobody had attempted. At Meidum a stepped structure was converted into a true
 smooth-sided pyramid by filling the steps and casing the result; today it is a
 three-stage tower standing in a skirt of its own rubble, and whether that rubble
-represents a collapse during or shortly after construction or simply centuries
-of stone-robbing is still argued.
+means a collapse or simply centuries of stone-robbing is still argued.
 
 At Dahshur he began again, at a steep angle of roughly fifty-four degrees, on
 ground that included sand and clay rather than solid rock. Partway up, the
@@ -61,8 +59,7 @@ by leaving a knoll of natural bedrock inside the footprint and building around
 it, so an unknown fraction of the Great Pyramid's lower volume is simply the
 hill it sits on. Leveling the perimeter is usually explained by trenches filled
 with water — a water surface being a perfect level — with marks cut at the
-waterline and the rock then trimmed to those marks. A plumb line and a wooden
-A-frame would do the same job more laboriously.
+waterline and the rock then trimmed to those marks.
 
 The orientation is the part that still attracts arguments. The sides of the
 Great Pyramid face the cardinal directions to within a small fraction of a
@@ -126,8 +123,7 @@ the volume modest but buries the corners and the faces, which is a serious
 problem when those corners are exactly what the surveyors need to sight along to
 keep the thing true. One proposal puts a narrow ramp inside the pyramid itself,
 spiraling up just behind the casing, with open notches at the corners for
-turning the blocks; density anomalies in the masonry have been read as support
-for it, and it remains unproven.
+turning the blocks. It remains unproven.
 
 Most likely the answer is mixed: a substantial external ramp for the lower
 courses, which contain the overwhelming majority of the stone, and something
@@ -140,7 +136,7 @@ arithmetic of what gradient is possible. Herodotus, visiting more than two
 thousand years later, was told the blocks were raised from step to step with
 machines made of short timbers — which sounds like levering, and levering
 certainly happened in the final placement, where a block had to be nudged the
-last few centimeters into a joint you cannot slide a blade into.
+last centimeters into its joint.
 
 ## The People Who Did It
 
@@ -148,9 +144,8 @@ The pyramid builders were not slaves, and the evidence for that is not
 sentimental. Southeast of the Sphinx, excavation has uncovered a settlement laid
 out for the workforce: long galleries that appear to have been sleeping halls,
 industrial bakeries with bread moulds by the hundred, a building where fish were
-processed in bulk, and bone refuse indicating that cattle, sheep and goats were
-being delivered and eaten in quantities that imply a deliberately provisioned
-labor force rather than a starved one.
+processed in bulk, and bone refuse showing cattle, sheep and goats delivered
+and eaten in quantities that imply a provisioned labor force, not a starved one.
 
 On the slope above lie the workers' own cemeteries — small mudbrick tombs, some
 with inscriptions naming the occupant's role, arranged in a way that suggests

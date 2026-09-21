@@ -51,6 +51,18 @@ introduced earlier: without it, only men who could afford to lose a working day
 would show up, and the democracy would quietly become a democracy of the
 leisured.
 
+The same quorum governed the strangest of Athenian procedures. Once a year the
+Assembly was asked whether it wished to hold an ostracism. If it said yes, a
+vote was held some weeks later in the Agora, and each citizen scratched a name
+on a potsherd. The man with the most votes went into exile for ten years, kept
+his property, and lost no rights beyond the right to be in Attica. No charge
+was brought and no defense was offered, because ostracism was not a punishment;
+it was a way of resolving a deadlock between two powerful rivals by removing
+one of them without bloodshed. Thousands of the used sherds have been found,
+some of them written in the same hand in batches, which suggests that helpful
+people stood ready to supply a pre-inscribed ballot to voters who could not
+write.
+
 ## The Council, the Tribes, and the Clock
 
 The Council of Five Hundred did the state's continuous work. Fifty men came
