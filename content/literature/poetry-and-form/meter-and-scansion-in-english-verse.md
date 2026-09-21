@@ -102,6 +102,15 @@ fourteenth century, in *Sir Gawain and the Green Knight* and *Piers Plowman*,
 before giving way to the syllable-counting, rhyming line that came in through
 French and Italian models.
 
+There have also been repeated attempts to import classical quantity directly,
+measuring English syllables as long or short and writing hexameters on the Greek
+model. Renaissance experimenters tried it; so, much later, did Longfellow in
+*Evangeline* and Clough in his long hexameter narratives. The results are
+readable but they never quite convince, because English listeners hear stress
+first and duration second, and a meter built on the property the ear does not
+track has to be explained before it can be enjoyed. The experiments are
+instructive failures: they show how deeply stress-timed English is.
+
 Purely accentual meter never disappeared. Nursery rhymes are accentual — the
 number of unstressed syllables between beats varies wildly and nobody notices,
 because the beats arrive on time. Hopkins built a whole theory on this,
@@ -112,6 +121,18 @@ new. Syllabic verse takes the opposite approach, counting syllables and
 disregarding stress entirely. Marianne Moore wrote elaborate syllabic stanzas
 whose shape is visible on the page and nearly inaudible to the ear, which is a
 strange and deliberate effect: a form the reader can see but not hear.
+
+Meter also does not operate alone. It works with the stanza, and the stanza
+supplies expectations of its own. Rhyme tells the ear where lines end and groups
+them into units; a couplet closes, a quatrain balances, terza rima refuses to
+close because each stanza plants a rhyme that only the next one can answer. Line
+length within a stanza does similar work. The hymn stanzas — common meter,
+long meter, short meter — differ only in how many feet each line carries, and
+yet they feel entirely distinct, because a short line at the end of a group
+lands like a footfall while an even one keeps walking. Spenser ends his
+nine-line stanza with a hexameter for exactly this reason, letting the extra
+foot slow and settle a stanza that has already gone on longer than the ear
+expected.
 
 ## What Scansion Is Good For
 

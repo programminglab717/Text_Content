@@ -41,6 +41,16 @@ alternatives that would do the same metrical job simply do not exist. That is
 the signature of a working tool rather than a stylistic flourish. Ornament
 proliferates; equipment does not.
 
+The one device that seems to resist the formulaic account is the extended simile,
+and it is worth noticing why. When the Iliad pauses to compare a charging army to
+a forest fire on a mountain ridge, or a wounded man's collapse to a poppy bending
+under rain, the comparison runs on for lines and reaches entirely outside the
+war — into farming, weather, herding, the work of women at a loom. These passages
+are not interchangeable units. They function as relief valves, admitting the
+ordinary peacetime world into a poem otherwise confined to a battlefield, and
+they are one reason the Iliad feels larger than its subject. A tradition supplies
+the toolkit; it does not supply that.
+
 Above the level of the phrase sits the theme, or type-scene: a recurring block of
 narrative action with a conventional sequence. The arming of the warrior. The
 arrival of a guest and the hospitality that must follow. The assembly where
@@ -118,6 +128,18 @@ the audience a template so that departures from it register as meaningful — wh
 the expected hospitality is refused, or the arming scene is interrupted,
 everybody present feels the deviation immediately because everybody knows the
 pattern.
+
+Length is the other thing worth keeping in mind, because it governs everything
+else. A full performance of a major epic is not an evening's diversion. Lord's
+singers could extend or compress almost at will, and the great Balkan songs ran
+for hours; the Manas in Kyrgyz tradition is vastly longer than the Iliad and the
+Odyssey combined, and no performance covers it. Audiences did not consume these
+poems whole. They heard episodes, on occasions that mattered — a festival, a
+wedding, a patron's hall in winter, a long night in a coffeehouse during
+Ramadan — and they already knew the outcome. Suspense in the ordinary sense was
+never the point. The pleasure lay in how a particular singer handled a scene
+everyone had heard before, which is closer to how an audience listens to a
+familiar aria than to how a reader consumes a thriller.
 
 ## After the Singing
 

@@ -40,6 +40,15 @@ the word *orature* to describe all this, precisely to stop people from calling i
 "oral literature," a phrase that quietly makes writing the standard and speech
 the deviation.
 
+Performance in these traditions is also rarely a solo act. A Mande recitation
+typically involves a designated respondent who punctuates the jeli's lines with
+assent — a naamu-sayer, whose job is to keep the rhythm and to stand in for the
+audience, so that the performance is audibly a transaction rather than a
+broadcast. Musical accompaniment sets the tempo. Listeners interject. A section
+that is going well gets extended; one that is not gets cut. None of this
+survives transcription, which is why a printed epic can feel strangely inert
+next to a recording of the same material.
+
 What these forms share is not looseness but constraint. A performed text has to
 be held in memory, delivered in real time, and adjusted to an audience that is
 present and reacting. That produces formulaic phrasing, heavy patterning,
@@ -69,6 +78,15 @@ which it is often unclear whether a statement belongs to the narrator or to
 Umuofia's general opinion — which is the point, since the tragedy is precisely
 about a man measuring himself against collective opinion.
 
+He also thought institutionally. As founding editor of Heinemann's African
+Writers Series, Achebe spent years reading manuscripts from across the continent
+and deciding what would get into print, into schools, and into the hands of
+readers who would otherwise have studied only English texts. The series put
+inexpensive paperbacks by African authors into classrooms from Nairobi to Accra,
+and it shaped what a generation understood an African novel to be. Arguments
+about language are never only about aesthetics; they run through printing costs,
+distribution, and which ministry buys the textbooks.
+
 ## Tutuola and the Refusal to Translate
 
 Four years before *Things Fall Apart*, Amos Tutuola published *The Palm-Wine
@@ -96,6 +114,14 @@ English was not enough. In *Decolonising the Mind* he announced that he would
 write his fiction and drama in Gikuyu, on the grounds that language carries the
 culture that made it and that an African literature composed in European
 languages is, at best, an Afro-European one.
+
+Achebe's reply, sustained over decades, was that English had arrived and could
+not be wished away, that it was the only language in which a Nigerian writer
+could address Nigerians across two hundred-odd mother tongues, and that a
+conquered people might reasonably take the conqueror's tool and use it for their
+own purposes. Ngũgĩ's counter was that this reasoning conceded the war while
+winning the argument, since it left the peasant and the worker — the people the
+novels were about — permanently outside the audience for them.
 
 The decision was not abstract. He had worked on a community theatre project at
 Kamĩrĩĩthũ, where villagers who had never acted developed and performed a play
@@ -131,7 +157,19 @@ Ngũgĩ's later *Wizard of the Crow*, written in Gikuyu and enormous, is
 constructed as a sequence of tales told by characters to other characters, each
 narrator interrupting and correcting the last. Nuruddin Farah built his Somali
 novels around a culture where poetry is a political instrument and an insult in
-verse can travel faster than a messenger.
+verse can travel faster than a messenger. The South African poet Mazisi Kunene
+composed in Zulu and then rendered his own long poem on Shaka into English,
+producing a text that reads in neither language quite like anything else — the
+praise-name piling up in a line of English verse that cannot decline nouns the
+way the original does.
+
+There is a quieter version of the same inheritance in writers not usually
+discussed under this heading. The looping, digressive first-person of much
+contemporary West African fiction, the habit of stopping a scene to tell an
+apparently unrelated story that turns out to be the argument, the narrator who
+addresses the reader as a companion rather than an eavesdropper — these are
+performance habits that survived the migration onto the page, often in writers
+who would not describe themselves as working with folklore at all.
 
 The point these writers keep arriving at, by different routes, is that the
 opposition between oral and written is less stable than it looks. A jeli
