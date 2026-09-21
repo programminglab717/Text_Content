@@ -37,6 +37,21 @@ and there is no inner sanctuary, because there is no need for one. Elsewhere a
 rope of twisted rice straw — shimenawa — hung with folded paper streamers marks
 a tree or a boulder as a place a kami occupies or may descend into.
 
+The old stories were written down in the early eighth century, in the Kojiki
+and the Nihon Shoki, and they are strange, earthy and not much interested in
+morality. The islands are born from drops falling off a spear. Izanagi pursues
+his dead wife Izanami into the land of the dead, breaks his promise not to look
+at her, and flees her rotting body, then purifies himself in a river — and from
+that washing the sun, the moon and the storm god Susanoo are born, which makes
+purification the origin of the most important kami rather than a response to
+them. Susanoo's rampage drives Amaterasu into a cave and the world goes dark
+until the other kami lure her out with a raucous dance, laughter, and a mirror
+in which she sees her own light and mistakes it for a rival. These narratives
+were compiled under a court with an interest in tracing its own descent, and
+they have been read politically ever since, but they are not a doctrinal
+foundation. Shrines do not teach them as articles of faith. They supply names,
+relationships and precedents for rites.
+
 ## The Grammar of a Visit
 
 Near the entrance stands a stone basin with a bamboo dipper. The visitor rinses
