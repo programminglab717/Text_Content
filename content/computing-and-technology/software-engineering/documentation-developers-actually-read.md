@@ -1,0 +1,47 @@
+# Documentation Developers Actually Read
+
+It is eleven at night and someone is stuck. They have an error message with a number in it, a deadline in the morning, and a browser tab open to your documentation site. They are not going to read your architecture overview. They are not going to start at the beginning. They will scan the page for something that looks like their error, and if they don't find it in about twenty seconds they will go to a search engine, then to a forum thread from four years ago, and they will solve their problem using a workaround that is wrong in a way that will cost them later.
+
+That reader is the one to write for. Almost all technical documentation is composed as if for a person sitting down with coffee and an open afternoon, working through the material in order. Almost all technical documentation is consumed by a person in a state of mild panic, entering in the middle, looking for one specific thing. The gap between those two postures explains most of what makes docs frustrating, and closing it is less about writing skill than about structure.
+
+## Four Documents Pretending to Be One
+
+The most useful idea in this area is Daniele Procida's observation that documentation serves four distinct purposes, and that mixing them is what makes pages fail. A tutorial teaches a beginner by walking them through a guaranteed success. A how-to guide helps a competent person accomplish a specific goal. Reference describes the machinery accurately and exhaustively. Explanation provides the background — why the system works the way it does, what alternatives were rejected, what mental model to hold.
+
+Each of these has a different reader in a different state, and they are actively hostile to one another when combined. A tutorial that pauses to explain the caching architecture loses the beginner, whose only job right now is to get something running and feel competent. A reference page that tries to teach is a reference page you can't scan. A how-to guide that starts from an empty machine is useless to the person who has already installed everything and just needs the flag. The single most common documentation problem is a page that tries to do all four at once and therefore does none of them, and the single cheapest improvement is to split it into four pages that each know what they are.
+
+This also clarifies what to write first, which is usually not what teams write first. Teams write reference, because reference can be generated and feels rigorous. But nobody arrives at a system wanting reference; they arrive wanting to accomplish something. How-to guides are the highest-traffic documents in most projects and the most neglected, because each one is small, specific, and unglamorous — how to rotate a key, how to run against a local database, how to handle a paginated response.
+
+## The README Carries More Weight Than Anything Else
+
+For a library or an internal service, the README is the entire documentation budget for most readers, because most readers never get past it. It should answer four questions in roughly its first screen: what is this, what problem does it solve, how do I get it running, and where do I go next. Badges, contribution philosophy, sponsor links, and a history of the project's naming are all fine, further down.
+
+The test for the "how do I get it running" section is brutally simple: can a stranger copy the commands in order, paste them into a terminal, and end with something working? Not something almost working. Sample code with an ellipsis where the interesting part goes, or a snippet that assumes three environment variables the reader has never heard of, fails this test and fails it in a way the author can't see, because the author has those variables set.
+
+Working examples outperform prose by an enormous margin, and the reason is that an example is checkable. A reader can run it and observe whether reality matches the page. Prose has to be believed. This is also why the best documentation systems find ways to execute their own examples — doctests, snippet extraction from tested source files, sample applications that run in continuous integration. Any documentation that can't be verified mechanically will drift, and drift is the thing that destroys trust. A reader who finds one stale command on a page treats every other statement on that page as suspect, correctly.
+
+Which leads to an underrated maintenance practice: deleting documentation. A wiki with four hundred pages, of which forty are current, is worse than a wiki with forty pages, because the reader has no way to tell which forty. Stale docs are not neutral — they actively cost more than no docs, since they send people confidently in wrong directions. If a page can't be maintained, archive it with a visible date and a warning, or remove it.
+
+## Write Down the Why, Because Nothing Else Records It
+
+Code records what a system does. Tests record what it's supposed to do. Nothing in the repository records why a particular approach was chosen over the two that were considered and rejected, and that absence is the reason teams relitigate the same decision every eighteen months, usually arriving at the original answer after a month of argument.
+
+Architecture decision records are a lightweight fix, popularized by Michael Nygard. Each one is a short file in the repository, numbered, covering the context in which a decision was made, the decision itself, and the consequences accepted along with it. The essential discipline is that they are immutable: you never edit a decision record to reflect a change of mind. You write a new one that supersedes it. What you end up with is a chronological record of how the team's thinking evolved, which is both more honest and more useful than a current-state document, because the most common question a newcomer has is not "what did we decide" but "why on earth did we decide that," and the answer is almost always a constraint that existed at the time and may not exist now.
+
+The other document that records something nothing else can is the runbook, and its audience is a specific person: the on-call engineer at three in the morning, woken by a page, operating at perhaps sixty percent of their normal reasoning capacity. Runbooks written for that reader look different from other docs. They are imperative and concrete. They give exact commands, not descriptions of commands. They state what normal looks like so abnormal can be recognized. They say what to do if the first step doesn't work, and who to wake up if none of it does. A runbook written in the leisurely explanatory register of a design document is not a runbook; it's a document that will be skimmed and abandoned while the site is down.
+
+## The Curse of Knowing
+
+The hardest part of writing documentation is that the writer cannot un-know the system. Once you understand something, the path to that understanding becomes invisible, and you omit exactly the steps that a newcomer needs, because they no longer register to you as steps. This is why documentation written by the person who built the thing is often thorough and unusable at the same time.
+
+There are a few practical defenses. The best is to watch someone use the docs without helping them — genuinely without helping, sitting on your hands while they go down the wrong path, because every place they stumble is a defect. This is uncomfortable and it is worth more than any amount of re-reading. A cheaper version is to make onboarding self-repairing: every new person's first task is to follow the setup documentation and fix whatever broke, with the expectation that something will. They are the only people in the organization who can still see the gaps, and that window closes within about two weeks.
+
+It also helps to write for a specific person rather than an audience. Not "the user," who is an abstraction and gets abstract prose, but a named colleague at a known level of experience. The register tightens immediately.
+
+## Discoverability Is Half the Product
+
+Documentation that exists and can't be found is documentation that doesn't exist. Most organizations accumulate three or four parallel systems — a wiki, a docs site, comments in the ticket tracker, a pinned message in a chat channel, plus the code itself — and the reader has no idea which one is authoritative. The fix is boring and organizational rather than clever: pick one location per category of document, put pointers from everywhere else to it, and make search work.
+
+A good proxy for whether documentation is working is whether questions stop being asked. When someone asks a question in chat that the docs answer, the answer is not just to send the link. It's to ask why they didn't find it, and then either move the page, rename it, or add the words they searched for. Questions are usage data. A question asked three times is a page that is missing, badly titled, or wrong, and the third asker is doing you a favor by proving it.
+
+The projects with documentation people actually read tend to treat it as a product with users rather than as an artifact owed to a process. They have someone who owns it. They fix it in response to evidence. And they accept that most of the value sits in a handful of short, specific, frequently-visited pages — the quickstart, the half-dozen common how-tos, the error reference — rather than in the comprehensive manual that took a quarter to write and gets opened twice a year.
