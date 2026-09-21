@@ -38,6 +38,17 @@ What all of these have in common is direction of flow. The information goes up,
 the demand comes down, and the person counted gets nothing in particular for
 having been counted.
 
+The suspicion ran deep enough to become religious. The Hebrew Bible tells of a
+census ordered by David that is treated as a transgression and followed by
+plague, and Jewish practice preserved a lasting reluctance to count people
+directly — a room is checked for a quorum by reciting a verse with the right
+number of words, or by counting "not one, not two," rather than pointing at
+heads. Similar unease surfaces elsewhere. Counting a herd invites the evil eye;
+counting children tempts fate. Underneath the superstition sits a practical
+observation that peasants everywhere made independently: the man with the tally
+sheet is followed sooner or later by the man with the tax demand or the
+recruiting sergeant.
+
 The modern census reverses part of that. When the framers of the United States
 Constitution required an actual enumeration of the population every ten years,
 they tied it not to taxation alone but to representation: seats in the House
@@ -120,6 +131,20 @@ statistical estimation would make the totals more accurate but makes the numbers
 partly a product of a model, and in the United States, where the count directly
 determines political power, that proposal has been fought all the way to the
 Supreme Court.
+
+A newer difficulty has emerged from the richness of published tables. When a
+statistical agency releases counts broken down by small geography and by several
+characteristics at once, the cells get thin — one household of a given
+composition on a given block — and it becomes possible to work backwards from
+published aggregates, especially when they can be matched against commercial
+databases, to reconstruct records about identifiable people. The United States
+responded in its 2020 count by injecting calibrated statistical noise into the
+published tables under a framework known as differential privacy, which bounds
+mathematically how much any one person's participation can affect what is
+released. Demographers, epidemiologists, and local officials objected loudly
+that deliberately corrupted small-area figures damage exactly the uses the
+census exists to serve. Both sides are right, which is what makes it a genuine
+trade-off rather than a mistake.
 
 Confidentiality is the other side of accuracy, because people answer honestly
 only if they believe the answers cannot be used against them. Most countries now

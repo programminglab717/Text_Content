@@ -27,6 +27,16 @@ into a disc, strong enough to hold fillings. Everything built on masa — the
 tortilla, the tamal, the thick sopes and huaraches, the little boat-shaped
 tlacoyos stuffed with beans — depends on that transformation.
 
+The tamal is the older application and the more demanding one. Masa is beaten
+with lard or vegetable fat until it lightens in color and a pinch of it floats
+when dropped in water, which is the cook's test that enough air has been worked
+in for the steamed dough to come out tender rather than dense. It is then
+spread on a corn husk or a banana leaf, filled, folded, and steamed in a stacked
+pot for an hour or more. Because a batch takes a morning and produces dozens,
+tamal-making has stayed communal and tied to occasions — saints' days,
+Christmas Eve, the early February feast that follows the finding of a figurine
+baked into a ring of bread.
+
 The nutritional half of it had civilizational consequences. Mesoamerican
 societies ran on maize for thousands of years without the deficiency disease
 pellagra. When maize spread to Europe, Africa and the American South, the grain
@@ -65,6 +75,14 @@ supplies them. Eaten together, they approximate a complete protein. Add the
 squash and its seeds for fat, the chiles and tomatoes and tomatillos grown at
 the edges, the wild greens called quelites that volunteer among the rows, and
 the field is not a crop but a diet.
+
+Beans get their own pot and their own liturgy. Dried beans simmered slowly with
+onion and a branch of the pungent herb epazote, which is credited locally with
+making them easier to digest, produce both the beans and a dark broth that is
+served as a soup in its own right. Mashed into hot lard in a wide pan and cooked
+down, the same beans become the thick paste that lines a sope or fills a
+breakfast plate. Black in the south and southeast, pinto in the north — a
+regional split as reliable as any border on a map.
 
 ## Chiles Are a Vocabulary, Not a Volume Knob
 
