@@ -6,6 +6,8 @@ The Court agreed on the botany and ruled against him anyway. Tomatoes, the opini
 
 It is a small case that puts a finger on something large. Two systems of categories, both coherent, both useful, disagreeing — and a third question underneath them, which is what a category is in the first place and what work it does in a head.
 
+Whatever else categories do, their main job is inference. Recognizing that the thing on the path is a snake is worth almost nothing by itself; what matters is everything that comes free with the label — that it can bite, that it will not chase you far, that it was probably warming itself. A category is a bet that the unobserved properties of a new thing will resemble those of things it already groups with. Everything difficult about categorization follows from the fact that this bet has to be made fast, on partial information, in a world whose joints are not always where the words are.
+
 ## The Definition That Never Arrives
 
 The inherited answer runs from Aristotle: a category is defined by features that every member has and no non-member has. Necessary and sufficient conditions. Membership is all-or-nothing, and the boundary is sharp.
@@ -29,6 +31,14 @@ The other durable result from that period concerns not which members are central
 A German shepherd can truthfully be called an animal, a dog, or a German shepherd. In practice people say dog, overwhelmingly, unless there is a reason not to. Rosch called this the basic level and identified what makes it privileged. It is the most general level at which the members still share an overall shape, so a single mental image can stand for the category. It is the level at which a common set of actions applies — you interact with dogs in a way you do not interact with animals in general. Basic-level names tend to be short, are learned first by children, and are the ones adults reach for by default. Go up a level and you lose all the concrete detail; go down and you gain very little new.
 
 What makes this more than a curiosity is that the basic level moves. Bird is basic for most people and is not basic for a birdwatcher, who sees a dunlin rather than a bird. A dog breeder sees breeds. A radiologist sees a specific pattern where you would see a chest. Expertise does not just add knowledge to a category system; it re-slices the system at a finer grain, and the finer categories become the automatic ones.
+
+## The Case of Color
+
+Color has served as the field's test bed for the question of how much of this structure is imposed by language, because the physical input is continuous and the words are not. Brent Berlin and Paul Kay surveyed color vocabularies across many languages and found that the number of basic terms varies widely — some languages get by with two or three — but the terms are not distributed arbitrarily. Languages with few terms carve the space in predictable places, and when speakers of any language are asked to point at the best example of each of their terms, the best examples cluster in similar regions regardless of where their language draws the boundaries.
+
+Rosch tested this among the Dani of highland New Guinea, whose language partitions color into essentially two terms. If color categories were simply inherited from vocabulary, Dani speakers should have found any arbitrary color equally learnable. They did not. Taught new color words, they acquired ones centered on the focal reds and blues more readily than ones centered elsewhere, which suggested that the visual system offers up some regions as better anchors than others and language mostly decides how many anchors to use.
+
+The story has grown more complicated since. Where a language puts its boundary does appear to have modest effects on discrimination near that boundary, and the effects show up more strongly in the visual field connected to the language-dominant hemisphere, which is about as strange and as suggestive a finding as that literature contains. The settled position is a compromise nobody loves: perception constrains the possible categories, language selects among them, and the selection then leans a little on perception.
 
 ## Prototypes, Exemplars, and What Similarity Cannot Do
 

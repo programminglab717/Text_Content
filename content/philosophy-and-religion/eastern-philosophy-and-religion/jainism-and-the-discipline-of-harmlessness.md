@@ -21,7 +21,7 @@ Jains do not think of their tradition as founded. They count twenty-four
 tirthankaras — "ford-makers," figures who cut a crossing through the river of
 rebirth for others to use — stretching back through cosmic time. The
 twenty-fourth, Vardhamana Mahavira, lived in the Gangetic plain in roughly the
-same period as the Buddha, in the world of small republics, new cities, and
+same period as the Buddha, among the small republics, new cities and
 competing ascetic movements that produced both. The twenty-third, Parshvanatha,
 is placed by tradition a couple of centuries earlier and is treated by many
 historians as plausibly a real person, which would make the Jain community's

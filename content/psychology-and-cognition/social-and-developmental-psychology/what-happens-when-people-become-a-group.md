@@ -43,6 +43,17 @@ manages tension, jokes, and makes sure the quiet member gets a turn. Groups that
 lose one of the two functions tend to deteriorate in predictable ways: all task
 and they fracture, all warmth and they never decide anything.
 
+Some of this operates below the level of roles and rules, in the simple fact of
+being watched. Norman Triplett noticed in the 1890s that cyclists rode faster
+against competitors than against the clock, and a long, confusing literature
+followed in which the presence of others sometimes improved performance and
+sometimes wrecked it. Robert Zajonc resolved the muddle with a single
+distinction: an audience raises arousal, arousal favors whatever response is
+already dominant, and so being watched sharpens a well-practiced skill and
+degrades one that is still being learned. The practical corollary is that open
+rooms and shared workspaces help people do what they already know how to do and
+hinder the ones trying to learn something hard.
+
 Norms come in two kinds that are easy to confuse and behave very differently.
 A descriptive norm is what people actually do; an injunctive norm is what people
 approve of. Campaigns that announce how many people are doing the undesirable
@@ -97,6 +108,15 @@ collectively does. Groups in this setup mostly discuss what everyone already
 knows, because shared information is more likely to be mentioned by someone, and
 each mention prompts confirmation and repetition. The unique facts — precisely
 the ones that would change the answer — often surface late or not at all.
+
+Not every group failure is a failure of effort or of pooling. Amy Edmondson's
+work on hospital teams turned up a result that looked backwards at first: better
+teams appeared to make more errors. What they actually did was report more,
+because members believed they could admit a mistake without being punished for
+it. She called the condition psychological safety, and it is the clearest modern
+addition to Lewin's list of things that distinguish a group from an aggregate.
+A team without it suppresses exactly the information it most needs, and does so
+without any member having to be dishonest.
 
 The bystander effect is the same arithmetic applied to responsibility. After
 John Darley and Bibb Latané ran their studies on intervention in staged
