@@ -116,6 +116,17 @@ a wood fire through the winter, then steamed with fresh chiles in spring. Guizho
 goes further into sourness, souring soups with fermented tomato and rice water
 in a way that owes nothing to vinegar.
 
+Yunnan, further southwest again, barely fits the categories at all. It is
+mountainous, subtropical at the bottom and alpine at the top, home to dozens of
+ethnic groups, and it borders Burma, Laos and Vietnam. Its kitchens use wild
+mushrooms by the dozen of species, cure hams that get aged for years, ferment
+bean curd into something pungent enough to be sold as a condiment, and grill
+whole fish stuffed with lemongrass and mint in a way that would look entirely at
+home across the border. Its best-known dish, a chicken broth carrying enough fat
+on its surface to hold the heat in, is served with raw ingredients dropped into
+the bowl at the table to cook in the liquid — a technique that answers a real
+problem, which is that the kitchen and the eater may be some distance apart.
+
 ## The Cantonese Standard
 
 Cantonese cooking runs on an assumption that would be heresy in Chongqing: that
