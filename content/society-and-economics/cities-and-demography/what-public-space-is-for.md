@@ -110,6 +110,19 @@ people who are not like you. A society can function with very little of it, but
 it becomes a society in which the presence of unfamiliar people registers
 primarily as a threat.
 
+Assembly is the sharpest version of the same point. A right to gather and be
+counted requires ground to gather on, and the ground has to be somewhere that
+matters — outside a parliament, in front of a ministry, in the square the whole
+city recognises. The political protests of the last few decades have tended to
+attach themselves to specific pieces of pavement for exactly this reason: a
+square in Cairo, a park in central Istanbul, the roads through Hong Kong's
+financial district. Governments understand this as well as protesters do, which
+is why the management of protest is so often a management of geography —
+permits tied to particular routes, fences installed around lawns, a plaza
+declared a transport interchange and therefore subject to different rules. You
+can restrict speech very effectively without ever mentioning speech, simply by
+controlling where standing still is allowed.
+
 There is a smaller and more practical case too. Public space is the only
 infrastructure that scales down to people with nothing. A park bench is the
 cheapest possible amenity and one of the few available equally to a banker and
@@ -118,6 +131,19 @@ important indoor public space in many cities, for reasons that have little to do
 with books: they are warm, free, staffed, and require no purchase to enter. That
 combination is now rare enough that libraries absorb social functions they were
 never funded for.
+
+Children are the group whose use of public space has changed fastest and been
+noticed least. Within living memory, the ordinary range of an eight-year-old in
+a European or North American town extended for a mile or more without adult
+supervision — to a park, a shop, a friend's house, along the backs of gardens
+and down alleys. That range has contracted sharply, driven less by any rise in
+danger from strangers than by traffic volumes, by the reorganisation of streets
+around moving and storing cars, and by a shift in what counts as responsible
+parenting. The consequence is that a great deal of childhood has moved indoors
+or into scheduled, supervised, fee-charging settings. Play streets, home zones,
+and school-run closures are attempts to get some of it back by reclaiming
+carriageway, and they work when they are permanent enough that children believe
+in them.
 
 ## The Maintenance Problem
 

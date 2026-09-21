@@ -106,6 +106,19 @@ without being derived from anything, and that they constitute a substantial
 hidden subsidy to driving, paid for in the price of everything built near the
 parking.
 
+A code this specific guarantees that much of the existing city violates it. Any
+ordinance written in 1955 and applied to a street built in 1895 will render most
+of that street nonconforming — too close to the sidewalk, too many units, too
+little parking. Such buildings are generally allowed to remain, but not to be
+expanded, and sometimes not to be rebuilt if they burn. The result is a
+quiet ratchet: the beloved old blocks that cities put on postcards could not be
+built again under the rules those same cities enforce, and every fire or
+demolition converts a piece of the illegal city into a legal one. Relief comes
+through variances and special permits, which is to say through hearings, which
+returns the whole apparatus to something closer to the case-by-case
+adjudication zoning was meant to replace — only now the neighbors have standing
+before the project is built rather than after.
+
 ## Other Countries Wrote Different Rules
 
 None of this was inevitable, which becomes clear the moment you look at how

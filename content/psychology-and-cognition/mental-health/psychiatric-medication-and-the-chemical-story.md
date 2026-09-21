@@ -76,7 +76,16 @@ blood-count risk serious enough to require ongoing monitoring. Clozapine also
 works for a proportion of people whom nothing else has helped, which remains an
 unexplained and clinically important anomaly.
 
-Antidepressants increase the availability of serotonin, noradrenaline, or both.
+Antidepressants increase the availability of serotonin, noradrenaline, or
+both, and despite the name they are prescribed at least as often for anxiety
+disorders, obsessive-compulsive disorder, and post-traumatic stress as for
+depression — one of several places where drug categories and diagnostic
+categories fail to line up. Some are used for chronic pain and migraine on
+mechanisms that have little to do with mood at all. Their common side effects
+are unglamorous and underdiscussed: sexual dysfunction, which is frequent and
+often persists as long as the drug is taken, and a flattening of emotional
+range that some patients value during a crisis and resent afterwards.
+
 Mood stabilisers are a mixed category: lithium, an element with no obvious
 mechanism even now, plus several anticonvulsants adopted for reasons that were
 partly empirical. Benzodiazepines act on GABA receptors and reduce anxiety
