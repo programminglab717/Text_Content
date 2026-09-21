@@ -82,6 +82,36 @@ anything. And some hosts that escaped parasitism long ago have let their
 defenses lapse, which is why an old relationship and a brand-new one can look
 deceptively similar.
 
+## Night Combat
+
+The most elaborate sensory arms race runs in the dark above our heads every
+summer. Bats hunting by echolocation shout in ultrasound and listen for the
+returning echo, and the moths they hunt have responded by growing ears — simple
+ones, sometimes a single membrane with one or two sensory cells attached, which
+is all that is required to detect a loud pulse in an otherwise quiet band. Such
+ears have appeared independently many times in unrelated moth and butterfly
+lineages, always tuned to the frequencies bats use, and almost always in groups
+that postdate the origin of echolocation. A moth that hears a distant bat turns
+away; one that hears a close bat folds its wings and drops.
+
+The counters accumulate on both sides. Some moths jam the incoming sonar with
+rapid trains of their own clicks that degrade the bat's ranging. Others click to
+advertise that they are chemically defended, and still others mimic that signal
+without the defense. Some large silk moths trail long twisted hindwing tails
+that throw back a misleading echo, so that the bat aims for a streamer and the
+moth escapes with a torn wing. Bats in turn have shifted their calls to
+frequencies outside moth hearing, or gone quiet, approaching with echolocation
+pulses so faint that the prey does not register them until too late.
+
+Chemical versions of the same escalation are everywhere in plants and insects.
+Milkweeds defend themselves with cardenolides, compounds that poison the sodium-
+potassium pump every animal cell depends on. Monarch caterpillars eat milkweed
+anyway, because a handful of substitutions in their own pump makes it
+insensitive — and the same substitutions, at the same positions, have arisen
+independently in beetles, bugs and aphids that feed on the same plants. The
+number of ways to solve the problem is small, so unrelated insects keep finding
+the identical one.
+
 ## Cycling Rather Than Climbing
 
 Escalation is the intuitive picture, but much coevolution goes in circles.
