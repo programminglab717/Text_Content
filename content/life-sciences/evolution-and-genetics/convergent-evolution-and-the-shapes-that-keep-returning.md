@@ -115,6 +115,38 @@ improbable than they look. A lineage evolving a limb-like outgrowth is not
 starting from scratch; it is redeploying a genetic circuit that has been
 available since before the Cambrian.
 
+## The Same Mutation, Twice
+
+The sharpest cases of convergence are the ones where independent lineages have
+hit not just the same solution but the same change in the same gene. Insects
+that feed on milkweed — monarch butterflies, certain beetles, aphids, bugs —
+must tolerate cardiac glycosides that jam the sodium-potassium pump every animal
+cell depends on. Across these unrelated groups, the same handful of amino acid
+positions in that pump have been substituted, because those are the residues
+that line the binding site and the tolerable changes there are few. Snakes that
+eat toxic newts and fish that eat pufferfish have similarly converged on
+substitutions in the sodium channel that tetrodotoxin blocks.
+
+Repetition also shows up on much shorter timescales, where the history is still
+legible. Freshwater stickleback populations that colonized lakes after the last
+glaciers retreated have lost their bony pelvic spines again and again in
+separate lakes, and in population after population the change traces to
+disabling the same regulatory switch upstream of the same developmental gene,
+while leaving the gene's other uses intact. The switch is a convenient target
+because it can be broken without collateral damage, and selection finds
+convenient targets.
+
+Sometimes the phenotype converges while the genetics does not. The ability to
+digest milk sugar into adulthood arose independently in European and in East
+African pastoralist populations, and the responsible variants are different
+mutations in different regulatory regions near the same gene. Human adaptation
+to thin air followed still more divergent routes in Tibetan and Andean
+highlanders, who differ in whether they respond by raising hemoglobin
+concentration at all. The lesson is that the number of available routes depends
+on how tightly the problem is specified: block one specific molecule and there
+may be only three workable substitutions, but supply oxygen to tissue and there
+are many.
+
 ## Replaying the Tape
 
 Stephen Jay Gould used convergence's opposite as his central image: rewind the
