@@ -122,6 +122,28 @@ wild population, and once that was established the results multiplied — in
 guppies, in frogs, in sticklebacks, in fiddler crabs waving oversized claws on a
 mudflat.
 
+## Arenas, Bowers, and the Architecture of Display
+
+Where males provide nothing but genes, display tends to become concentrated and
+theatrical. Sage grouse gather before dawn on the same patch of sagebrush their
+ancestors used, inflate air sacs, and boom; the females walk among them,
+inspect, and a small minority of males obtain most of the copulations. Manakins
+in Central American forests clear display courts on the forest floor and perform
+acrobatic routines, in some species cooperatively, with a subordinate male
+assisting a dominant one he may eventually replace. A lek concentrates choice
+into a single comparison, which is precisely the condition under which
+preferences bite hardest and ornaments escalate fastest.
+
+Bowerbirds go further and move the ornament off the body altogether. The male
+builds a structure — an avenue of woven sticks, or a maypole around a sapling —
+and decorates the approach with collected objects sorted by color and by size.
+Some species arrange stones and bones in a gradient that, viewed from where the
+female stands, alters the apparent scale of the court and of the male displaying
+in it. The bird himself is often unremarkable, and across the family there is a
+rough inverse relationship between how elaborate the bower is and how showy the
+plumage. Displaced ornamentation has an obvious advantage: a bower can be
+abandoned when a hawk appears, and a train of feathers cannot.
+
 ## Beyond Choosing
 
 Sexual selection does not stop when mating begins. In species where females mate

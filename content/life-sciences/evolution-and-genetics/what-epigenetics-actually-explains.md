@@ -83,6 +83,18 @@ consequences depend entirely on whose chromosome it was: the same missing
 segment produces two clinically distinct syndromes depending on parental origin.
 Sequence identical, outcome different.
 
+A second clean case is the way plants remember winter. Many species will not
+flower until they have experienced prolonged cold, which prevents them from
+blooming during a mild spell in autumn. The memory is held at a single floral
+repressor gene. Sustained low temperature causes Polycomb complexes to
+accumulate at that locus and progressively silence it, nucleating at one region
+and spreading; the silencing is quantitative, deepening with the length of the
+cold, and once established it persists through subsequent cell divisions in the
+warmth of spring so that the plant flowers. The state is then reset in the next
+generation, and the seedling has to earn its own winter. A cell has recorded the
+duration of an external condition in the chromatin of one gene and carried the
+record forward for weeks after the condition ended.
+
 ## The Environment Question
 
 Because methylation responds to cellular conditions, it is natural to ask
@@ -108,6 +120,17 @@ blood or tissue sample with considerable accuracy, and deviations from that
 prediction correlate modestly with health outcomes. These clocks are useful
 instruments. They are not evidence that methylation drives aging; a clock face
 is not a mainspring.
+
+Social insects supply a third, more contested example. A honeybee larva fed
+royal jelly develops into a queen — long-lived, fertile, physically larger —
+while its sisters on a plainer diet become sterile workers, from identical
+genomes. Knocking down the enzyme responsible for de novo DNA methylation in
+larvae pushes a larger fraction toward the queen phenotype, which implicates
+methylation somewhere in the pathway. What it does not establish is that
+methylation is the switch rather than a consequence of the nutritional and
+hormonal signaling that constitutes the switch. Distinguishing those two
+possibilities is the recurring difficulty of the whole subject, and the reason
+so many striking correlations remain hard to convert into mechanism.
 
 ## The Limits of Inheritance
 
