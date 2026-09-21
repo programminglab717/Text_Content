@@ -45,6 +45,16 @@ ground everyone else avoids, yields to every obstacle, and wears through stone.
 The uncarved block is another: raw timber that holds every possible form
 because it has not yet been committed to one.
 
+The text is also alert to the productive value of what is absent. Thirty
+spokes converge on a hub, and the cart is usable because of the hole at the
+center; clay is worked into a pot, and the pot is usable because of the space
+inside; doors and windows are cut for a room, and the room is usable because of
+the emptiness. Substance supplies the benefit, the passage concludes, but
+emptiness supplies the function. Elsewhere it names three things worth holding
+onto: compassion, economy, and a refusal to put oneself ahead of others — the
+last of which it defends on the practical ground that a man who never pushes to
+the front is never in the way of the blow aimed at whoever is.
+
 Behind this sits a claim about how things move. Reversal is the motion of the
 Way. Whatever reaches an extreme turns back toward its opposite; the hard
 breaks, the soft endures; the full spills. And the Way itself, the text insists
@@ -131,6 +141,18 @@ practitioner became the laboratory. Breath, essence, and spirit were refined
 and circulated through channels, gathered in three fields below the navel, at
 the heart, and in the head, and combined into an embryo of immortality
 gestated over years of sitting.
+
+Buddhism complicated everything it touched here. The two traditions borrowed
+from each other continuously — monastic rules, scripture formats, cosmologies
+of layered heavens, the very notion of a canon — while conducting a long public
+quarrel about seniority. Daoist polemicists circulated the claim that Laozi,
+after riding west through the pass, had gone on to India and there converted
+the barbarians, the Buddha being either his pupil or himself in another guise.
+Buddhists found this infuriating and said so for centuries. The argument was
+eventually settled by imperial fiat rather than by evidence: under Mongol rule
+the court staged formal debates, ruled against the Daoists, and ordered the
+offending texts destroyed, which is part of why the surviving canon has the
+gaps it does.
 
 The last great institutional development came in the twelfth century, when a
 teacher named Wang Chongyang founded the Complete Perfection order in the

@@ -18,16 +18,18 @@ verdict.
 ## What Counts as an Image
 
 The Imagists, working in London in the years before the First World War, built a
-short-lived movement on exactly this point. Their program amounted to direct
-treatment of the thing, no word that does not contribute, and a rhythm built on
-the musical phrase rather than a metronome. Pound defined an image as something
-that presents an intellectual and emotional complex in an instant of time, which
-sounds abstract until you look at his most famous specimen, two lines about faces
-in a crowded metro station and petals on a wet black bough. The poem contains no
-verb, no assertion, and no comparison word. Two pictures are set side by side and
-the reader performs the connection. What survives of Imagism is not the
-manifesto, which was quickly abandoned even by its authors, but the assumption it
-left behind: that a poem can consist of presented particulars and nothing else.
+short-lived movement on exactly this point, and their most durable contribution
+was a definition. Pound described an image as something that presents an
+intellectual and emotional complex in an instant of time. That is abstract
+phrasing for a concrete demand: stop explaining, and put the thing in front of
+the reader entire. The specimen everyone cites is two of his own lines about
+faces in a crowded metro station and petals on a wet black bough. The poem
+contains no verb, no assertion, and no comparison word. Two pictures are set side
+by side and the reader performs the connection, which takes perhaps half a
+second and cannot be undone once it has happened. What survives of Imagism is not
+the manifesto, abandoned quickly even by its authors, but the assumption it left
+behind: that a poem can consist of presented particulars and nothing else, and
+that a reader will supply the rest.
 
 Williams pushed this further with a wheelbarrow, rain, and chickens, prefaced by
 the claim that so much depends on them. The poem refuses to say what depends, or

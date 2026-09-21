@@ -50,8 +50,7 @@ typically involves a designated respondent who punctuates the jeli's lines with
 assent — a naamu-sayer, whose job is to keep the rhythm and to stand in for the
 audience, so that the performance is audibly a transaction rather than a
 broadcast. A patron who is pleased may make a gift in the middle of a passage, and the
-passage will lengthen accordingly. Listeners interject. A section
-that is going well gets extended; one that is not gets cut. None of this
+passage will lengthen accordingly. Listeners interject. None of this
 survives transcription, which is why a printed epic can feel strangely inert
 next to a recording of the same material.
 
@@ -124,10 +123,10 @@ languages is, at best, an Afro-European one.
 Achebe's reply, sustained over decades, was that English had arrived and could
 not be wished away, that it was the only language in which a Nigerian writer
 could address Nigerians across two hundred-odd mother tongues, and that a
-conquered people might reasonably take the conqueror's tool and use it for their
-own purposes. Ngũgĩ's counter was that this reasoning conceded the war while
-winning the argument, since it left the peasant and the worker — the people the
-novels were about — permanently outside the audience for them.
+conquered people might reasonably take the conqueror's tool and use it. Ngũgĩ's
+counter was that this concedes the war while winning the argument, since it
+leaves the peasant and the worker — the people the novels are about —
+permanently outside the audience for them.
 
 The decision was not abstract. He had worked on a community theatre project at
 Kamĩrĩĩthũ, where villagers who had never acted developed and performed a play
@@ -169,13 +168,12 @@ producing a text that reads in neither language quite like anything else — the
 praise-name piling up in a line of English verse that cannot decline nouns the
 way the original does.
 
-There is a quieter version of the same inheritance in writers not usually
-discussed under this heading. The looping, digressive first-person of much
-contemporary West African fiction, the habit of stopping a scene to tell an
-apparently unrelated story that turns out to be the argument, the narrator who
-addresses the reader as a companion rather than an eavesdropper — these are
-performance habits that survived the migration onto the page, often in writers
-who would not describe themselves as working with folklore at all.
+The same inheritance turns up in writers not usually discussed under this
+heading: the looping, digressive first person, the habit of stopping a scene to
+tell an apparently unrelated story that turns out to be the argument, the
+narrator who addresses the reader as a companion rather than an eavesdropper.
+These are performance habits that survived the migration onto the page, often in
+writers who would not describe themselves as working with folklore at all.
 
 The point these writers keep arriving at, by different routes, is that the
 opposition between oral and written is less stable than it looks. A jeli
