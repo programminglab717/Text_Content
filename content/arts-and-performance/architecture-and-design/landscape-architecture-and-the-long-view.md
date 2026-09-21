@@ -24,10 +24,11 @@ gardening, and not engineering, though it required both.
 
 The most persistent misunderstanding about Central Park is that it preserves a
 piece of Manhattan. It preserves nothing. The site was swamp, rock outcrop,
-squatters' settlements, a reservoir, bone-boiling works, and Seneca Village, an established
-community whose Black and Irish residents were evicted to make room.
-The ground that reads today as pastoral — the Sheep Meadow's easy sweep, the
-rocky wildness of the Ramble, the lake with its hidden ends — was made. Millions
+squatters' settlements, a reservoir, bone-boiling works, and Seneca Village, an
+established community whose Black and Irish residents were evicted to make room
+for it. The ground that reads today as pastoral — the Sheep Meadow's easy
+sweep, the rocky wildness of the Ramble, the lake with its hidden ends — was
+made. Millions
 of cubic yards of material were moved. Drainage tile was laid under the meadows
 so that soil which naturally held water would grow grass. Gunpowder went into the
 schist. Topsoil was imported by the barge-load, and hundreds of thousands of

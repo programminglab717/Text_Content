@@ -59,6 +59,15 @@ observations, opinions, and lists — things that should be small, things that m
 the heart beat faster, people who look pleased with themselves — with a
 conversational malice that reads as astonishingly modern.
 
+No manuscript in Murasaki's hand survives, and the text as we have it was
+stabilized centuries later by scholar-poets who collated competing copies. That
+editorial work was worth doing because Genji had become professional equipment:
+poets were expected to know its scenes and its hundreds of embedded verses well
+enough to allude to them, and commentaries, digests, and character indexes were
+produced for people who needed the reference without the reading time. A work of
+court fiction by a woman ended up functioning as a canonical text in a poetic
+system run almost entirely by men.
+
 Alongside these ran the diary tradition, also largely female, recording court
 life, travel, grief, and religious feeling in a mix of prose and verse. One of
 the founding examples was written by a man pretending to be a woman so that he
@@ -120,6 +129,16 @@ double suicide, staged as a final journey with the chanter narrating every step.
 Several of these were based on recent local scandals and reached the stage within
 weeks.
 
+The book trade that supported all this was substantial and varied. Cheap
+illustrated fiction circulated alongside guidebooks to the pleasure districts,
+parodies, ghost-story collections, and enormous serialized adventure novels that
+took their authors decades to finish and their readers nearly as long to follow.
+Illustration was not decoration but a structural part of the page, and many of
+the artists whose prints now hang in museums earned their living doing book work.
+Periodic government crackdowns on frivolous or morally suspect publishing pushed
+writers toward historical settings and allegory, which is a familiar pattern
+wherever censors and popular fiction share a city.
+
 ## Making a Modern Language
 
 When Japan reopened in the nineteenth century, writers confronted a problem of
@@ -137,6 +156,15 @@ Japanese genre emerged alongside it: the I-novel, a confessional first-person
 form whose value was judged largely by its apparent sincerity. Tanizaki went the
 other way, into obsession, fetish, and a deep attachment to a pre-modern
 aesthetic; he also translated Genji into modern Japanese more than once.
+
+Japanese literature reached English readers through a small number of dedicated
+translators — Arthur Waley, whose free and beautiful Genji of the 1920s
+enchanted a generation of British readers, and later Edward Seidensticker and
+Donald Keene, who translated and taught and largely built the field abroad. Their
+choices shaped the foreign picture considerably. For decades the writers exported
+were the ones who could be read as characteristically Japanese in a way Western
+readers already expected: restrained, elegiac, preoccupied with seasons and
+loss.
 
 The postwar decades produced Kawabata's austere novels of aging and loss, Abe
 Kōbō's claustrophobic parables, Mishima's violent aestheticism and violent death,
