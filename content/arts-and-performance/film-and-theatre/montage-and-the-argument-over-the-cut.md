@@ -63,6 +63,16 @@ a new view rather than a hiccup, and change image size at the same time. None of
 these rules describe how vision works. They describe a grammar audiences learned
 so thoroughly that violations now register as style — a jolt, a lie, a dream.
 
+Alongside the grammar of the single scene came a way of cutting between scenes.
+D. W. Griffith did not invent parallel editing, but he industrialized it,
+shuttling between a threatened household and the riders coming to save it,
+tightening the alternation as the two lines converge until shots run only a few
+seconds each. The device is so effective that it has never really gone out of
+use; every chase, every countdown, every heist that cuts between the safecracker
+and the guard's rounds is running Griffith's engine. It also carries a quiet
+assumption — that two things shown alternately are happening at once — which is
+pure convention. Nothing in either image says so. The audience simply agrees.
+
 The system's real achievement is that it makes the constructed space feel
 continuous even though it never existed. A two-shot filmed on a set in
 California, a close-up filmed there three weeks later, and an insert of a hand
@@ -113,6 +123,26 @@ out of the middle of shots, and the ragged result turned out to communicate
 restlessness better than any smooth alternative. Thelma Schoonmaker's work for
 Martin Scorsese runs the other way in places, holding on a face well past
 comfort so that the audience starts to feel it is intruding.
+
+Sound complicated the arithmetic permanently. Once dialogue had to be tracked,
+the picture cut stopped being the only joint in the scene, and editors learned
+that the two need not coincide. Letting a line of dialogue start a beat before
+the shot of the speaker arrives, or holding a voice over the listener's face
+after the speaker has stopped, softens a transition and redirects the audience's
+attention to the reaction rather than the delivery. Split edits of this kind are
+now so routine in conversation scenes that a dialogue sequence cut squarely on
+the line breaks tends to feel stilted, like a recording of a table read. Music
+does something similar at larger scale: a cue that begins under the end of one
+scene and carries into the next can bind two locations together more firmly than
+any visual match.
+
+Graphic relationships supply another layer. A cut can rhyme — a round object
+answered by a round object, a movement left answered by a movement left — and
+the rhyme registers below the level of conscious notice, smoothing a jump
+between times and places that ought to be jarring. The most famous instance in
+English-language film cuts from a match burning down to a fingertip straight to
+a desert sunrise, and it works because the shapes and the orange answer each
+other, not because anything in the story requires it.
 
 The tools shaped the thinking more than anyone likes to admit. For most of the
 century an editor stood at a Moviola or sat at a flatbed, physically cutting

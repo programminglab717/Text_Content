@@ -76,8 +76,8 @@ into an edge so soft it has no location. And because the paint is a colored
 varnish rather than a colored paste, thin layers of it are genuinely see-through.
 The Netherlandish system used that directly: an oak panel coated with chalk
 bound in animal glue and smoothed to the finish of an eggshell, an underdrawing
-brushed on in black, then paint applied in thin films — opaque and lead-white-
-loaded in the lights, transparent in the shadows. Light entering the picture
+brushed on in black, then paint applied in thin films, opaque and loaded with lead white in the
+lights, transparent in the shadows. Light entering the picture
 passes through the colored layers, reflects off the white ground, and comes back
 out through them again. The result is a depth and saturation that cannot be
 obtained by mixing, because the color is being seen in transmission, the way a
@@ -91,6 +91,17 @@ portrait with its cargo of reflected room, the single brass chandelier, the
 beading on a hem, the specific tired texture of an old man's skin. Nothing
 about the subject matter demanded it. The medium simply made it possible, and
 patrons paid for the difference.
+
+Slowness turned out to be a feature as well. A tempera painting has to be
+resolved before it is begun, because every stroke is permanent within a minute
+of landing. An oil painting can be argued with. A figure can be shifted a hand's
+width, a background can be repainted three times, a commission can sit against
+the studio wall for a year while the painter thinks about it. Composition
+migrated out of the preparatory drawing and onto the picture itself, and the
+workshop economics followed: apprentices could lay in draperies and skies in
+dead color while the master reserved the heads and the final glazes for himself,
+and the pictures could be produced in quantity for a merchant class in Bruges
+and Ghent that wanted portraits and small devotional panels rather than chapels.
 
 ## South Across the Alps
 
@@ -118,6 +129,17 @@ fingers. Seen close, the surface is incoherent. Seen at distance it resolves. He
 had discovered that oil paint can describe a thing and simultaneously advertise
 that it is paint, and most European painting for the next three hundred years
 lives somewhere on the line he opened between those two options.
+
+The ground changed with it. Fifteenth-century panels were prepared brilliant
+white, because the whole optical trick depended on light coming back through the
+color. Sixteenth- and seventeenth-century painters increasingly toned their
+canvases instead, to a warm gray or a dull reddish brown, and then worked in
+both directions from that middle value — pulling darks over it with transparent
+washes, cutting lights into it with thick opaque paint. It is a faster way to
+get a picture standing up, it makes shadow luminous almost for free, and it is
+the reason so much Baroque painting emerges out of a dusky middle tone. It also
+had a long cost: those darkened grounds keep darkening, and in many pictures the
+shadows have closed up into an obscurity that was never intended.
 
 ## The Bill
 

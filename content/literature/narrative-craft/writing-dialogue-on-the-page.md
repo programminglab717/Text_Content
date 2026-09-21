@@ -30,6 +30,16 @@ nobody. The trick is to keep a controlled amount of real speech's disorder —
 interruption, a question ignored, a sentence that runs out of steam — while
 cutting everything that carries no information.
 
+Punctuation carries more of this than writers expect. An em dash at the end of a
+line means the speaker was cut off, by another voice or by an event; an ellipsis
+means they ran out on their own, which is a completely different psychological
+state. Getting those two confused muddles the pacing of a whole scene. Overlapping
+speech, where two people talk across each other, can be suggested by letting one
+line interrupt mid-clause and having the interrupted speaker return to the
+sentence later, or simply abandon it. Used once in a heated exchange this is
+electric. Used four times on a page it becomes a mannerism, and the reader starts
+watching the punctuation instead of the argument.
+
 A related discipline concerns dialect. Rendering an accent phonetically is
 tempting and almost always a mistake: it slows reading to a crawl, it flattens a
 person into a set of misspellings, and it implicitly positions one way of
@@ -63,6 +73,17 @@ or the state of the garden, and underneath it the actual negotiation, which is
 about power, or forgiveness, or whether the marriage survives. Only the surface
 appears on the page. The reader tracks the other one because they are alert to
 exactly this in life.
+
+The same principle governs exposition, which is the other place dialogue
+routinely goes wrong. Characters cannot tell each other things they both already
+know without the seams showing — the reminder to a brother of how their father
+died, the colleague briefed on a procedure she has run for a decade. When
+background genuinely has to surface in speech, it needs a reason to be said out
+loud right now: somebody is being accused, or corrected, or is telling the story
+wrong on purpose. Information delivered under conflict never reads as exposition,
+because the reader is attending to the conflict and absorbing the facts
+incidentally. Information delivered cooperatively always reads as exposition, no
+matter how it is dressed.
 
 Hemingway described his method as leaving out the parts he knew, on the theory
 that the omission would strengthen what remained as long as the writer genuinely
