@@ -58,6 +58,28 @@ wage, the lowest offer they will accept, turns down early offers in the
 reasonable hope of a better one, and the resulting unemployment is productive
 rather than wasted: the economy gets better matches for it.
 
+This is also why the headline unemployment rate is a narrower statistic than
+most people assume. The standard international definition counts someone as
+unemployed only if they are without work, available to start, and have actively
+looked recently. Someone who has given up looking is not unemployed; they have
+left the labour force, and the unemployment rate falls when they go. A
+part-time worker who wants full-time hours is counted as employed. Two
+countries with the same unemployment rate can therefore have very different
+shares of their working-age population in work, and the participation rate —
+who is in the market at all — often carries more information about a slump than
+the rate everyone quotes.
+
+Behind the monthly net figures sits an enormous churn. Even in a quiet month,
+the number of people hired and the number who leave jobs both run to many
+millions in a large economy, and the reported change in employment is the small
+difference between two very large flows. Most of that movement is not the
+unemployed finding work; it is employed people moving to better jobs, and that
+ladder is how wages actually rise for most workers over a career. When the
+ladder stops — when quits collapse because nobody dares move — wage growth
+stalls even for people whose jobs were never at risk. Economists watch the quit
+rate for precisely this reason: it is a measure of confidence that a headline
+unemployment number cannot supply.
+
 Plot vacancies against unemployment and you get the Beveridge curve, named for
 the British economist and welfare architect. It slopes downward, because
 plentiful vacancies coincide with low unemployment. When the whole curve shifts
