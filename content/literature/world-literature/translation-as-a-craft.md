@@ -66,6 +66,19 @@ eats something with no English name, do you name it and let context carry it, or
 substitute, or add a clause of explanation the original did not have? Any single
 choice is trivial. Five hundred of them make the book.
 
+Scripture has been the laboratory for this argument for as long as the argument
+has existed, because the stakes there are not literary. William Tyndale, working
+in hiding in the fifteen-twenties and thirties, translated the New Testament into
+an English deliberately pitched at the ploughboy rather than the scholar, and was
+executed for it; a great deal of the King James Version's most memorable phrasing
+is lifted straight from him. Four centuries later the linguist Eugene Nida, who
+spent his career advising missionary translators working into languages with no
+Christian vocabulary at all, drew the distinction between formal equivalence —
+matching the source's structures as closely as the target allows — and dynamic
+equivalence, which aims instead to produce in the new reader an effect comparable
+to the one the original produced in its first audience. The second option raises
+an awkward question that never fully goes away: how would you know?
+
 ## The Container Problem
 
 Verse is where the difficulty becomes acute, because form in poetry is not
@@ -115,6 +128,19 @@ misplaced sense of fidelity.
 Watch the false friends, which multiply in related languages. And watch the
 opposite trap: over-domesticating a word because the literal version looks
 strange, when the strangeness was in the original and was doing something.
+
+A living author is a resource and a complication. You can write and ask what a
+line means, and sometimes the reply resolves an ambiguity you had spent a week
+on. Just as often the author is surprised to learn the ambiguity exists, has no
+opinion, or proposes an English solution considerably worse than yours because
+their English is good enough to be confident and not good enough to be right.
+Translators of the dead have the opposite problem and a compensating freedom.
+
+The economics deserve mention too, because they shape the work. Literary
+translation is usually paid by the thousand words at a rate that assumes a
+certain pace, which means the time available for the third pass — the one where
+the prose stops being accurate and starts being good — is often time the
+translator donates. Grants and prizes exist partly to buy that pass back.
 
 Collaboration is one answer to the problem that few people have equal command of
 both languages. Richard Pevear and Larissa Volokhonsky divide the Russian
