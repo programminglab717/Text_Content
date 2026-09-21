@@ -38,6 +38,15 @@ civilian tradition asked instead about *cause*: whether the obligation had a
 proper reason behind it, a concept broad enough to cover gifts and narrow
 enough to exclude commitments made for illegal or nonexistent purposes.
 
+Most contracts need no particular form, and the handful of exceptions are
+revealing about what the law thinks is worth slowing down. Transfers of land
+require writing nearly everywhere, and in much of Europe a notarial act.
+Guarantees — promising to answer for someone else's debt — usually require
+writing too, because the guarantor gets nothing and may not appreciate the
+exposure. Wills, marriage settlements and consumer credit agreements attract
+formality for similar reasons. The requirements do not make the promise more
+sincere; they make it deliberate, and they leave evidence.
+
 Formation itself is assessed objectively, and this matters more than it
 sounds. The law does not ask what a party privately intended; it asks what a
 reasonable person in the other party's position would have understood from the
@@ -81,6 +90,17 @@ practice: unusually onerous terms must be brought fairly to the other party's
 attention, ambiguity is construed against the drafter, and statutes in most
 developed countries let courts strike unfair terms in consumer contracts
 outright.
+
+One more structural point often trips people up: a contract binds the parties
+to it and generally nobody else. A person who benefits from an agreement they
+did not make traditionally could not sue on it, a rule that produced enough
+absurdity — the builder's guarantee that could not be enforced by the family
+living in the house — that most jurisdictions have relaxed it by statute for
+intended beneficiaries. The right to receive performance can usually be
+assigned to someone else without the other party's consent, which is what
+makes debts tradeable and receivables financeable. The duty to perform
+generally cannot be handed off the same way, because it matters to a client
+which firm does the work.
 
 ## When Consent Was Not What It Looked Like
 

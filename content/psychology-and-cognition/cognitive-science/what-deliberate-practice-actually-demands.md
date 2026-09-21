@@ -1,43 +1,167 @@
 # What Deliberate Practice Actually Demands
 
-A practice room at nine in the morning, and a violinist is playing the same four bars for the eleventh time. Not the movement. Not even the phrase. Four bars containing one shift in the left hand that keeps arriving a hair late. She plays it slowly enough that the lateness cannot hide, speeds it up until it fails again, backs off, repeats. An hour later she has covered perhaps thirty seconds of music. From outside the door it sounds like someone who cannot play. It is what improvement looks like from the inside, and it bears almost no resemblance to what most people do when they say they have been practicing.
+A practice room at nine in the morning, and a violinist is playing the same four
+bars for the eleventh time. Not the movement. Not even the phrase. Four bars
+containing one shift in the left hand that keeps arriving a hair late. She plays
+it slowly enough that the lateness cannot hide, speeds it up until it fails
+again, backs off, repeats. An hour later she has covered perhaps thirty seconds
+of music. From outside the door it sounds like someone who cannot play. It is
+what improvement looks like from the inside, and it bears almost no resemblance
+to what most people do when they say they have been practicing.
 
-That distinction is the whole substance of the research programme K. Anders Ericsson spent his career on. His best-known study followed violin students at a German music academy, sorting them by the judgments of their teachers into the very best, the good, and those on track to become music teachers rather than performers. What separated the groups was not the age they started, not their general intelligence, not how much they enjoyed music. It was the number of hours they had accumulated in solitary, effortful, structured practice — the kind happening behind that door — and the top group had accumulated a great many more of them by their early twenties than the others.
+That distinction is the whole substance of the research programme K. Anders
+Ericsson spent his career on. His best-known study followed violin students at a
+German music academy, sorting them by the judgments of their teachers into the
+very best, the good, and those on track to become music teachers rather than
+performers. What separated the groups was not the age they started, not their
+general intelligence, not how much they enjoyed music. It was the number of
+hours they had accumulated in solitary, effortful, structured practice — the
+kind happening behind that door — and the top group had accumulated a great many
+more of them by their early twenties than the others.
 
 ## The Number That Ate the Finding
 
-From that study came the figure that escaped into the culture. Malcolm Gladwell rounded the top group's accumulated hours to ten thousand, gave it a name, and the ten-thousand-hour rule became a thing people cite at dinner parties. Ericsson spent much of the rest of his life objecting, and his objections were not pedantry.
+From that study came the figure that escaped into the culture. Malcolm Gladwell
+rounded the top group's accumulated hours to ten thousand, gave it a name, and
+the ten-thousand-hour rule became a thing people cite at dinner parties.
+Ericsson spent much of the rest of his life objecting, and his objections were
+not pedantry.
 
-The number was an average, not a threshold. Within the elite group the spread was enormous; some had far fewer hours than the average and some far more, and nothing magical happened to anybody at the ten-thousandth hour. The number was also specific to violin at a conservatory in a particular decade. In domains with shorter learning curves, expert performance arrives much sooner. In chess it typically takes longer. And most corrosively, the popular version dropped the adjective. What the research identified was not ten thousand hours of doing something. It was ten thousand hours of a very particular and fairly unpleasant activity that almost nobody does by default.
+The number was an average, not a threshold. Within the elite group the spread
+was enormous; some had far fewer hours than the average and some far more, and
+nothing magical happened to anybody at the ten-thousandth hour. The number was
+also specific to violin at a conservatory in a particular decade. In domains
+with shorter learning curves, expert performance arrives much sooner. In chess
+it typically takes longer. And most corrosively, the popular version dropped the
+adjective. What the research identified was not ten thousand hours of doing
+something. It was ten thousand hours of a very particular and fairly unpleasant
+activity that almost nobody does by default.
 
 ## What Makes Practice Deliberate
 
-Ericsson's criteria are demanding. The activity has to be designed to improve a specific aspect of performance, not the whole undifferentiated mass of it. It has to sit just past the edge of what you can currently do, which means you fail often — if you are succeeding comfortably, you are performing, not practicing. It requires immediate, informative feedback, so that you can tell not merely that the attempt was bad but in what direction it was bad. It demands full attention, which is why the daily ceiling is low; even elite performers in most fields cannot sustain more than a few hours of it, and they typically break it into blocks with real rest between them.
+Ericsson's criteria are demanding. The activity has to be designed to improve a
+specific aspect of performance, not the whole undifferentiated mass of it. It
+has to sit just past the edge of what you can currently do, which means you fail
+often — if you are succeeding comfortably, you are performing, not practicing.
+It requires immediate, informative feedback, so that you can tell not merely
+that the attempt was bad but in what direction it was bad. It demands full
+attention, which is why the daily ceiling is low; even elite performers in most
+fields cannot sustain more than a few hours of it, and they typically break it
+into blocks with real rest between them.
 
-Almost none of this describes the way experience normally accumulates. A pianist who runs through her repertoire is enjoying herself and consolidating what she already has. A driver with thirty years of experience is not thirty times the driver he was at twenty-five; he plateaued around the point where driving became automatic, because automaticity is the goal of ordinary learning and the enemy of further improvement. The automated skill runs without supervision, which frees attention for other things, and also removes the very attention that would be needed to change it.
+Almost none of this describes the way experience normally accumulates. A pianist
+who runs through her repertoire is enjoying herself and consolidating what she
+already has. A driver with thirty years of experience is not thirty times the
+driver he was at twenty-five; he plateaued around the point where driving became
+automatic, because automaticity is the goal of ordinary learning and the enemy
+of further improvement. The automated skill runs without supervision, which
+frees attention for other things, and also removes the very attention that would
+be needed to change it.
 
-This is why some professions produce steadily improving practitioners and others do not. Feedback is the hinge. A surgeon who follows outcomes, a chess player who reviews losses against an engine, a forecaster whose predictions are scored — all of these get a signal that can be traced back to a decision. A clinician making long-range prognoses, a hiring manager, a wine judge working without blind controls: the feedback arrives years later, contaminated by everything that happened in between, or never arrives at all. Robin Hogarth drew the distinction as kind versus wicked learning environments. In a kind environment, experience teaches. In a wicked one, experience mostly teaches confidence.
+This is why some professions produce steadily improving practitioners and others
+do not. Feedback is the hinge. A surgeon who follows outcomes, a chess player
+who reviews losses against an engine, a forecaster whose predictions are scored
+— all of these get a signal that can be traced back to a decision. A clinician
+making long-range prognoses, a hiring manager, a wine judge working without
+blind controls: the feedback arrives years later, contaminated by everything
+that happened in between, or never arrives at all. Robin Hogarth drew the
+distinction as kind versus wicked learning environments. In a kind environment,
+experience teaches. In a wicked one, experience mostly teaches confidence.
 
 ## What the Expert Actually Has
 
-The classic demonstration of what all those hours buy comes from chess. Adriaan de Groot showed masters and weaker players a position from a real game for a few seconds and asked them to reconstruct it. The masters were extraordinary, placing nearly every piece. Then he showed them boards with pieces scattered at random, and the masters' advantage evaporated; they were no better than anyone else. William Chase and Herbert Simon later made the mechanism explicit. The master has not developed a larger memory. He has stored an enormous vocabulary of meaningful configurations — pawn chains, castled king positions, standard tactical motifs — and when he looks at a legal position he sees a handful of familiar units where the novice sees twenty-odd separate objects. Given nonsense, there are no units to see.
+The classic demonstration of what all those hours buy comes from chess. Adriaan
+de Groot showed masters and weaker players a position from a real game for a few
+seconds and asked them to reconstruct it. The masters were extraordinary,
+placing nearly every piece. Then he showed them boards with pieces scattered at
+random, and the masters' advantage evaporated; they were no better than anyone
+else. William Chase and Herbert Simon later made the mechanism explicit. The
+master has not developed a larger memory. He has stored an enormous vocabulary
+of meaningful configurations — pawn chains, castled king positions, standard
+tactical motifs — and when he looks at a legal position he sees a handful of
+familiar units where the novice sees twenty-odd separate objects. Given
+nonsense, there are no units to see.
 
-That is the general shape of expertise wherever it has been examined. What is acquired is not a sharpened general faculty but a very large, very specific library of patterns, along with the retrieval structures to get at the right one fast. The radiologist does not have better vision. The experienced nurse who says a patient looks wrong before the vitals change is not intuiting in any mystical sense; she has seen the pattern before, many times, with outcomes attached. And the flip side is that the library does not travel. Chess masters have ordinary memories for word lists. Trained waiters who can hold twenty drink orders cannot hold twenty unrelated items. Skill is stubbornly, almost disappointingly local.
+That is the general shape of expertise wherever it has been examined. What is
+acquired is not a sharpened general faculty but a very large, very specific
+library of patterns, along with the retrieval structures to get at the right one
+fast. The radiologist does not have better vision. The experienced nurse who
+says a patient looks wrong before the vitals change is not intuiting in any
+mystical sense; she has seen the pattern before, many times, with outcomes
+attached. And the flip side is that the library does not travel. Chess masters
+have ordinary memories for word lists. Trained waiters who can hold twenty drink
+orders cannot hold twenty unrelated items. Skill is stubbornly, almost
+disappointingly local.
 
-Ericsson put a second idea alongside the pattern library, and it is the part of his framework that translates most directly into advice. Experts, he argued, build unusually detailed mental representations of the activity — internal models of what a correct performance is supposed to be like, fine-grained enough to serve as a standard against which an attempt can be judged. The violinist can hear, before she plays, the sound she is aiming at, and she can hear precisely how the attempt differed. A strong writer reads his own sentence and registers that the rhythm is wrong. Improvement then becomes a loop: produce, compare against the representation, identify the specific deviation, adjust. Where the representation is coarse, the loop cannot close, and the learner is reduced to knowing only that something was off. Much of what a good teacher does in the early years is not correcting the student's hands but installing the standard the student will later use to correct them himself.
+Ericsson put a second idea alongside the pattern library, and it is the part of
+his framework that translates most directly into advice. Experts, he argued,
+build unusually detailed mental representations of the activity — internal
+models of what a correct performance is supposed to be like, fine-grained enough
+to serve as a standard against which an attempt can be judged. The violinist can
+hear, before she plays, the sound she is aiming at, and she can hear precisely
+how the attempt differed. A strong writer reads his own sentence and registers
+that the rhythm is wrong. Improvement then becomes a loop: produce, compare
+against the representation, identify the specific deviation, adjust. Where the
+representation is coarse, the loop cannot close, and the learner is reduced to
+knowing only that something was off. Much of what a good teacher does in the
+early years is not correcting the student's hands but installing the standard
+the student will later use to correct them himself.
 
 ## Where the Theory Gets Pushed Back
 
-The strong version of Ericsson's claim — that deliberate practice is essentially the whole story, and innate differences do little beyond height in basketball — has not survived contact with subsequent meta-analysis. When researchers pooled studies relating accumulated practice to performance, practice explained a substantial share of the differences among people in games and music, less in sports, and considerably less in education and the professions. A meaningful fraction of the variance was left over. Some of that residue is measurement noise; retrospective estimates of how many hours one practiced a decade ago are not exactly precise instruments. Some is that starting age, working memory capacity, and physical variation genuinely matter in some domains. And some is a causal tangle that no amount of data can untie from correlations alone: people who improve quickly find practice rewarding, and so they do more of it, which makes practice hours partly an effect of talent rather than purely a cause of skill.
+The strong version of Ericsson's claim — that deliberate practice is essentially
+the whole story, and innate differences do little beyond height in basketball —
+has not survived contact with subsequent meta-analysis. When researchers pooled
+studies relating accumulated practice to performance, practice explained a
+substantial share of the differences among people in games and music, less in
+sports, and considerably less in education and the professions. A meaningful
+fraction of the variance was left over. Some of that residue is measurement
+noise; retrospective estimates of how many hours one practiced a decade ago are
+not exactly precise instruments. Some is that starting age, working memory
+capacity, and physical variation genuinely matter in some domains. And some is a
+causal tangle that no amount of data can untie from correlations alone: people
+who improve quickly find practice rewarding, and so they do more of it, which
+makes practice hours partly an effect of talent rather than purely a cause of
+skill.
 
-None of this makes the practice literature wrong in the way the critics are sometimes read as saying. Nobody has found the person who became world-class without the hours. The finding is that the hours are necessary and not sufficient, which is a less satisfying slogan but a more defensible one.
+None of this makes the practice literature wrong in the way the critics are
+sometimes read as saying. Nobody has found the person who became world-class
+without the hours. The finding is that the hours are necessary and not
+sufficient, which is a less satisfying slogan but a more defensible one.
 
-The most direct evidence anyone has assembled on the question is a piece of parenting rather than a controlled trial. The Hungarian educator Laszlo Polgar believed before his children were born that geniuses are made and not found, and set out to prove it by training his three daughters in chess from early childhood, at home, intensively and systematically. All three became exceptionally strong. Judit Polgar became the strongest female player in the history of the game and beat several reigning world champions. It is a striking result and it is also, as evidence, a sample of three from one family with two committed parents, one chosen domain, and no control group — which is roughly the epistemic position the whole debate occupies. The extremes are easy to reject. Nobody arrives at mastery without the work, and no amount of work has yet made everyone equal.
+The most direct evidence anyone has assembled on the question is a piece of
+parenting rather than a controlled trial. The Hungarian educator Laszlo Polgar
+believed before his children were born that geniuses are made and not found, and
+set out to prove it by training his three daughters in chess from early
+childhood, at home, intensively and systematically. All three became
+exceptionally strong. Judit Polgar became the strongest female player in the
+history of the game and beat several reigning world champions. It is a striking
+result and it is also, as evidence, a sample of three from one family with two
+committed parents, one chosen domain, and no control group — which is roughly
+the epistemic position the whole debate occupies. The extremes are easy to
+reject. Nobody arrives at mastery without the work, and no amount of work has
+yet made everyone equal.
 
 ## The Uncomfortable Part
 
-The practical upshot is not that you should log more time. It is that time spent in the comfortable middle of your ability does very little, and most people spend nearly all of their time there because it feels productive and the alternative feels like failing.
+The practical upshot is not that you should log more time. It is that time spent
+in the comfortable middle of your ability does very little, and most people
+spend nearly all of their time there because it feels productive and the
+alternative feels like failing.
 
-Some of what makes practice work is now reasonably well understood outside the elite-performance literature. Spacing sessions out beats massing them, even though massed practice produces better performance during the session and therefore feels more effective. Interleaving different problem types is worse in the short run and better in the long run than blocking them. Testing yourself beats rereading by a wide margin. Robert Bjork's phrase for this family of effects — desirable difficulties — captures the perversity: the conditions that make learning feel slow are the conditions that make it stick, and our sense of how well we are learning is calibrated to the wrong signal entirely.
+Some of what makes practice work is now reasonably well understood outside the
+elite-performance literature. Spacing sessions out beats massing them, even
+though massed practice produces better performance during the session and
+therefore feels more effective. Interleaving different problem types is worse in
+the short run and better in the long run than blocking them. Testing yourself
+beats rereading by a wide margin. Robert Bjork's phrase for this family of
+effects — desirable difficulties — captures the perversity: the conditions that
+make learning feel slow are the conditions that make it stick, and our sense of
+how well we are learning is calibrated to the wrong signal entirely.
 
-Which suggests why so few people practice deliberately without a teacher. You need a model of what correct sounds or looks like, an ability to detect the gap between that and what you produced, and the willingness to spend your morning on the thirty seconds you are worst at instead of the ten minutes you are best at. A coach supplies the first two and enforces the third. Left to ourselves, we play the passage we like.
+Which suggests why so few people practice deliberately without a teacher. You
+need a model of what correct sounds or looks like, an ability to detect the gap
+between that and what you produced, and the willingness to spend your morning on
+the thirty seconds you are worst at instead of the ten minutes you are best at.
+A coach supplies the first two and enforces the third. Left to ourselves, we
+play the passage we like.
