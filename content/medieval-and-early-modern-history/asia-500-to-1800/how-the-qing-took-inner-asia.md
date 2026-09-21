@@ -98,6 +98,19 @@ was marched across the continent to garrison the Ili and is still there. Two
 years later the Qing took the oasis cities of the Tarim Basin as well, and the
 combined territory was named Xinjiang, the new dominion.
 
+Qianlong advertised the result as the Ten Great Campaigns, a tally carved onto
+stelae and celebrated in commissioned battle prints engraved, at his request, in
+Paris. The list flatters. Alongside the Zunghar and Tarim conquests it counts an
+invasion of Burma that lost more men to malaria than to the enemy and ended in a
+face-saving agreement, an intervention in Vietnam that installed a client and
+then watched him swept out within weeks, and two wars against small hill
+chiefdoms in western Sichuan whose stone tower fortresses absorbed years of
+siege and a quantity of silver that would have paid for a steppe campaign
+several times over. The empire's reach had limits, and they showed up wherever
+the terrain was wet, forested, or vertical — precisely the conditions under
+which the Qing logistical machine, built for dry grassland and long sightlines,
+did not work.
+
 ## One Emperor, Several Thrones
 
 The Qing did not govern this empire as an extension of China, and that is the
