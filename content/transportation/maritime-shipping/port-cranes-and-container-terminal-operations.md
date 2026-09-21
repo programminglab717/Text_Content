@@ -1,0 +1,47 @@
+# Port Cranes and Container Terminal Operations
+
+New ship-to-shore cranes arrive at a port fully assembled, standing upright on the deck of a heavy-lift ship, booms folded back like the forelegs of something enormous and patient. Getting them home is its own small engineering problem: where a bridge crosses the harbour approach, the carrier is ballasted down until the structure clears the span by a few metres, and the whole apparatus slides underneath at dead slow with tugs alongside. Then the ship is deballasted, the crane is skidded ashore onto its rails, and it joins the row along the quay that most people, looking at a port from a distance, take to be the port itself.
+
+A container terminal is really three machines working in sequence — the quay, the yard, and the gate — and the crane is only the most visible of them. A crane starved by either of the other two is an expensive object standing still.
+
+## Anatomy of a Ship-to-Shore Crane
+
+The crane rides on rails set into the quay, typically about thirty metres apart, on bogies that spread wheel loads heavy enough to require the quay wall to be designed around them. Between the legs runs a portal tall enough for trucks and often a rail track to pass underneath. Above, a boom projects out over the water, long enough to reach across every row of containers on the widest ship the terminal expects to serve — for the largest vessels, something like seventy metres of reach — and hinged so it can be raised to vertical to let a ship sail. Behind the legs is the back reach, where hatch covers get parked.
+
+The trolley runs out along the boom on its own rails, and hanging beneath it on wire ropes is the spreader: a steel frame that telescopes between twenty, forty and forty-five foot lengths and carries a twistlock at each corner. The twistlocks drop into the cast steel corner fittings of the container, rotate a quarter turn, and lock. Hinged flippers hanging from the spreader's corners funnel it onto the box when the alignment is approximate, which it always is. Many cranes can lift two twenty-foot boxes at once, and the largest do tandem lifts of two forties side by side.
+
+Everything else is about controlling a load swinging on sixty metres of rope. The ropes are reeved in a geometry that resists sway rather than encouraging it, and the drive system actively damps what remains by accelerating and decelerating the trolley against the pendulum's motion. The operator sits in a cab that travels with the trolley, looking through a glass floor at a container a hundred feet below, and the work is intense enough that crane drivers usually rotate off after a couple of hours.
+
+## The Two Minutes of a Move
+
+A single move — hoist, trolley in, lower onto a truck, release, hoist back, trolley out, lower onto the ship, land and lock — takes a good operator somewhere around two minutes. That number is the heartbeat of the whole terminal, and twenty-five to thirty-five moves an hour per crane is respectable performance.
+
+It is never uninterrupted. Hatch covers have to come off before anything can be discharged from the hold beneath them, and go back on before anything can be stowed on top. Lashing gangs work on deck under the crane, knocking off the twistlocks between tiers and releasing the lashing rods and turnbuckles that tie deck stacks down to the lashing bridges, and the crane cannot take a box until they have reached it. Below deck there are no lashings at all: vertical cell guides run the full depth of the hold, and a container dropped into them cannot move sideways, which is why boxes in the hold ride so much better than those on deck.
+
+Four to eight cranes work a large ship at once, spaced apart because two cranes cannot occupy the same bay, and a very large call may run to several thousand individual moves. That is how a ship comes to spend a day or two alongside — not because anything is slow, but because the number of boxes is simply very large.
+
+## Bay, Row, Tier
+
+Every slot aboard a container ship has an address, and the whole operation runs on it. Bays are numbered from the bow aft, odd numbers for twenty-foot positions and even numbers for the forty-foot position that spans two of them. Rows are numbered outward from the centreline, even to port and odd to starboard. Tiers count upward, one series inside the hold and another starting higher for the deck stacks. Six digits therefore specify a unique steel box on a ship carrying twenty thousand of them, and the entire stowage plan is a list of those addresses.
+
+Building that plan is a genuinely hard scheduling problem. Boxes for the next port must sit above boxes for ports further along the rotation, or they will have to be dug out and restowed. Weight must be distributed to keep the ship upright, correctly trimmed, and within the bending and shear limits of its hull girder, which generally means heavy boxes low and light boxes high — the opposite of what discharge order often wants. Refrigerated containers must land where there are power sockets and where someone can reach them to plug in and monitor. Dangerous goods have segregation rules that keep incompatible classes apart and away from accommodation. Every container's verified gross mass has to be declared before loading, a requirement introduced after too many ships sailed with cargo substantially heavier than the paperwork claimed.
+
+## The Yard and Its Machines
+
+Behind the cranes lies the stacking yard, a paved plain organised into blocks. The choice of what works that yard defines the terminal's whole personality. Rubber-tyred gantries straddle a block six or seven containers wide and four or five high, roll along it on tyres, and hand boxes to trucks in a lane beside the stack. Rail-mounted gantries do the same job taller, heavier and on fixed tracks, which makes them the natural choice for automation. Straddle carriers take the opposite approach: tall, spindly machines that pick up a container between their own legs, carry it across the terminal themselves, and stack it two or three high, needing no separate trucks at all. Reach stackers and big forklifts handle the empty and the awkward at the back of the yard, and terminal tractors tow low roll trailers between quay and stack.
+
+What all of them spend their time fighting is the rehandle. A container buried under three others cannot be retrieved without moving those three, and every such dig is time the yard crane spends producing nothing. So boxes are grouped on arrival by the ship they will leave on, by discharge port, and by weight band, and yards do housekeeping work in quiet hours, pre-sorting stacks into the order tomorrow's vessel will want. Stack high and you use less land but dig more; stack low and you need more of the most expensive thing a port has, which is flat ground near deep water.
+
+## The Gate and the Landside
+
+Every box also has to arrive and leave by road or rail, and the gate is where a terminal meets the outside world at its least controllable. Trucks pass through portals bristling with cameras that read container numbers and photograph all six sides for damage, cross a weighbridge, and get directed to a yard position by a screen or a radio. Terminals that do nothing else about demand will find every haulier in the region arriving between nine and eleven in the morning, so most now run appointment systems that spread arrivals across the day and refuse entry to trucks without a slot.
+
+On-dock rail is the other half. A block train loaded directly at the terminal by rail-mounted gantries removes hundreds of truck trips from local roads in one operation, and in North America the same train may be loaded two containers high. Whether a terminal has rail on the dock or has to drag boxes across town to a rail yard is one of the larger differences between terminals that look identical from the water.
+
+## Automation and Its Limits
+
+The yard automated first, and thoroughly. Automated stacking cranes running unattended in fenced blocks, and driverless vehicles shuttling boxes across the terminal on prescribed paths, have been in commercial service for decades now in Rotterdam, Hamburg and a growing list of others. The work is repetitive, the geometry is known, and the machines can run through the night without lighting the yard.
+
+The quay crane has proved far more stubborn, for a reason that has nothing to do with software. The ship moves. It rises and falls with the tide, lists as cargo comes off one side, changes trim as weight shifts, and rolls a little with passing wakes. The boxes aboard are not exactly where the stowage plan says, because lashings stretch and corner castings have tolerances. A human operator absorbs all of that without noticing. So the common compromise is semi-automation: the machine handles the hoist and the landside leg of the cycle, while a remote operator sitting at a desk in a building somewhere takes over for the final approach to the ship, watching through cameras, and often supervising several cranes in rotation.
+
+Both halves stop for weather regardless. Above roughly gale force, lifting a container two hundred feet up becomes a sail nobody can control, and operations are suspended. If real wind is forecast, the cranes are driven apart along the quay, their booms raised, their rail clamps set, and their tie-down pins dropped into sockets cast into the concrete for exactly that purpose.
