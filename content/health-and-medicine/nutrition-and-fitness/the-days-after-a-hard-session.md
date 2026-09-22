@@ -63,6 +63,25 @@ distribution across meals — the commonly cited target for people training
 seriously sits somewhere around one and a half to two grams per kilogram of body
 weight daily, above which the returns flatten out.
 
+Force production itself comes back in two overlapping phases. Part of the
+immediate loss is central: the nervous system's drive to the muscle is reduced,
+and voluntary activation measured by stimulating the nerve directly falls short
+of what the fibres could actually deliver. That component usually returns within
+hours. The peripheral part — the muscle's own diminished ability to generate
+force after its structures have been disrupted — can take days, and after a
+genuinely unaccustomed bout of eccentric work, more than a week. A lifter who
+feels perfectly well but cannot reach their usual numbers on the third day is
+not imagining it.
+
+Underneath all of this sits total energy intake. Athletes who chronically eat
+less than their training demands — sometimes deliberately, often simply because
+appetite lags behind a jump in volume — show a recognisable pattern that sports
+medicine groups under the heading of relative energy deficiency in sport: bone
+density falling, menstrual cycles becoming irregular or stopping, thyroid and
+sex hormone output dropping away, immunity and mood suffering, and,
+self-defeatingly, performance sliding. No amount of sleep or cold water
+addresses it. The body is rationing, and the only remedy is to stop making it.
+
 ## Soreness, and the Protection It Buys
 
 Under a microscope, a muscle biopsy taken after unaccustomed eccentric work
@@ -135,6 +154,13 @@ irritability, a resting heart rate drifting up, enthusiasm draining out of
 sessions that used to be enjoyable, small niggles that do not settle. Heart rate
 variability tracked over weeks can help, though day-to-day readings are noisy
 enough to mislead anyone who takes a single number seriously.
+
+It also helps to remember that the body keeps a single ledger. Work following
+people through examination periods and high-pressure stretches at their jobs has
+found that strength recovers more slowly after damaging exercise when
+psychological stress is high, and that an identical training load is rated as
+harder. A programme that fits comfortably into a calm month can be too much in a
+chaotic one without a single session having changed.
 
 Connective tissue deserves its own mention here, because it adapts on a slower
 clock than muscle. Tendon and bone remodel over months, not days, while the

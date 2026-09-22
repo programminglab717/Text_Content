@@ -36,6 +36,27 @@ existence of such a document tells you that by the twelfth century the route was
 a mature institution with a literature, an expectation of fixed stages, and a
 readership travelling far enough from home to need advice.
 
+It is worth being precise about the shape of such a system. There is no single
+Camino; there is a braided network that narrows as it approaches the shrine.
+Pilgrims set out from their own front doors across France, the Low Countries and
+Germany, converging on a handful of trunk routes that crossed the Pyrenees and
+merged into the main road through Navarre, Castile and Leon. Secondary lines ran
+along the northern coast, up from Portugal, and north from Seville through the
+Roman silver road. The branching matters, because it explains why the
+infrastructure is so unevenly distributed: the closer to Santiago, the denser
+the bridges, hospices and market towns, and the further out, the more a pilgrim
+was simply travelling on ordinary roads among ordinary traffic.
+
+There was money in all of this, and nobody at the time pretended otherwise.
+Shrines competed for relics because relics drew crowds and crowds left offerings.
+Pilgrim badges — cheap lead-alloy tokens, cast in moulds, each shrine with its
+own design — were sold in such quantity that they turn up by the thousand in
+European river mud today, and they functioned simultaneously as souvenir, proof
+of attendance and protective charm. Where a route passed, land values, toll
+income and market rights followed, which gave lords and abbeys a direct financial
+reason to keep a bridge in repair, chase off robbers, or argue that the true road
+ran past their own gate rather than a rival's.
+
 Other traditions produced their own versions. An English archbishop named
 Sigeric, returning from Rome in the late tenth century, left a list of the
 places where he stopped on the way home, and that list has been used ever since
@@ -88,6 +109,20 @@ structure at the Jamarat where the stoning ritual takes place — rebuilt after
 repeated crushes precisely because the physics of dense crowds moving in
 opposite directions had proved lethal. Ritual obligation sets the schedule, and
 engineering has to accommodate it rather than the other way round.
+
+Underneath the institutions is a physical unit that has barely changed: the
+day's stage. A loaded walker covers something in the region of twenty to thirty
+kilometres in a day before feet and shoulders begin dictating terms, and the
+spacing of villages along the old routes reflects exactly that. Stage lists from
+the medieval guides and the stage lists in modern guidebooks land in
+surprisingly similar places, because both are solving the same problem with the
+same machinery. The body is the vehicle, and its maintenance is most of the
+practical conversation on any of these roads — blisters, tendons, the weight of
+the pack, the discovery around day four that almost a third of what was packed
+is unnecessary. Pilgrimage traditions that insist on hardship, such as walking
+barefoot or performing a circuit in repeated full-body prostrations, are working
+with the same fact from the other direction: the difficulty is not an obstacle
+to the practice, it is the practice.
 
 ## Why Old Routes Came Back
 
