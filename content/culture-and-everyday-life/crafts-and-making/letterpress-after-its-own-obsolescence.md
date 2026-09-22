@@ -2,12 +2,12 @@
 
 The presses that survived did so because they were too heavy to throw away. A
 Chandler & Price platen weighs the better part of a ton, and when a job shop
-folded in 1968 the cheapest thing to do with it was leave it in the basement for
-the next tenant. That is how a significant fraction of the world's working
+folded in the 1960s the cheapest thing to do with it was leave it in the
+basement for the next tenant. That is how a significant fraction of the world's working
 letterpress equipment ended up in art school annexes and garages: not preserved,
-just not worth the crane. Thirty years later people started coming to look for
-it, and by the early 2000s a press that had been free for the hauling was worth
-several thousand dollars.
+just not worth the crane. A generation later people started coming to look for
+it, and a press that had once been free for the hauling had become something
+you bid on.
 
 It is worth being precise about what was abandoned, because the revival has
 altered the story. Letterpress is relief printing: the image stands up from the

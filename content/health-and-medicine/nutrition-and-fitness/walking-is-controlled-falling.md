@@ -43,6 +43,17 @@ on push-off. Two completely different mechanical strategies, with a discontinuit
 between them, which is why the change from walking to running feels like
 switching gear rather than speeding up.
 
+The arms are part of the mechanism, not decoration. As one leg swings forward
+it carries angular momentum about the vertical axis of the body, which would set
+the torso twisting if nothing opposed it. The opposite arm swings forward at the
+same time and cancels most of it. Hold your arms still and walk, and you will
+feel the trunk begin to rotate and the effort go up; measurements confirm the
+cost of walking rises when arm swing is restricted, and rises further if the
+arms are made to swing in phase with the legs instead of against them. The swing
+itself is largely passive, driven by the motion of the shoulders rather than by
+deliberate muscular effort, which makes it another piece of the gait that the
+body gets almost for free.
+
 The losses in walking are concentrated at the transitions. Every time the
 leading foot lands, the body's velocity has to be redirected from falling
 forward-and-down to rising forward-and-up, and that redirection costs energy.

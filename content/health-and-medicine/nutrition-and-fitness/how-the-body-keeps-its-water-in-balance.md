@@ -67,6 +67,24 @@ the body learns to spend water without spending as much salt with it. Anyone who
 has moved from a temperate climate to a hot one in summer has felt the first week
 and the third week and knows they are not the same week.
 
+Cooling is not free, and its cost is paid in circulation. To dump heat, blood has
+to be routed to the skin, where it can give up warmth to the air and supply the
+sweat glands. During hard work in the heat, the skin and the working muscles are
+therefore bidding for the same cardiac output, and there is not enough of it to
+satisfy both.
+
+Losing fluid tightens that squeeze from the other side. Sweat is drawn
+disproportionately from plasma, so as the deficit grows, blood volume falls, less
+blood returns to the heart between beats, and stroke volume drops. Heart rate
+climbs to compensate, which is why a pace that felt comfortable in the first hour
+of a hot afternoon requires a visibly higher pulse in the third. Past a certain
+point the compensation runs out and the body has to concede something: either it
+restricts skin blood flow and lets core temperature climb, or it restricts muscle
+blood flow and the work rate falls. In practice it does some of both. This is the
+mechanism behind the familiar observation that heat and fluid loss are worse
+together than either is alone — they are not two separate stresses but two ends of
+the same competition for a limited pump.
+
 ## The Ledger
 
 Water leaves by four routes. Urine is the largest and the only one that is
