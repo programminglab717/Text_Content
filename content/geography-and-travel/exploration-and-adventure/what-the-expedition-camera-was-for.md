@@ -63,6 +63,22 @@ partly for their extraordinary detail and partly because he recorded his
 viewpoints precisely enough that the same ice can be found and rephotographed a
 century later.
 
+Getting those pictures in front of an audience was a separate problem, and for
+most of the nineteenth century the audience never saw a photograph at all. Until
+halftone printing matured in the 1880s and 1890s, a photograph could not be
+printed on the same press as type. It had to be copied by hand onto a wood block
+by an engraver, who made decisions about contrast, detail, and occasionally
+content along the way. The caption "from a photograph" in an illustrated weekly
+signals a chain of custody, not a direct reproduction, and comparing surviving
+negatives against the published engravings shows figures added for scale,
+weather improved, and horizons tidied. The alternative was the magic lantern:
+glass slides projected to a paying hall, sometimes hand-colored, with the
+explorer narrating beside the screen. Lecture tours of that kind were the
+financial engine of a great many expeditions, and they rewarded the dramatic
+image over the informative one, which shaped what photographers on the next
+expedition went looking for.
+
+
 ## Cold, Static, and the Physics of Failure
 
 Polar photography is a catalogue of ways that equipment stops working. Film
