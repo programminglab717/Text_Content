@@ -8,6 +8,14 @@ package. Fat yields something close to nine kilocalories per gram when it burns.
 Carbohydrate and protein each yield about four. Alcohol, which is not a nutrient
 in any structural sense, yields about seven.
 
+Even those figures are adjustments rather than raw measurements. A bomb
+calorimeter burns protein completely, nitrogen and all, and reports something
+closer to five and a half kilocalories per gram. A body cannot burn nitrogen. It
+strips it off and excretes it as urea, and the urea carries chemical energy out
+of the body with it. Subtract that loss, subtract the fraction that is never
+absorbed in the first place, and four is what remains. The number is not a
+property of protein. It is a property of protein passing through a human.
+
 Those figures are real, and they are also the least interesting thing about
 food. A bomb calorimeter reduces everything to heat, which is precisely what a
 body refuses to do. The body takes the same three classes of molecule and sends
@@ -110,6 +118,32 @@ because free ammonia is toxic — particularly to the brain. The liver runs the
 urea cycle, which packages two nitrogen atoms into a urea molecule that the
 kidney can excrete in water. This is an obligatory cost: metabolizing protein
 generates a nitrogen disposal problem that fat and carbohydrate simply do not.
+
+## Which Fuel, and When
+
+At any given moment the body is burning a mixture, and the composition of that
+mixture is under hormonal control rather than left to chance. After a meal
+containing carbohydrate, blood glucose rises, the pancreas releases insulin, and
+insulin does several things at once: it opens glucose transporters in muscle and
+fat, it tells the liver to build glycogen instead of exporting glucose, and it
+shuts down the release of fatty acids from adipose tissue almost completely.
+Fuel selection follows. With fatty acids unavailable, tissues burn the glucose
+that is abundant.
+
+Hours later, with the meal absorbed and glucose falling, insulin subsides and
+glucagon rises. The liver reverses direction, unspooling glycogen and then
+running gluconeogenesis; adipose tissue starts releasing fatty acids again; and
+muscle, which is perfectly happy oxidizing fat, quietly switches over, leaving
+the remaining glucose for the tissues that have no alternative. The switch is
+not a metaphor. It can be watched in real time by measuring the ratio of carbon
+dioxide exhaled to oxygen consumed, because burning carbohydrate and burning fat
+consume oxygen in different proportions. That ratio drifts down through a fast
+and jumps up after a meal.
+
+Protein sits slightly outside this cycle. It is oxidized continuously at a low
+rate whatever else is happening, and the proportion of total energy it supplies
+stays relatively stable — rising when protein intake is high, and rising again,
+unhappily, when everything else has run out.
 
 ## The One-Way Arrows
 
