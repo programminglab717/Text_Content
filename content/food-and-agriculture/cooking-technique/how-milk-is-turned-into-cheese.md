@@ -56,6 +56,8 @@ rennet-set ones for exactly this reason. They have lost their calcium
 scaffolding, which is also why they crumble rather than stretch, and why they
 do not melt the way a young rennet cheese does.
 
+## Rennet, Thistles, and Microbes
+
 Nearly every traditional cheese uses both mechanisms, in some ratio. Rennet
 came from the fourth stomach of an unweaned calf, kid, or lamb, and for
 centuries was made by drying and salting a piece of stomach lining and
