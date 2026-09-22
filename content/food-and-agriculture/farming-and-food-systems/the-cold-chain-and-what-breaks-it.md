@@ -91,14 +91,13 @@ ethylene from the air, and apples are widely treated with a compound that binds
 the fruit's own ethylene receptors and simply blocks the signal from being heard.
 
 Cold has its own failure mode, which surprises people. Crops of tropical and
-subtropical origin are injured by temperatures well above freezing. Bananas held
-below about thirteen degrees develop dull, grayish skin and never ripen properly.
-Cucumbers pit. Mangoes and papayas fail to color. Tomatoes kept in a domestic
-refrigerator lose the volatile compounds that make them smell like tomatoes, and
-the loss is not reversible on the counter; the texture goes mealy as well. The
-damage often does not appear until the product is warmed again, which is an
-awkward property, because the symptom shows up at the retailer and the cause was
-three steps back.
+subtropical origin are injured by temperatures well above freezing. Bananas
+held below about thirteen degrees develop dull, grayish skin and never ripen
+properly. Cucumbers pit. Mangoes and papayas fail to color. Tomatoes kept in a
+domestic refrigerator lose the volatile compounds that make them smell like
+tomatoes, and the loss is not reversible on the counter; the texture goes mealy
+as well. The damage often does not appear until the product is warmed again, so
+the symptom shows up at the retailer while the cause was three steps back.
 
 ## Holding an Apple for a Year
 
@@ -110,16 +109,15 @@ just above the fruit's freezing point. Respiration nearly stops. Ethylene
 production nearly stops. Softening nearly stops. Apples picked in autumn come out
 the following summer firm enough to sell.
 
-Running such a room requires equipment to maintain the balance — nitrogen
-generators to displace oxygen, scrubbers to strip carbon dioxide that would
-otherwise accumulate to injurious levels, and gas analyzers monitoring
-continuously. The limits are biological: below a certain oxygen concentration the
-fruit switches to fermentation and produces alcohol and off-flavors, and the
-threshold differs by variety, orchard, and season. Newer systems find that
-boundary dynamically, watching the fruit's own stress signals and easing the
-oxygen down to just above the point where the crop objects. The room is opened
-once, months later, and is otherwise a sealed black box that nobody enters
-without breathing apparatus.
+Running such a room requires nitrogen generators to displace oxygen, scrubbers
+to strip carbon dioxide before it accumulates to injurious levels, and gas
+analyzers monitoring continuously. The limits are biological: below a certain
+oxygen concentration the fruit switches to fermentation and produces alcohol
+and off-flavors, and the threshold differs by variety, orchard, and season.
+Newer systems find that boundary dynamically, watching the fruit's own stress
+signals and easing the oxygen down to just above the point where the crop
+objects. The room is opened once, months later, and is otherwise a sealed black
+box that nobody enters without breathing apparatus.
 
 ## The Dry Side: Grain and Tubers
 
