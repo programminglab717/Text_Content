@@ -95,10 +95,12 @@ muscle, which is why sore muscles hurt most when stretched or pressed.
 The most interesting feature of all this is how quickly the body learns. Do a
 bout of unfamiliar eccentric work and you will be wrecked. Do the identical bout
 a week later and the damage, the soreness and the strength loss are all markedly
-reduced, and the protection lasts for weeks to months. This repeated bout effect
-is why soreness is a poor measure of how useful a session was. A novice doing
-their first set of lunges will be sorer than a trained athlete completing a
-session that produced far more adaptation.
+reduced, and the protection from this repeated bout effect lasts for weeks to
+months. The practical consequence is awkward: recovery demand is highest at
+precisely the moment training is least productive — the opening sessions of a
+new block, the first week back after a layoff, the afternoon someone tries a
+sport they have never tried before. The novelty is doing most of the damage and
+very little of the work.
 
 ## Sleep Does More Than Anything Sold in a Tub
 
@@ -162,11 +164,22 @@ psychological stress is high, and that an identical training load is rated as
 harder. A programme that fits comfortably into a calm month can be too much in a
 chaotic one without a single session having changed.
 
-Connective tissue deserves its own mention here, because it adapts on a slower
-clock than muscle. Tendon and bone remodel over months, not days, while the
-muscles pulling on them can gain strength considerably faster. That mismatch is
-the mechanism behind a large share of overuse injuries in people who are, by
-every other measure, getting fitter. The old coaching rule about increasing
-running volume by no more than a tenth a week is not well supported as a precise
-number, but the instinct underneath it — that the slowest-adapting tissue sets
-the pace — is sound.
+Recovery capacity is not a fixed quantity, either between people or across a
+life. Training age matters a great deal: an experienced athlete absorbs and
+repays a workload that would flatten a beginner, partly through accumulated
+protective adaptation and partly through larger fuel stores and better-developed
+supporting tissue. Older athletes do generally restore force more slowly after
+damaging work, though the gap narrows considerably once training history is
+accounted for rather than age alone. And the variation within a single person
+across a month — a bad night, a long flight, a family argument, the tail end of
+a cold — is frequently larger than the average difference between two people.
+
+This is why the planned reduction has become standard practice rather than an
+admission of weakness. A deload week, a taper before a competition, a lighter
+block following a heavy one: each is a deliberate lengthening of the gap,
+allowing the accumulated repair to finish while the accumulated fatigue drains
+off. Tapers work at all because fatigue dissipates faster than fitness does. Cut
+volume sharply for a week or two while keeping some intensity in the programme
+and the tiredness leaves while most of the adaptation stays behind. It is the
+reason the best performance of a season so often follows the period of least
+training, and the reason athletes find that fact so difficult to trust.
