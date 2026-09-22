@@ -77,6 +77,20 @@ compromise most long-distance travellers reach is an older, ubiquitous
 four-wheel-drive, carrying two spare wheels, spare belts, filters, hoses, fluids
 and a serviceable jack, driven slowly.
 
+Self-sufficiency is measured in range rather than in gear. The two numbers that
+shape a route are how far the vehicle will go between fuel stops and how long
+its occupants can go between water sources, and long-range tanks and jerry cans
+exist to stretch the first while a filter and a decent tank stretch the second.
+Remote stretches of Africa, Central Asia and Australia have fuel gaps measured
+in hundreds of kilometres, sometimes with a pump that turns out to be dry, and
+prudent drivers buy fuel when it is available rather than when it is needed.
+Where you sleep follows from the same logic: a rooftop tent gets you off the
+ground and out of the mud in ten minutes but makes a night move awkward, while a
+ground tent is cheaper and quieter and requires somewhere flat. The universal
+etiquette of wild camping is to ask. In most rural places all land belongs to
+somebody, permission is given readily when sought, and the difference between a
+guest and a trespasser is a conversation lasting two minutes.
+
 Because that is the other half of it. Overlanders talk about daily distance the
 way sailors talk about noon-to-noon runs, and the honest figure on rough roads
 is modest — a few hundred kilometres is a full day, and a border crossing
@@ -113,6 +127,19 @@ small definitional argument that overlanders enjoy having. Most settle on a rule
 that water is permitted where the land genuinely ends or where no legal crossing
 exists, and that flying over a country you could have driven through is the only
 real failure.
+
+Money on the road behaves differently from money at home. Large parts of a long
+overland route run through cash economies where a card is useless and the
+nearest working cash machine is a day away, so travellers carry a reserve of
+hard currency — clean, unmarked notes, since worn or defaced ones are refused
+outright in some countries — hidden in more than one place. Official and street
+exchange rates diverge in states with currency controls, which creates both an
+opportunity and a straightforward way to be robbed or arrested. Border fixers,
+unofficial fees and the slow negotiation over what is and is not a real charge
+are a permanent feature, and the accumulated advice from people who travel these
+roads is consistent: stay polite, stay patient, ask for a receipt, and treat
+every hour spent in an office as part of the journey rather than an interruption
+to it.
 
 ## Why Keep Doing It
 

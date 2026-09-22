@@ -110,6 +110,8 @@ could catch. The early export trade was not really beef. It was leather,
 tallow, and salted meat from the saladeros, because fresh beef could not
 cross an ocean.
 
+## Wire, Rail, and Refrigeration
+
 Three technologies changed that, and with it the whole social order of the
 plain. Barbed wire made it cheap to enclose land, which turned open range
 into private property and put the gaucho out of business as a free agent.
@@ -133,9 +135,9 @@ is being spent faster than it is being made.
 ## The Same Story, Told in Other Languages
 
 Set the world's grasslands side by side and the family resemblance is
-obvious. The North American prairie graded from tallgrass in the humid east,
-where big bluestem grew over a rider's head, through mixed grass, to the
-shortgrass of the rain shadow. The Eurasian steppe ran almost unbroken from
+obvious. The North American prairie graded from tallgrass in the humid
+east through mixed grass to shortgrass against the Rockies, a moisture
+gradient laid out across half a continent. The Eurasian steppe ran almost unbroken from
 the Hungarian puszta to Mongolia and Manchuria, and its combination of
 grass, horses, and mobility produced the mounted nomad confederations that
 repeatedly reshaped Eurasian history. The African savannas kept their trees
