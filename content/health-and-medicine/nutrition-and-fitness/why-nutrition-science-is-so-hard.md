@@ -131,6 +131,18 @@ conducted on volunteers willing to be locked in a building. They answer
 mechanistic questions beautifully and generalize to free-living life with real
 uncertainty.
 
+And whatever a trial finds, it finds on average. Responses to the same food
+differ substantially between people — in how much blood glucose rises after an
+identical meal, in how cholesterol moves on an identical change in fat intake,
+in how much weight is gained on an identical surplus. Some of that variation is
+genetic, some reflects gut microbial communities, some is unexplained. An
+average effect that combines strong responders with non-responders describes a
+person who may not exist, and it will look weak or inconsistent across studies
+whose participants happened to be sorted differently. Personalized nutrition is
+the attempt to get underneath that average, and it is at an early stage: showing
+that people differ is far easier than predicting in advance which kind of person
+someone is.
+
 ## The Wrong Unit
 
 There is also a conceptual problem inherited from the field's greatest success.

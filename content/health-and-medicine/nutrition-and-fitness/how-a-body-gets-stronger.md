@@ -66,6 +66,22 @@ threshold units into play. This is why quite different-looking programmes
 produce broadly similar growth, and why the total amount of hard work matters
 more than any one variable.
 
+All of this rests on a comparison the body is constantly making. Tissue adapts
+to loads that exceed what it has grown accustomed to, and as capacity rises the
+old load stops being exceptional. A stimulus that transformed someone in their
+first month is, six months later, simply what their Tuesday looks like. Hence
+progression, in load or repetitions or density of work — not as a motivational
+scheme but as the only way to keep the signal above the new baseline.
+
+It also explains why the returns shrink so sharply. A beginner is far from any
+biological ceiling and almost anything works. A lifter ten years in is
+operating near the limit of what their frame and physiology will support, and
+extracting another few per cent takes disproportionate effort, precision, and
+time. The consoling corollary is that holding ground costs far less than taking
+it. Maintaining strength and muscle mass requires a fraction of the volume that
+building them did, which is why an athlete can cut training substantially during
+a busy or injured stretch and lose much less than they feared.
+
 ## Why Size and Strength Are Not the Same Number
 
 They are correlated, obviously. Across a population, bigger muscles lift more.

@@ -129,6 +129,30 @@ rods is self-closing in a way that a rigid one is not. Fruit pickers in
 orchards still use rigid, light, ventilated baskets for the same reasons they
 always did.
 
+Before they were displaced, baskets were also units. A great deal of premodern
+commerce was measured in them rather than weighed, because a basket made to a
+customary pattern by a village of makers who all learned from each other held a
+reliably consistent volume, and volume was easier to check than weight in a
+field or on a quay. The bushel survives in English as an abstract measure, but
+it began as an object you could pick up. Fruit and fish and charcoal and hops
+all moved in named baskets whose dimensions were sometimes fixed by statute, and
+a maker working to those dimensions was producing something closer to a
+calibrated instrument than a container. That relationship ran the other way
+too: the shape of a regional basket usually encodes what it was for. A back
+creel is flattened on one face to sit against a spine. A winnowing tray has one
+open side and a shallow spring in the base so grain can be thrown and caught. A
+sieve's mesh is its entire specification.
+
+Repair is the other habit that vanished with them. A basket wears at
+predictable places — the rim, the outer curve of the base, the point where a
+handle enters the weave — and all three are repairable by someone with a few
+rods and an hour. Bases were often protected by a foot of thicker rods that
+could be replaced when they wore through, the way a shoe is resoled. Museums
+hold working baskets with three generations of repair in them, the colors of the
+different willows marking each intervention like growth rings. An object that
+can be mended in the kitchen it is used in belongs to a category of
+manufacturing that has largely stopped existing.
+
 Hold a good one up to a window and the structure is legible: the base worked
 outward from a cross, the stakes rising, the bands of waling marking the points
 where the maker stopped and reset the shape, the border binding the whole thing
