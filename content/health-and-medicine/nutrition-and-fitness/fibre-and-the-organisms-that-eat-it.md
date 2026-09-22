@@ -51,6 +51,18 @@ cooled, allowing the amylose chains to re-associate into a form the enzymes
 cannot grip. That last route is the reason cold cooked potato, day-old rice and
 stale bread behave slightly differently in the gut from their fresh equivalents.
 
+Regulators have had to draw a line through this mess, and the line is
+necessarily awkward. Both American and European rules define dietary fibre
+partly by chemistry and partly by whether a substance has a demonstrated
+physiological effect, which means the figure printed on a packet may include
+isolated compounds — inulin extracted from chicory root, polydextrose, resistant
+maltodextrin — stirred into a processed food precisely so that the fibre line
+reads higher. These additions are not frauds. Several are genuinely fermented
+and do real work in the colon. But a cereal bar carrying eight grams of chicory
+extract is not the nutritional equivalent of a bowl of lentils, which delivers
+its fibre inside a physical structure that also slows eating, demands chewing,
+and arrives accompanied by protein, minerals and polyphenols.
+
 ## A Fermenter Running at Body Temperature
 
 The colon is a slow anaerobic vat. It is crowded — the microbial cells living
@@ -120,6 +132,20 @@ plausible mechanism for a pattern that epidemiology has pointed at for decades:
 populations eating large amounts of unrefined plant material have less
 diverticular disease, less constipation, lower rates of colorectal cancer and
 better cardiometabolic markers than populations eating little.
+
+Not all of fibre's usefulness runs through the microbes. Some of it is plain
+physics. Fibre holds water, and stool that holds more water is softer, bulkier
+and easier to pass; the bacterial mass itself makes up a large share of that
+bulk, so a well-fed colony is part of the mechanism rather than a side effect of
+it. A larger, faster-moving stool dilutes whatever irritants and secondary bile
+acids are present and shortens the time they spend against the intestinal wall,
+which is one of the standing hypotheses for the association between fibre intake
+and colorectal cancer risk. Higher up the tract, viscous fibre slows the
+stomach's emptying and thickens the fluid layer through which glucose has to
+diffuse to reach the absorptive surface, flattening the rise in blood sugar
+after a meal. And food that still carries its fibre takes longer to eat. An
+apple and a glass of apple juice deliver comparable sugar; only one of them
+requires twenty chews and leaves you feeling that you have had something.
 
 Most people in wealthy countries eat well under the thirty grams a day that
 national guidelines tend to recommend — often around half of it. Closing that
