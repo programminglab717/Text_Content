@@ -114,6 +114,18 @@ fibres convert toward a more oxidative fast type, and the whole population
 becomes more resistant to fatigue. Wholesale conversion of fast fibres into slow
 ones is not something training reliably produces.
 
+This division between central and peripheral adaptation explains why endurance
+fitness transfers between sports only partly. The heart does not know what it is
+pumping blood to, so a large stroke volume built on a bicycle is equally
+available to a swimmer. The mitochondria and capillaries, however, are built in
+the specific fibres that did the work. A trained cyclist put on a treadmill
+finds that the central machinery arrives intact and the local machinery does
+not, and that the unfamiliar muscles fatigue and ache in a way their conditioning
+did not predict. It also explains an odd training result that turns up
+repeatedly: doing a portion of the work with a limited muscle mass, such as
+single-leg cycling, can drive peripheral adaptation harder than whole-body work,
+because the heart is not the thing being asked for more.
+
 ## Lactate Was Never the Villain
 
 For most of the twentieth century, lactate was taught as the waste product of

@@ -97,6 +97,16 @@ and glucagon-like peptide-1 as nutrients reach them, which happens later in a
 meal and later after it. GLP-1 slows the stomach further, amplifies insulin
 release when glucose is present, and acts on brain circuits that reduce intake.
 
+All of these converge first not on the hypothalamus but on the brainstem, in a
+structure called the nucleus of the solitary tract, where vagal traffic from the
+gut arrives and is integrated with taste information coming down from the
+tongue. The brainstem is sufficient on its own for the basic decision to stop a
+meal: animals in which it has been surgically isolated from the forebrain still
+terminate meals in response to gut signals, though they cannot regulate body
+weight over the longer run. The architecture is layered rather than
+hierarchical — a fast local circuit that ends meals, supervised by a slower
+forebrain system that adjusts how readily the fast circuit is satisfied.
+
 That last one has become the most consequential piece of appetite biology in
 practice. The current generation of weight-loss drugs are long-acting versions
 of GLP-1, engineered to resist the enzyme that ordinarily destroys the natural
@@ -152,6 +162,15 @@ the loss as a deficit to be corrected.
 Gain weight, and the countermeasures are far weaker. Leptin rises, the brain
 largely ignores it, and the new weight is defended almost as stubbornly as the
 old one was.
+
+Timing and sleep press on the same machinery from outside. Short or disrupted
+sleep shifts appetite hormones in the hungry direction and reliably increases
+intake the following day, with the extra eating concentrated in the evening.
+Appetite is also under circadian control: hunger has a daily rhythm that is not
+simply a function of hours since the last meal, and it tends to run lowest in
+the morning and highest in the late afternoon and evening even in people whose
+schedules have been held constant. Shift work disturbs both the rhythm and the
+sleep, which is part of why it is so consistently associated with weight gain.
 
 This asymmetry makes evolutionary sense in a world where food supply was the
 binding constraint, and it is the single most useful thing to understand about
