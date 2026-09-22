@@ -141,7 +141,8 @@ the islands' demography, languages, music and food all begin there. Haiti's
 revolution, the only slave uprising to found a state, ended in 1804 and was
 answered with an indemnity and a long diplomatic quarantine whose effects are
 still legible. After emancipation, planters recruited indentured labour from
-India, which is why Trinidad's population is roughly half Indo-Caribbean and why
+India, which is why Indo-Trinidadians are today one of that country's two largest
+communities and why
 its street food involves roti.
 
 The ecological legacy is as durable as the social one. Forests were cut, slopes
