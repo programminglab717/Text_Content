@@ -56,6 +56,20 @@ chernozem belt, the Manchurian plain, the Canadian prairie provinces — the
 world's bread and beef come from the places where trees could not get a
 foothold.
 
+The Pampas is a mild embarrassment to that tidy three-factor account, which
+is part of what makes it worth looking at closely. Its humid eastern
+portion receives enough rain to grow forest — comparable totals fall on
+wooded country elsewhere in the world — and yet the vegetation that
+Europeans found was grass almost to the edge of the gallery woodland along
+the Paraná. Explanations have been argued over for more than a century: the
+sheer flatness and poor drainage, which waterlogs roots; a hard calcium
+carbonate layer called tosca sitting a metre or so down and stopping deep
+rooting; the near-absence of a native tree flora suited to the conditions;
+regular burning, both natural and set; periodic drought and salinity. Most
+likely all of them contributed. The useful lesson is that biome boundaries
+are rarely drawn by rainfall alone, which is why the introduced eucalypts
+around the estancias grow perfectly well.
+
 ## The Argentine Case
 
 The Pampas proper runs across Buenos Aires province and into Córdoba, Santa
@@ -65,6 +79,17 @@ soy, and wheat; the drier Pampa to the west shades into scrub and was
 historically cattle country. Drainage is poor almost everywhere — the land
 is so flat that water ponds rather than running off, and large tracts flood
 in wet years and turn saline in dry ones.
+
+Its weather comes from two directions and neither is gentle. The pampero
+arrives from the southwest behind a cold front, dry and abrupt, stripping
+the humidity out of the air in an afternoon; the storms that build ahead of
+it are among the most violent anywhere, since the corridor between the
+Andes and the Atlantic assembles hail and enormous convective systems on a
+scale matched only by the North American plains. From the opposite quarter
+the sudestada pushes Atlantic air up the Río de la Plata, piling water into
+the estuary and flooding the low ground around Buenos Aires. Rainfall falls
+away steadily from northeast to southwest, and the agricultural map follows
+that gradient almost line for line.
 
 Its native fauna is a reminder that South America's megafauna was mostly
 wiped out at the end of the Pleistocene. Glyptodonts, giant ground sloths,

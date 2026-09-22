@@ -62,6 +62,19 @@ posture of a herd of impala all facing the same direction. Most big-cat
 sightings in African reserves begin as sound, not sight, and the skill being
 sold on a guided trip is largely this interpretive one.
 
+Hours matter as much as habitat. A great many mammals are crepuscular, active
+in the narrow bands around dawn and dusk, and a reserve that looks empty at
+eleven in the morning is a different place at six. Night work opens up a
+separate fauna entirely — genets, civets, bushbabies, nightjars, the whole
+rodent and owl economy — and has been transformed by cheap thermal imagers,
+which pick out a warm body through vegetation that no spotlight would penetrate.
+Marine trips run on their own clock: tides govern access to many reefs and
+estuaries, currents determine where pelagic species gather, and a liveaboard
+exists mainly because the sites worth diving are too far offshore to reach and
+return from in a day. Plankton blooms that feed whale sharks and manta rays are
+driven by upwelling and river discharge, which is why the same site can be
+thick with them one month and barren the next.
+
 The corollary is that self-guided wildlife travel demands homework that guided
 travel does not. Knowing what a species eats, at what hour it moves, what
 substrate it leaves tracks in, what it sounds like and what alarms at it turns a
@@ -99,6 +112,17 @@ a popular park is a familiar and dispiriting sight. Reputable operators ration
 time at sightings and keep distances that feel frustrating from inside the
 vehicle and look entirely reasonable from outside it. The reliable test is
 whether the animal changed what it was doing because you arrived.
+
+The hardest part of all this to arrange is the expectation. Wildlife is
+probabilistic, and a week is a small sample. Operators know that clients arrive
+with a list, and the pressure to deliver items on that list produces most of the
+bad behaviour in the industry — the speeding, the crowding, the off-road
+scrambling to reach a radioed sighting. A traveller who arrives wanting to watch
+whatever is there, rather than to tick a named species, gets a better trip and
+imposes a smaller cost, and tends to come home with the encounters that were
+never on any list: an hour with a troop of baboons sorting out a social dispute,
+a honeyguide leading somebody through scrub, a heron spending twenty patient
+minutes killing an eel.
 
 ## Who Pays for the Habitat
 
