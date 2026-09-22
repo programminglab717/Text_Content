@@ -149,20 +149,34 @@ Processing stock is held warmer, which means sprouting must be suppressed some
 other way, and if a load does get too cold it is reconditioned by warming it for
 a few weeks to let the tuber metabolize its sugars back.
 
-## Where the Chain Breaks
+## The Box That Does the Moving
 
-Roughly a third of what the world grows never gets eaten, and the failure is
-distributed differently depending on where you look. In wealthy countries most of
-the loss happens at the end — in retail and in households, food bought and
-thrown away. In much of the tropics the loss happens in the first days, and
-almost all of it comes from the absence of a beginning to the chain: no shade at
-the harvest point, no precooling, no cold room at the aggregation market, produce
-riding to town in an open truck at midday.
+Most of the distance in a modern cold chain is covered inside a refrigerated
+container: a standard shipping box with a compressor, condenser, and evaporator
+built into one end wall and a plug for the ship's or the terminal's power. Cold
+air is blown out under a grooved T-bar floor, runs the length of the container
+beneath the cargo, rises up through the vent holes in the pallets, and returns
+along the ceiling to the unit. That geometry is why stowage rules are strict. A
+load stacked above the marked line blocks the return path. A load with a channel
+down the middle lets the air short-circuit back without passing through anything.
+Either mistake produces a container that reads correctly at its sensor and is
+warm in the center of the cargo.
 
-The interventions that work there are unglamorous and cheap. A shaded collection
-point. Plastic crates instead of sacks, so the bottom layer is not crushed.
-Evaporative coolers built of brick and wet sand, which in dry heat drop the
-internal temperature enough to double a vegetable's life. Solar-powered cold rooms
-at village markets, rented by the crate. None of it requires inventing anything.
-It requires the same recognition Tudor's customers came to — that cold is a
-commodity worth moving, and that the expensive part was never the ice.
+The set point is not the whole story either. Chilled cargo is generally
+controlled on the supply air, because air leaving the evaporator is the coldest
+thing the load will encounter and you do not want it freezing the cartons nearest
+the front. Frozen cargo is controlled on the return air, since nothing in the box
+is at risk of chilling injury and the number that matters is the warmest air in
+it. Some containers manage composition as well, scrubbing carbon dioxide and
+injecting nitrogen so that avocados or bananas cross an ocean in roughly the
+conditions an apple store maintains, which is what makes multi-week sea freight of
+ripening fruit possible at all.
+
+Nearly every load now carries a recorder, and the download at the far end is
+where arguments get settled. A trace with a six-hour spike in the middle of the
+crossing points at the machine. A trace that starts high and never comes down
+points at the shipper, who loaded warm fruit into a box that was never going to
+cool it — because a refrigerated container, like a refrigerated room, is built to
+hold a temperature and not to pull one down. That work has to happen in the first
+hours after the crop leaves the ground, within sight of the field, or it does not
+happen at all.

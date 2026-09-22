@@ -131,7 +131,7 @@ gamble. Somewhere around year eight to twelve, a few candidates survive, one get
 a name, and seed multiplication begins — which itself takes several more seasons,
 because a handful of grams has to become tonnes.
 
-## Markers, Genomes, and the Gene Bank
+## Markers, Genomes, and Where New Variation Comes From
 
 Molecular markers changed the tempo more than the logic. If a resistance gene
 sits next to a detectable stretch of DNA, a breeder can test a seedling in a lab
@@ -148,12 +148,31 @@ of untested seedlings and predict which are worth planting. It is imprecise for
 any individual, but it lets a program cull early and cheaply, and the cycle
 shortens.
 
-None of it generates variation. That still comes from somewhere: from wild
-relatives collected in the field, from mutagenesis with chemicals or radiation
-that produced a number of varieties still in commerce, from transgenes, and now
-from targeted edits. And it comes from gene banks — the seed collections built by
-people like Nikolai Vavilov, who mapped the world's centers of crop diversity and
-died in a Soviet prison, and whose staff in besieged Leningrad guarded a store of
-edible seed while starving. Those collections are the raw stock. A breeder in
-twenty years will need something nobody is currently looking for, and the only
-way to have it is to have kept it.
+None of that generates new variation. It only sorts what already exists, and a
+program eventually exhausts the useful combinations inside its own elite pool.
+New variation has to come from outside it. Some of it was manufactured:
+mid-century programs exposed seed to X-rays, gamma sources, and mutagenic
+chemicals in the hope that something useful would turn up. Most of what emerged
+was junk, but a handful of survivors are still commercially important, including
+a red grapefruit line and a barley malting variety that brewers and distillers
+went on using for decades. Some comes from other species, moved across in wide
+crosses that need the immature embryo rescued onto a nutrient medium to produce
+a viable seedling at all, or carried in on chromosome segments — a piece of rye
+chromosome brought rust and mildew resistance into bread wheat and travelled
+into an enormous number of varieties worldwide. Some is transgenic. Some now
+comes from edits made at a chosen base pair.
+
+A great deal of it is borrowed back from farmers, out of landrace material that
+was never improved and behaves accordingly. This is the slow part, because an
+unimproved parent brings a dozen bad traits along with the one good one, and
+getting the useful allele out of a useless plant and into something a breeder can
+work with — pre-breeding, in the trade — can take as long as making the finished
+variety afterward.
+
+The reason anyone bothers is that the target keeps moving. Rust fungi evolve
+around a resistance gene on a timescale of a few years, so a wheat variety that
+was untouchable at release is frequently defeated before it is old, and the
+person who developed it has been working on its replacement since before it had a
+name. There is no finished version of a crop. There is only the next one, already
+in a nursery somewhere, being walked past by someone with a notebook and a
+bundle of bags.
