@@ -97,6 +97,19 @@ substances that account for most food allergy to be emphasised within the
 ingredient list itself, usually in bold, rather than buried in a separate
 sentence.
 
+Neither system developed in isolation. Codex Alimentarius, the joint food
+standards body established by the Food and Agriculture Organization and the
+World Health Organization in the early 1960s, publishes model labelling
+standards that carry no force of law and matter enormously anyway, because world
+trade rules treat conformity with an international standard as evidence that a
+national measure is not a disguised barrier to imports. A country wanting to
+demand something Codex has not endorsed should expect to defend it. That is part
+of why labelling regimes in very different economies rhyme so closely — the same
+convention of descending weight, the same insistence that a claim be
+substantiated, broadly the same list of allergens — and part of why the newer
+front-of-pack warning schemes, which no international standard yet covers, have
+drawn complaints from exporting countries.
+
 Both systems police claims, and here the European approach is the stricter. Under
 its rules a health claim must appear on an authorised register before it can be
 used, and the assessment that built that register removed a great many
@@ -140,6 +153,16 @@ them. Read the ingredient list as a ranking by weight, and notice when the same
 substance appears several times under different names — syrups, concentrates,
 malts and the many words ending in -ose can each sit below the threshold that
 would push one of them to the top of the list.
+
+The dates confuse people more reliably than the nutrition panel does, and they
+are worth separating. European rules distinguish a "use by" date, which concerns
+microbiological safety and after which a food should not be eaten, from a "best
+before" date, which concerns quality — texture, colour, flavour — and after
+which a food remains legal to sell and is usually perfectly edible. On the
+packet the two look almost identical, and most shoppers treat them identically.
+The resulting waste has been large enough that several major retailers have
+removed best-before dates from fresh produce altogether rather than keep
+throwing away sound food.
 
 And be aware that the numbers are rounded, sometimes generously. Rules in some
 jurisdictions permit a small amount per serving to be declared as zero, which is

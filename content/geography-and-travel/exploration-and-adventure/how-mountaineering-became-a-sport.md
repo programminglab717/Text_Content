@@ -35,6 +35,15 @@ of its kind anywhere, and it established a pattern that would repeat for a
 century: the sport's institutions sat in the cities, while its competence sat
 in the valleys.
 
+It is easy to underrate how much of this depended on plumbing and timetables.
+The Alps became climbable as a hobby because railways reached the valley
+towns, because hotels appeared in Zermatt and Grindelwald to house people who
+wanted to look at ice, and because a season could be fitted into a summer
+holiday. Chamonix had a tourist trade before it had a climbing one. The sport
+grew in the places where a visitor could arrive by train on Friday, hire a
+professional on Saturday and be on a glacier by Sunday, which is why the
+Bernese Oberland and the Valais filled up first and the remoter ranges waited.
+
 The guides deserve better than they usually get. Men like Michel Croz, Melchior
 Anderegg and Christian Almer were professionals with an empirical understanding
 of snow, ice and rockfall built from a lifetime in the same few valleys. Cutting
@@ -85,9 +94,8 @@ pitons, bolts, fixed ropes, supplementary oxygen and helicopters.
 Equipment, meanwhile, changed more in fifty years than in the previous
 thousand. Nailed boots gave way to rubber lug soles in the 1930s. Crampons had
 been redesigned earlier by Oscar Eckenstein into a ten-point frame that made
-step-cutting largely unnecessary on moderate ice; the addition of forward-
-pointing spikes in the 1930s meant a climber could walk up ice that had
-previously required hours of chopping. The ice axe shortened. After the war,
+step-cutting largely unnecessary on moderate ice; the addition of front points in the 1930s meant a climber could walk straight
+up ice that had previously required hours of chopping. The ice axe shortened. After the war,
 nylon replaced hemp rope, which mattered enormously, because a hemp rope holding
 a leader fall was a coin toss and everybody knew it.
 
@@ -111,6 +119,17 @@ Everest went in 1953 to a large British expedition, with Edmund Hillary and
 Tenzing Norgay on the summit and oxygen sets on their backs. K2 followed in
 1954.
 
+Those expeditions ran on labour that the accounts tend to compress into a
+single word. Porters carried loads to base camp; above it, high-altitude
+workers — predominantly Sherpas in Nepal, Balti porters in the Karakoram — did
+the load-ferrying between camps, the trail-breaking and much of the rope
+fixing, and took a share of the risk proportionate to the number of times they
+crossed the dangerous ground. Tenzing Norgay's summit in 1953 was the
+exception that made the pattern briefly visible. The structural imbalance
+persisted for decades and has only recently been renegotiated, as Nepali
+climbers moved into guiding and record-setting roles that the earlier
+arrangement had reserved for their clients.
+
 The interesting reversal came twenty years later. Reinhold Messner and Peter
 Habeler climbed Everest without supplementary oxygen in 1978, which a good
 deal of medical opinion had held to be impossible or fatal. Messner returned
@@ -120,6 +139,16 @@ overwhelmed rather than climbed — carried the sport back toward the lightweigh
 alpine style that had been standard in the Alps for a century. Small teams,
 no fixed ropes, everything carried, no line of retreat. It is far more
 dangerous and it is now the prestige form.
+
+One further frontier opened almost by accident. Through the 1980s a
+generation of Polish climbers, shut out of the expensive premier objectives by
+currency restrictions and late arrival, went after the eight-thousanders in
+winter instead — a season with less snowfall but brutal wind and cold, and a
+proposition most people had assumed was simply not survivable. They took
+most of the first winter ascents, and the practice they established remains
+among the hardest things anyone does in the mountains. The pattern is a
+recurring one in the sport: when the obvious prizes are taken, someone adds a
+constraint and starts again.
 
 ## Back to the Rock
 
